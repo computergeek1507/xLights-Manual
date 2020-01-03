@@ -13,7 +13,7 @@ It is useful to have separate show directories for each major event i.e. one for
 {% endhint %}
 
 {% hint style="success" %}
-Keep the folder name, containing the 'xlights\_rgbeffects.xml' file the same when creating a new show folder. Create the new folders in the lower level directory and xlights will automatic adjust file paths. As an example, use "2018/Christmas" then "2019/Christmas"  \(the last sub folder folder is the same\) instead of "Christmas/2018" and "Christmas/2019". 
+Keep the folder containing your xlights\_rgbeffects.xml file the same and create folders in directories at higher levels and xlights will automatic adjust file paths. As an example, use 2015/Christmas and 2016/Christmas \(the last sub folder folder is the same\) instead of Christmas/2015 and Christmas/2016.
 {% endhint %}
 
 {% hint style="danger" %}
