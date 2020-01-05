@@ -40,10 +40,6 @@ The Right Click on the Custom Menu grid gives options to Flip, Rotate, Compress,
 
 Click on the Horizontal Flip or Vertical Flip buttons to shift the nodes in the grid horizontally or vertically, which will also change the output of the Wiring View if selected.
 
-{% hint style="warning" %}
-There is no undo button on this screen. In place of this, click the Cancel button and none of the changes will be saved.
-{% endhint %}
-
 The following image is an example of a Singing Face custom model on a 50 by 50 grid.
 
 ![](https://lh5.googleusercontent.com/6KhYDPbFjYp8pdGQl0ZX3YekuAmzUJE1n9ghCs5hNn52vJiaegEeR79G9y45TUZ3p_o9htaibjzuRLlRMnpk8XpFZykjNy3X7X-KyvQ8XIqBhjfZRsSDs7y0Q0oC0CYjEbUSyqCW)
