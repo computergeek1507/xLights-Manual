@@ -2,11 +2,11 @@
 
 ## VU Meter
 
-![Icon](../../.gitbook/assets/image%20%28609%29.png)
+![Icon](../../.gitbook/assets/image%20%28613%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28591%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28595%29.png)
 
-![](../../.gitbook/assets/image%20%28412%29.png)
+![](../../.gitbook/assets/image%20%28414%29.png)
 
 The VU Meter effect displays a volume meter type of effects that responds to the sound level of an audio track. Each bar represents a note on the scale and the height of each bar represents the intensity.
 

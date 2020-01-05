@@ -10,11 +10,7 @@ Click on the Layout tab. You will be presented with the list of Model definition
 
 You can proceed without a picture of your house/yard and add this in later.
 
-Or you can select an image  from any location. Click on the Background Image prompt and browse to and select your image.
-
-The resolution of the image depends on the screen resolution and size of your display, but it is possible to adjust this to fit your display. Use an image approx 1000 \* 550 as a starting guide.
-
-Change the Width and Height attributes until you are happy with the image coverage. You can also adjust the Brightness value to ‘dim’ the light appearance.
+Or you can select an image from any location. Click on the Background Image prompt and browse to and select your image.
 
 Note that the image background, size and appearance does not drive any xLights functionality, but is more for the user to have a visual representation of where his or her models are and what they look like on the canvas.
 

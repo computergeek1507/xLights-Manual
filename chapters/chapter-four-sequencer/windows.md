@@ -4,9 +4,9 @@
 
 There are several windows that are used to select different properties, setting, or views when using the sequencer tab. 
 
-![](../../.gitbook/assets/image%20%28655%29.png)
+![](../../.gitbook/assets/image%20%28659%29.png)
 
-![](../../.gitbook/assets/image%20%28717%29.png)
+![](../../.gitbook/assets/image%20%28723%29.png)
 
 To select additional Windows, click on View/Windows and select the window to have displayed.  If the window is already open, selecting it will close the window.
 
@@ -21,7 +21,7 @@ You can save the windows that you normally have open as your default perspective
 
 Select the Dock All option to reset the Windows perspectives and dock all the windows to your current setup.
 
-![](../../.gitbook/assets/image%20%28593%29.png)
+![](../../.gitbook/assets/image%20%28597%29.png)
 
 This is sometimes required if you are using an xLights\_rgbeffects file that has been saved with a different default perspective e.g. two monitors and that set-up is not present in your current environment.
 

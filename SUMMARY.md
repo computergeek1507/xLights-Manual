@@ -11,7 +11,7 @@
 * [Quick Start Guide](chapters/chapter-two-quick-start-guide/README.md)
   * [Installation](chapters/chapter-two-quick-start-guide/installation.md)
   * [Defining a Show Directory](chapters/chapter-two-quick-start-guide/defining-the-show-directory.md)
-  * [Network definition](chapters/chapter-two-quick-start-guide/network-definition.md)
+  * [Lighting Networks](chapters/chapter-two-quick-start-guide/network-definition.md)
   * [Layout and Background Image definition](chapters/chapter-two-quick-start-guide/layout-and-background-image-definition.md)
   * [Model Definition](chapters/chapter-two-quick-start-guide/model-definition.md)
   * [Model Group Definition](chapters/chapter-two-quick-start-guide/model-group-definition.md)

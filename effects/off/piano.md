@@ -1,10 +1,10 @@
 # Piano
 
-![Icon](../../.gitbook/assets/image%20%28607%29.png)
+![Icon](../../.gitbook/assets/image%20%28611%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28536%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28539%29.png)
 
-![](../../.gitbook/assets/image%20%28286%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 
 The Piano effect displays a piano keyboard effects where the keys modulate based on the beat and frequency of the sequence audio.  In addition to generating the effect using xLights inbuilt capability to process sound waves , you can also use an externally created Polyphonic Transcription notes file or an external midi file.
 

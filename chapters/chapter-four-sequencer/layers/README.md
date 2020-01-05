@@ -2,7 +2,7 @@
 
 ## Layers
 
-![](../../../.gitbook/assets/image%20%28532%29.png)
+![](../../../.gitbook/assets/image%20%28535%29.png)
 
 Layering effects gives you the ability to create unlimited stunning effects that could not be created without layers.
 
@@ -16,7 +16,7 @@ Combining two spirals in opposing directions on a mega tree also can create stun
 
 To add layers to a model right click the model in the sequencer tab and choose Add Layer above or below \(the current layer\).
 
-![](../../../.gitbook/assets/image%20%28252%29.png)
+![](../../../.gitbook/assets/image%20%28254%29.png)
 
 Layers can also be added at the Strand level.
 
@@ -24,7 +24,7 @@ The Poly Line model defines each segment as a Strand and the layer functionality
 
 To add layers at the strand level, click on the Model name in the sequencer to display the Strand names. Then right click on the strand name and choose Add Layer above or below the selected strand.
 
-![](../../../.gitbook/assets/image%20%28644%29.png)
+![](../../../.gitbook/assets/image%20%28648%29.png)
 
 The strands blend onto the model level effects.
 

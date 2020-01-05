@@ -4,11 +4,11 @@
 
 Click on the New Sequence icon
 
-![](../../../.gitbook/assets/image%20%28244%29.png)
+![](../../../.gitbook/assets/image%20%28246%29.png)
 
 and from the following screen, select Musical Sequence.
 
-![](../../../.gitbook/assets/image%20%28241%29.png)
+![](../../../.gitbook/assets/image%20%28243%29.png)
 
 Select the media file for the audio.
 

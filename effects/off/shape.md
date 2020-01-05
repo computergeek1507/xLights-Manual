@@ -1,10 +1,10 @@
 # Shape
 
-![Icon](../../.gitbook/assets/image%20%2843%29.png)
+![Icon](../../.gitbook/assets/image%20%2844%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28610%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28614%29.png)
 
-![](../../.gitbook/assets/image%20%28454%29.png)
+![](../../.gitbook/assets/image%20%28456%29.png)
 
 The shape effect displays different geometric shapes. They are predefined sharps or System Font can be used.
 

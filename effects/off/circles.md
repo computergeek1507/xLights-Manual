@@ -1,10 +1,10 @@
 # Circles
 
-![Icon](../../.gitbook/assets/image%20%28338%29.png)
+![Icon](../../.gitbook/assets/image%20%28340%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28381%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28383%29.png)
 
-![](../../.gitbook/assets/image%20%28184%29.png)
+![](../../.gitbook/assets/image%20%28185%29.png)
 
 The Circles effect creates solid sphere like objects that move seemingly in random fashion on a model.
 
