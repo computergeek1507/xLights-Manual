@@ -1,10 +1,10 @@
 # Meteors
 
-![Icon](../../.gitbook/assets/image%20%28263%29.png)
+![Icon](../../.gitbook/assets/image%20%28271%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28345%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28354%29.png)
 
-![](../../.gitbook/assets/image%20%28294%29.png)
+![](../../.gitbook/assets/image%20%28303%29.png)
 
 The Meteors effect generates a number of meteor like streaks of color.
 

@@ -1,10 +1,10 @@
 # Off
 
-![Icon](../../.gitbook/assets/image%20%28491%29.png)
+![Icon](../../.gitbook/assets/image%20%28501%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28571%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28583%29.png)
 
-![](../../.gitbook/assets/image%20%28622%29.png)
+![](../../.gitbook/assets/image%20%28634%29.png)
 
 The Off effect simply turns every pixel off on the model/group that it is placed on.
 

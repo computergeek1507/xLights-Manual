@@ -4,15 +4,15 @@
 
 There are a number of windows that enable simultaneous display of different views in xLights.  When xLights first loads, a default set of windows are displayed. Which windows are open can be controlled via the Windows menu by selecting View, Windows and then clicking on the required window to open it.  The window is dropped by default on the left side of the screen, however each window can be moved and docked to alternate locations on the same screen or moved to an alternate display screen if connected to your PC/ MAC.
 
-![](../../../.gitbook/assets/image%20%28180%29.png)
+![](../../../.gitbook/assets/image%20%28185%29.png)
 
-![Window Toolbar](../../../.gitbook/assets/image%20%28326%29.png)
+![Window Toolbar](../../../.gitbook/assets/image%20%28335%29.png)
 
 ### ![](../../../.gitbook/assets/display-elements-icon.JPG) Display Elements
 
 The Display Elements window enables views, Timings as well as models to be defined and updated. Functionality for these functions is described in the Views, Timings and Models section of this document.
 
-![](../../../.gitbook/assets/image%20%28348%29.png)
+![](../../../.gitbook/assets/image%20%28357%29.png)
 
 {% page-ref page="../../chapter-four-sequencer/views.md" %}
 
@@ -20,19 +20,19 @@ The Display Elements window enables views, Timings as well as models to be defin
 
 The Model Preview window displays the effects on a model as the sequence is playing.  With the window open, right click on the model name when on the sequencer tab and select Play model.  It can also be opened/closed by clicking on the icon on the toolbar.
 
-![](../../../.gitbook/assets/image%20%28405%29.png)
+![](../../../.gitbook/assets/image%20%28414%29.png)
 
 ### ![](../../../.gitbook/assets/house-preview-icon.JPG) House Preview
 
 The House Preview window displays the effects of your entire display where the model or model group has been assigned to the currently selected Preview window. Refer to explanations of multiple Preview windows in the Layout section. It can also be opened/closed by clicking on the  icon on the toolbar.
 
-![](../../../.gitbook/assets/image%20%28448%29.png)
+![](../../../.gitbook/assets/image%20%28458%29.png)
 
 ### ![](../../../.gitbook/assets/effect-settings-icon.JPG) Effect Settings
 
 The Effect Settings window displays the current or last effect that is being worked with. If an effect on the grid is selected or a new effect dragged to the grid, then this window gets updated with the ‘current’ effect.
 
-![](../../../.gitbook/assets/image%20%28525%29.png)
+![](../../../.gitbook/assets/image%20%28537%29.png)
 
 Use the window to modify the attributes of the effect as required. The results of the change are displayed in the model window when selected and in the House Preview window when the sequence is played.
 
@@ -46,7 +46,7 @@ It is possible to select a group of the same effects and change the settings of 
 
 The Effect Colors window  enables the user to change the colors of the current effect that is being worked with. If an effect on the grid is selected or a new effect dragged to the grid, then this window uses the ‘current’ color.
 
-![](../../../.gitbook/assets/image%20%2825%29.png)
+![](../../../.gitbook/assets/image%20%2826%29.png)
 
 Use the window to modify the colors of the effect as required. The results of the change are displayed in the model window when selected and in the House Preview window when the sequence is played.
 
@@ -66,7 +66,7 @@ By clicking on one of the colors, the color box will appear allowing you to choo
 
 The first option of Morph is used with two or more layers. If selected, effect \#1 will morph/blend/fade into Effect \#2 midway through the timing interval in which the effects are placed.
 
-![](../../../.gitbook/assets/image%20%28594%29.png)
+![](../../../.gitbook/assets/image%20%28606%29.png)
 
 {% page-ref page="../../chapter-four-sequencer/layers/layer-blending.md" %}
 
@@ -78,13 +78,13 @@ The Layer Settings menu has two tabs.  The first tab \(Buffer\) defines how the 
 {% tab title="Buffer" %}
 
 
-![](../../../.gitbook/assets/image%20%28570%29.png)
+![](../../../.gitbook/assets/image%20%28582%29.png)
 {% endtab %}
 
 {% tab title="Roto-Zoom" %}
 
 
-![](../../../.gitbook/assets/image%20%28487%29.png)
+![](../../../.gitbook/assets/image%20%28497%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -108,19 +108,19 @@ The size on the icons on the Effects Toolbar can be adjusted by going to _Settin
 
 The Value Curves Dialog allows the user to drag and drop their saved values curves onto the desired effect setting.
 
-![](../../../.gitbook/assets/image%20%28398%29.png)
+![](../../../.gitbook/assets/image%20%28407%29.png)
 
 ### Color Dropper
 
 The Color Dropper Dialog allows the user to drag and drop their saved colors/color curves onto the color palette.
 
-![](../../../.gitbook/assets/image%20%28624%29.png)
+![](../../../.gitbook/assets/image%20%28636%29.png)
 
 ### Effect Assist
 
 The Effect Assist Window is an additional window that helps you determine how an effects is being drawn via a panel view.
 
-![](../../../.gitbook/assets/image%20%28696%29.png)
+![](../../../.gitbook/assets/image%20%28709%29.png)
 
 For example, if you open this window against a morph effect, the windows will display a grid corresponding to the x,y coordinates. If you then grab a slider for the morph effect and move it, the Effect Assist window shows exactly where the coordinate is being moved to, making it easier to determine what is being done to the effect.  
 
@@ -132,7 +132,7 @@ If you want single line morphs instead of area morphs then it's easier to just c
 
 The Select Effects Window allows the user to select effects based on type, model, and time. Based on the Model, Time, and Effect selection, multiple effects can be selected and then bulk edit can be used to adjust the settings. This allows the user to, for example, select all the pinwheel effects on there mini trees and change the number of arms with bulk edit.
 
-![](../../../.gitbook/assets/image%20%28126%29.png)
+![](../../../.gitbook/assets/image%20%28129%29.png)
 
 The search box allows the user to filter models with Regular Expressions\(Regex\). This allows the user to filter which models to select for selecting the effects. If you type in "MiniTree\*" for the search field it all the mini trees in the model list. The Model List allows the user to select which models to filter selection on. Only highlighted model names, will have their effects selected. The Time Fields allows the user to filter selection by time. The Effects List allows the user to filter effect selection by effect type.
 
@@ -140,7 +140,7 @@ The search box allows the user to filter models with Regular Expressions\(Regex\
 
 The Video Preview Window allows the user to preview the video file, they are using while sequencing it as the audio track.
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 ### Jukebox
 

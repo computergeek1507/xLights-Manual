@@ -1,10 +1,10 @@
 # Plasma
 
-![Icon](../../.gitbook/assets/image%20%28682%29.png)
+![Icon](../../.gitbook/assets/image%20%28695%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28140%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28144%29.png)
 
-![](../../.gitbook/assets/image%20%28753%29.png)
+![](../../.gitbook/assets/image%20%28768%29.png)
 
 The Plasma effect generates cycles of changing color to give an illusion of a liquid organic movement effect.
 

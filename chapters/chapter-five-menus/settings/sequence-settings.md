@@ -2,7 +2,7 @@
 
 ### Sequence Settings
 
-![](../../../.gitbook/assets/image%20%28162%29.png)
+![](../../../.gitbook/assets/image%20%28166%29.png)
 
 Select the Sequence Settings option from the Settings menu.  This screen can also be accessed by clicking on the button of the toolbar. The Sequence Settings screen has four tabs.  
 
@@ -92,7 +92,7 @@ This conversion is done in two places.
 * When you a import a data layer
 * When you press the ‘Render All’ button
 
-![](../../../.gitbook/assets/image%20%28322%29.png)
+![](../../../.gitbook/assets/image%20%28331%29.png)
 
 {% hint style="info" %}
 The purpose of ‘Render All’ is to render all the effects and data layers to the sequence object without saving to disk.  The already imported ISEQ file data is used. If the source \(‘LMS’, ‘SEQ’, ‘HLS’ etc\) file is changed, then you need to go to the Data Layer tab,  click on that layer and select the Re-Import function.

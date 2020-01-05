@@ -1,10 +1,10 @@
 # Lines
 
-![Icon](../../.gitbook/assets/image%20%28156%29.png)
+![Icon](../../.gitbook/assets/image%20%28160%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28267%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28275%29.png)
 
-![](../../.gitbook/assets/image%20%28237%29.png)
+![](../../.gitbook/assets/image%20%28244%29.png)
 
 This is the Lines effect. It was inspired by the Mystify Screensaver in Windows.
 

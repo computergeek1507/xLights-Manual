@@ -1,10 +1,10 @@
 # Lightning
 
-![Icon](../../.gitbook/assets/image%20%28446%29.png)
+![Icon](../../.gitbook/assets/image%20%28456%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28647%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28659%29.png)
 
-![](../../.gitbook/assets/image%20%28264%29.png)
+![](../../.gitbook/assets/image%20%28272%29.png)
 
 The Lightning effect generates a vertical lightning bolt type of effect.  One or multiple colors can be used for the effect.  White is always selected for the outer edge of the lightning bolt.
 

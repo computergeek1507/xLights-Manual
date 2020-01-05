@@ -122,11 +122,11 @@ Create a new music sequence, add timing tracks and add the models you have defin
 
 Using the Import, Import Effects menu, change the ‘Import file’ file to LOR Music Sequence - LMS, navigate to where the LOR LMS file is and select the file to Import.
 
-![](../.gitbook/assets/image%20%28429%29.png)
+![](../.gitbook/assets/image%20%28438%29.png)
 
 On the Map Channels dialog, all the xLights models will appear on the left hand side and all the LOR Channels on the right side.
 
-![](../.gitbook/assets/image%20%28493%29.png)
+![](../.gitbook/assets/image%20%28503%29.png)
 
 Do not select the Map by Strand/CCR option in this case.
 
@@ -134,19 +134,19 @@ Highlight the 'Map To' Cell – in line with the model name. Double Click the LO
 
 When Done, Save the mapping first, so that you can re-use it later.
 
-![](../.gitbook/assets/image%20%28678%29.png)
+![](../.gitbook/assets/image%20%28691%29.png)
 
 Click OK to start the process. 
 
-![](../.gitbook/assets/image%20%28297%29.png)
+![](../.gitbook/assets/image%20%28306%29.png)
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
-![](../.gitbook/assets/image%20%28643%29.png)
+![](../.gitbook/assets/image%20%28655%29.png)
 
 Click on the Render All icon and play the sequence.
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 
 

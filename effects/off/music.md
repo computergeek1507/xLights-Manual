@@ -1,10 +1,10 @@
 # Music
 
-![Icon](../../.gitbook/assets/image%20%28355%29.png)
+![Icon](../../.gitbook/assets/image%20%28364%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28565%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28577%29.png)
 
-![](../../.gitbook/assets/image%20%28743%29.png)
+![](../../.gitbook/assets/image%20%28757%29.png)
 
 The Music effect analyses and displays a representation of the frequency breakdown of the song from the waveform.  Select at least two colors.
 

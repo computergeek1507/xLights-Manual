@@ -2,7 +2,7 @@
 
 ### **Model Settings**
 
-![](../../../../.gitbook/assets/image%20%28123%29.png)
+![](../../../../.gitbook/assets/image%20%28126%29.png)
 
 ### **Name**
 
@@ -129,7 +129,7 @@ This setting is used to specify the State definition for custom models that supp
 
 This setting is used to specify parts of a model to be controlled as if it were its own model. This is used for example if you have a wire frame with 2 arm positions you then can sub model those and control them without the need for adding a 2nd or 3rd model.
 
-![Submodel Dialog](../../../../.gitbook/assets/image%20%28630%29.png)
+![Submodel Dialog](../../../../.gitbook/assets/image%20%28642%29.png)
 
 You will find the sub-model listed as parent model name/sub model name. This can be added to groupings and added to sequencing as a stand alone model. 
 

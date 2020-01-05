@@ -8,27 +8,47 @@ As an example, I am creating an Arch model and will call it ‘Arch 1’. The ar
 
 Click on the Layout tab, then click on the Arches icon. The selected icon will have a blue square around it.
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
-Then click anywhere on the Canvas and drag slightly. An image of an arch will be displayed and an Arch model called ‘Arches-1’ \(the default name that is assigned to the model may be slightly different\) will be created with a default set of attribute values.
+Then click anywhere on the Canvas and drag slightly. An image of an arch will be displayed and an Arch model called ‘Arches’ \(the default name that is assigned to the model may be slightly different\) will be created with a default set of model settings.
 
-The start channel is 1. \(You can change this later\).  Change the Model name to ‘Arch1’ or ‘Arch 1’ or anything of your choice. Update the Nodes Per Arch value to 25. The end channel \(75\) will be calculated by xLights.  If you are adding a second model, ensure that the start and end channels do not overlap with other models.
+![](../../.gitbook/assets/addarc%20%281%29.gif)
 
-![](https://lh3.googleusercontent.com/gN5r64jg0kNfSRVlKxmlH4vrHftR1yQihijy688Eu_Rek_MoiC6G5r-ISWHHVcno1QT0HfcSN8STcBvIQupaoq97o50PboC6PY07M8pI7ND_3Lqs2lpuZjlOHZ3ioDyhENvZ-NmQ)
+The start channel is 1. \(You can change this later\).  Change the Model name to ‘Arches-1’ or ‘Arch 1’ or anything of your choice. 
+
+![](../../.gitbook/assets/image%20%28197%29.png)
+
+Change the Nodes Per Arch value to 25.
+
+![](../../.gitbook/assets/image%20%28196%29.png)
+
+ The end channel \(75\) will be calculated by xLights. 
+
+![](../../.gitbook/assets/image%20%28449%29.png)
+
+If you are adding a second model, ensure that the start and end channels do not overlap with other models.
 
 {% hint style="success" %}
-You can change the model name or any attribute by typing over/editing the attribute. For some attributes, click in the attribute window , to the right of the attribute name.
+You can change the model name or any settings by typing over/editing the settings field. For some settings, click in the settings field, to the right of the setting name.
 {% endhint %}
 
 {% hint style="info" %}
-After changing an attribute, use the Tab or Enter key to confirm the change. 
+After changing an settings, use the Tab or Enter key to confirm the change. 
 {% endhint %}
 
-The Preview defaults to ‘default’ so that it will appear on the \(default\) House preview window.
+Use the blue dots around the model to resize and rotate it if required. To move the model click and drag it to the desired location. The green dot should at the left side of the screen. When it is aligned horizontally, a red line is displayed between the green and blue dots. 
 
-Use the blue dots around the model to shrink, rotate it if required and move it to the desired location. The green dot should at the left side of the screen. When it is aligned horizontally, a red line is displayed between the green and blue dots. 
+![](../../.gitbook/assets/resize.gif)
 
-The Arch1 model has now been moved to the bottom left location against the fence and has been reduced in size.  Click on the Save button \(just below the Models button\) to save the work that you have done so far. This includes the Model definition and its position on the Layout.
+The starting location of the model can be changed to the 'Blue' or 'Green' square. 
 
-![](https://lh3.googleusercontent.com/tkLwAzhT1QFdicFsdL34pD4QX67EmeWDWV2t0Yu445vbXZIhJwCl4KJiHNGleetMpNXLt9ovHTCMCQ3T80z-dQ1sN7HAhp-BoU4jRNe7QvIi1ZxU26xHDkhkFtKOJb5nHIaV5IHM)
+![](../../.gitbook/assets/image%20%28506%29.png)
+
+ Click on the Save button \(just below the Models button\) to save the work that you have done so far. This includes the Model definition and its position on the Layout.
+
+![](../../.gitbook/assets/image%20%28125%29.png)
+
+{% hint style="info" %}
+The 'Save' button will appear red when unsaved changes are present.
+{% endhint %}
 

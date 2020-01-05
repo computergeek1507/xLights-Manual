@@ -6,7 +6,7 @@ Backing up your critical files and sequences should be done regularly – as goo
 
 What should be backed up ? Anything you require to run your show, but in particular your XML sequences, your media files and your user specific xLights configuration files.
 
-![](../../../.gitbook/assets/image%20%28304%29.png)
+![](../../../.gitbook/assets/image%20%28313%29.png)
 
 The xLights configuration files are located in your show directory and are: xlights\_keybindings.xml, xlights\_networks.xml and xlights\_rgbeffects.xml
 

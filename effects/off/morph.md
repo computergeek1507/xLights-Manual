@@ -2,27 +2,27 @@
 
 ## Morph
 
-![Icon](../../.gitbook/assets/image%20%28331%29.png)
+![Icon](../../.gitbook/assets/image%20%28340%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%2871%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%2873%29.png)
 
 {% tabs %}
 {% tab title="Start" %}
 
 
-![](../../.gitbook/assets/image%20%28701%29.png)
+![](../../.gitbook/assets/image%20%28714%29.png)
 {% endtab %}
 
 {% tab title="End" %}
 
 
-![](../../.gitbook/assets/image%20%28480%29.png)
+![](../../.gitbook/assets/image%20%28490%29.png)
 {% endtab %}
 
 {% tab title="Options" %}
 
 
-![](../../.gitbook/assets/image%20%28390%29.png)
+![](../../.gitbook/assets/image%20%28399%29.png)
 {% endtab %}
 {% endtabs %}
 

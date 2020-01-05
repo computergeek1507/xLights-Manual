@@ -1,32 +1,32 @@
 # Pictures
 
-![Icon](../../.gitbook/assets/image%20%28726%29.png)
+![Icon](../../.gitbook/assets/image%20%28739%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28635%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28647%29.png)
 
 {% tabs %}
 {% tab title="Start Position" %}
 
 
-![](../../.gitbook/assets/image%20%28391%29.png)
+![](../../.gitbook/assets/image%20%28400%29.png)
 {% endtab %}
 
 {% tab title="End Position" %}
 
 
-![](../../.gitbook/assets/image%20%28289%29.png)
+![](../../.gitbook/assets/image%20%28298%29.png)
 {% endtab %}
 
 {% tab title="Start Scale" %}
 
 
-![](../../.gitbook/assets/image%20%28720%29.png)
+![](../../.gitbook/assets/image%20%28733%29.png)
 {% endtab %}
 
 {% tab title="End Scale" %}
 
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28154%29.png)
 {% endtab %}
 {% endtabs %}
 
