@@ -2,7 +2,7 @@
 
 ## View 
 
-![](../../../.gitbook/assets/image%20%28575%29.png)
+![](../../../.gitbook/assets/image%20%28578%29.png)
 
 The view menu enables you to zoom in or out on the sequencer view, define and use Perspectives and nominate which windows you want to have open.
 
@@ -32,7 +32,7 @@ The Reset Toolbar option, when selected, will reset the Toolbars to the default 
 
 ### AC Lights Toolbar
 
-![AC Lights Toolbar Disabled](../../../.gitbook/assets/image%20%28398%29.png)
+![AC Lights Toolbar Disabled](../../../.gitbook/assets/image%20%28400%29.png)
 
 The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effect in bulk, similar to LOR.
 
@@ -40,11 +40,11 @@ The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effe
 
 Select an Effect, using the On effect in this example, then click and drag on the desired rows to populated.
 
-![](../../../.gitbook/assets/image%20%28769%29.png)
+![](../../../.gitbook/assets/image%20%28773%29.png)
 
 The Effects will be places in the selected area.
 
-![](../../../.gitbook/assets/image%20%28187%29.png)
+![](../../../.gitbook/assets/image%20%28189%29.png)
 
 
 
@@ -52,7 +52,7 @@ The Effects will be places in the selected area.
 
 Show Start and End Intensity for effects, similar to LOR.
 
-![](../../../.gitbook/assets/image%20%28421%29.png)
+![](../../../.gitbook/assets/image%20%28423%29.png)
 
 ### Windows
 

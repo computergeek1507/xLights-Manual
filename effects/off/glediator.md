@@ -1,10 +1,10 @@
 # Glediator
 
-![Icon](../../.gitbook/assets/image%20%28281%29.png)
+![Icon](../../.gitbook/assets/image%20%28283%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%2882%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%2883%29.png)
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28176%29.png)
 
 The Glediator effect enables the import and use of an effect that has been created using the Glediator software into xLights.  Glediator is a 3rd party application that can generate an unlimited number of effects. Once an effect has been created, it must be saved as a .GLED file.
 

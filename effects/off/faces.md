@@ -1,10 +1,10 @@
 # Faces
 
-![Icon](../../.gitbook/assets/image%20%28617%29.png)
+![Icon](../../.gitbook/assets/image%20%28620%29.png)
 
 ![Sequencer Grid](../../.gitbook/assets/image%20%2829%29.png)
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
 The Faces effect is used by xLights to generate singing and talking face effects. It is used and placed on the sequencer as part of the Papagayo import functionality, if the target in xLights is a Coro face.
 

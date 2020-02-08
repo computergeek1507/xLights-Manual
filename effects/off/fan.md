@@ -1,26 +1,26 @@
 # Fan
 
-![Icon](../../.gitbook/assets/image%20%28360%29.png)
+![Icon](../../.gitbook/assets/image%20%28362%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28658%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28661%29.png)
 
 {% tabs %}
 {% tab title="Position" %}
 
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 {% endtab %}
 
 {% tab title="Blades" %}
 
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 {% endtab %}
 
 {% tab title="Options" %}
 
 
-![](../../.gitbook/assets/image%20%28692%29.png)
+![](../../.gitbook/assets/image%20%28695%29.png)
 {% endtab %}
 {% endtabs %}
 

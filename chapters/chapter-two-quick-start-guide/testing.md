@@ -12,7 +12,7 @@ Then select the Test option from the Tools menu.
 
 You will be presented with a screen that shows the controller and all the channels configured via the Setup Tab.
 
-![](../../.gitbook/assets/image%20%28742%29.png)
+![](../../.gitbook/assets/image%20%28746%29.png)
 
 You can select the channels you want to test or in this case select the controller which then selects all channels.
 
@@ -22,7 +22,7 @@ Select the test function \(example Background Only\) and use the sliders to incr
 
 To display Model groups or Models instead, click on Model Groups or Models across the top.  
 
-![](../../.gitbook/assets/image%20%28268%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 Different test functions are available for RGB, non RGB lights as well as the option to execute different test cycles. Set the Tools-&gt;Test section for more information.
 

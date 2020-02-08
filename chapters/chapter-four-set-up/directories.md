@@ -2,7 +2,7 @@
 
 ## **Show** Directory
 
-![](../../.gitbook/assets/image%20%28670%29.png)
+![](../../.gitbook/assets/image%20%28673%29.png)
 
 The xLights Show Directory is where all the required xLights sequences, pictures, and user configuration files required to run the sequences are kept. When a sequence \(.xml\) is saved and a binary file \(.fseq\) rendered, both files are created in the show directory.  This is the same location where xLights configuration files can be found and the default location where the program will first prompt for, or look for files pertaining to several functions of xLights.
 
@@ -30,11 +30,11 @@ This is useful if you are moving your setup to a USB drive or Dropbox.  If howev
 
 ## Subfolders
 
-![Subfolders Button](../../.gitbook/assets/image%20%28347%29.png)
+![Subfolders Button](../../.gitbook/assets/image%20%28349%29.png)
 
 The Subfolders Dialog allows certain files to be stored in other folder locations, outside the show folder, on the harddrive. This is useful if you want to keep you show folder in Dropbox or Google Drive, but do not want to sync larges files like the fseq files and backups.
 
-![Subfolders Select Dialog](../../.gitbook/assets/image%20%28433%29.png)
+![Subfolders Select Dialog](../../.gitbook/assets/image%20%28435%29.png)
 
 ### **Media Directory**
 
@@ -48,23 +48,23 @@ Users often have a common media directory for all shows. However, a more common 
 
 ### FSEQ **Directory**
 
-![](../../.gitbook/assets/image%20%28184%29.png)
+![](../../.gitbook/assets/image%20%28186%29.png)
 
 This is the location where the Sequence FSEQ's will be saved. If the Use Sequence Location Checkbox is selected \(the default\) the FSEQ files will be saved in the same folder as the sequence .xml file location. If this is unchecked and a folder path is specified all the FSEQ will be saved to that location. If this folder doesn't exist \(move computers or remove a harddrive\) the FSEQ directory will default back to the show directory.
 
-![](../../.gitbook/assets/image%20%28762%29.png)
+![](../../.gitbook/assets/image%20%28766%29.png)
 
 ### **Render Cache** **Directory**
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
 This is the location where the Render Cache directory data will be saved. If the Use Sequence Location Checkbox is selected \(the default\) the Render Cache directory will be saved in the same folder as the sequence .xml file location. If this is unchecked and a folder path is specified all the Render Cache data will be saved to that location. If this folder doesn't exist \(move computers or remove a harddrive\) the Render Cache directory will default back to the show directory.
 
-![](../../.gitbook/assets/image%20%28393%29.png)
+![](../../.gitbook/assets/image%20%28395%29.png)
 
 ### **Backup Folder**
 
-![](../../.gitbook/assets/image%20%28672%29.png)
+![](../../.gitbook/assets/image%20%28675%29.png)
 
 This is the location where the backup folder\(Backup on Save/Launch or F10\) will be saved. If the Use How Folder Checkbox is selected \(the default\) the backup files will be saved in the show folder. If this is unchecked and a folder path is specified all the backup files will be saved to that location. If this folder doesn't exist \(move computers or remove a harddrive\) the backup directory will default back to the show directory.
 
@@ -72,7 +72,7 @@ This is the location where the backup folder\(Backup on Save/Launch or F10\) wil
 
 ### **Alternative Backup Folder**
 
-![](../../.gitbook/assets/image%20%28279%29.png)
+![](../../.gitbook/assets/image%20%28281%29.png)
 
 This is the location where the Alternative backup folder\(F11\) will be saved. This Backup function is intended as a secondary backup location, like a external hardrive or NAS device. By default the location is not set to anything and will prompt you if you attempt to do a Alternative Backup and no folder is set. To enable select the Enable checkbox and set the desired folder or drive location.
 

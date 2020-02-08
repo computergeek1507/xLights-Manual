@@ -1,10 +1,10 @@
 # Butterfly
 
-![Icon](../../.gitbook/assets/image%20%28205%29.png)
+![Icon](../../.gitbook/assets/image%20%28207%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28214%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28216%29.png)
 
-![](../../.gitbook/assets/image%20%28612%29.png)
+![](../../.gitbook/assets/image%20%28615%29.png)
 
 The Butterfly effect creates seemingly random patterns of color swirling around, based on an initial set of parameters.  This is very effective on a number of different types of models.
 

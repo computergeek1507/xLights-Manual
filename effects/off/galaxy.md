@@ -1,26 +1,26 @@
 # Galaxy
 
-![Icon](../../.gitbook/assets/image%20%28352%29.png)
+![Icon](../../.gitbook/assets/image%20%28354%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28179%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28181%29.png)
 
 {% tabs %}
 {% tab title="Start" %}
 
 
-![](../../.gitbook/assets/image%20%28404%29.png)
+![](../../.gitbook/assets/image%20%28406%29.png)
 {% endtab %}
 
 {% tab title="End" %}
 
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 {% endtab %}
 
 {% tab title="Options" %}
 
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 {% endtab %}
 {% endtabs %}
 

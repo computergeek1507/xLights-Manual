@@ -8,25 +8,25 @@ This section describes how Singing Face functionality i.e. the conversion of phr
 
 In the model setup tab, select the singing face model, then click on the ellipsis \(three dots\) button on the Faces property.
 
-![](../../../.gitbook/assets/image%20%28370%29.png)
+![](../../../.gitbook/assets/image%20%28372%29.png)
 
-![Face Definition Window](../../../.gitbook/assets/image%20%28216%29.png)
+![Face Definition Window](../../../.gitbook/assets/image%20%28218%29.png)
 
 The 'Name' dropdown specified the currently selected Face Definition. If the dropdown is empty, then no Face Definition exist for the current model. 
 
-![](../../../.gitbook/assets/image%20%28669%29.png)
+![](../../../.gitbook/assets/image%20%28672%29.png)
 
 Click 'Add' to create a new Face Definition.
 
-![](../../../.gitbook/assets/image%20%28579%29.png)
+![](../../../.gitbook/assets/image%20%28582%29.png)
 
 'Delete' will delete the current selected Face Definition.
 
-![](../../../.gitbook/assets/image%20%28163%29.png)
+![](../../../.gitbook/assets/image%20%28165%29.png)
 
 Click the ellipsis \(three dots\) to copy, rename or import a face definition.
 
-![](../../../.gitbook/assets/image%20%28311%29.png)
+![](../../../.gitbook/assets/image%20%28313%29.png)
 
 
 
@@ -34,7 +34,7 @@ Click the ellipsis \(three dots\) to copy, rename or import a face definition.
 
 The drop down box below the 'Name' selector is used to select the type of face definition. There are three types of face definition.
 
-![](../../../.gitbook/assets/image%20%28673%29.png)
+![](../../../.gitbook/assets/image%20%28676%29.png)
 
 | Type | Use Case |
 | :--- | :--- |
@@ -46,23 +46,23 @@ The drop down box below the 'Name' selector is used to select the type of face d
 
 For each phoneme, select the channels that will be turned on.  Multiple selections can be selected, by holding down the CTRL key.
 
-![](../../../.gitbook/assets/image%20%28397%29.png)
+![](../../../.gitbook/assets/image%20%28399%29.png)
 
-![](../../../.gitbook/assets/image%20%28455%29.png)
+![](../../../.gitbook/assets/image%20%28458%29.png)
 
 If force custom colors is selected, then a specific color to be turned on by default. This can be specified for each phenom/row by double clicking in the color column to bring up the color palette. 
 
-![Color Palette](../../../.gitbook/assets/image%20%28704%29.png)
+![Color Palette](../../../.gitbook/assets/image%20%28707%29.png)
 
 #### Node Ranges
 
 If ‘Node Ranges’ is selected, then the following window will be displayed. 
 
-![](../../../.gitbook/assets/image%20%28422%29.png)
+![](../../../.gitbook/assets/image%20%28424%29.png)
 
 Type in the list of node numbers \(pixel numbers\) for what should be turned for each movement. Example:  \("1-12,24-30"\). Double click the Nodes Column or Phenom Name to bring up the Node Select Dialog.
 
-![](../../../.gitbook/assets/image%20%28555%29.png)
+![](../../../.gitbook/assets/image%20%28558%29.png)
 
 Click and drag to select the desired nodes for the selected phenom definition.
 
@@ -72,25 +72,25 @@ Click and drag to select the desired nodes for the selected phenom definition.
 
 There is a right clicked menu that allows the user to import node numbers from a predefined submodel.
 
-![](../../../.gitbook/assets/image%20%28266%29.png)
+![](../../../.gitbook/assets/image%20%28268%29.png)
 
 
 
 If force custom colors is selected, then a specific color to be turned on by default. This can be specified for each phenom/row by double clicking in the color column to bring up the color palette.
 
-![](../../../.gitbook/assets/image%20%2874%29.png)
+![](../../../.gitbook/assets/image%20%2875%29.png)
 
 #### Matrix
 
 If a matrix is selected, then the following window will be displayed.
 
-![](../../../.gitbook/assets/image%20%28386%29.png)
+![](../../../.gitbook/assets/image%20%28388%29.png)
 
 Then for each mouth position, double click in the eyes open column \(you may need to double click more than once\) and navigate to and select the face image corresponding to that mouth position. You can specify different images for the Eyes Closed position or by default, the same image is copied across.
 
 
 
-![](../../../.gitbook/assets/image%20%28689%29.png)
+![](../../../.gitbook/assets/image%20%28692%29.png)
 
 The 'Download Images' button will display a list of user submitted singing faces images. Select the 'Insert Face' to download the pictures files to 'DownloadedFaces' folder in the show folder. This will also populate  the face definitions in the main dialog.
 
@@ -102,7 +102,7 @@ Pay attention the image resolution compared to the matrix resolution. High resol
 
 Then select the image placement i.e. Centered or Scaled. 'Center' with display the image in the center of the matrix. If the image resolution is greater than the matrix resolution, xLights will down scale the image to the matrix resolution. 'Scaled' will upscale the X and Y resolution of the image separately to the matrix resolution.
 
-![](../../../.gitbook/assets/image%20%28431%29.png)
+![](../../../.gitbook/assets/image%20%28433%29.png)
 
 
 
@@ -120,7 +120,7 @@ Next add a new Timing track. Right Click on the Row Heading and Select Add Timin
 
 Select a Timing Track of type ‘Empty’ and click on OK to add it. 
 
-![](../../../.gitbook/assets/image%20%28563%29.png)
+![](../../../.gitbook/assets/image%20%28566%29.png)
 
 Right click on the name of the timing track and Select Rename Timing Track. Change it to something meaningful, such as ‘Lyrics’ or 'Main Vocals'.
 

@@ -46,11 +46,11 @@ You can also have xLights create fixed timing interval timing tracks by selectin
 
 When xLights created a Metronome timing it is generated as a Fixed Timing Tracks. Fixed Timing Tracks are not editable and the timing marks cannot be changed. Fixed timing tracks are colored orange in the sequence tab by default.
 
-![](../../.gitbook/assets/image%20%28585%29.png)
+![](../../.gitbook/assets/image%20%28588%29.png)
 
 To edit a Fixed timing track the user must right click and select Make Timing Track Variable.
 
-![](../../.gitbook/assets/image%20%28325%29.png)
+![](../../.gitbook/assets/image%20%28327%29.png)
 
 ### Adding/Removing Timing Track
 
@@ -58,13 +58,13 @@ While on the sequencer tab, you can add new timing tracks or delete an existing 
 
 Right Click , with your cursor  in the area of the timing track names and select Add Timing Track or Delete Timing Track.
 
-![](../../.gitbook/assets/image%20%28388%29.png)
+![](../../.gitbook/assets/image%20%28390%29.png)
 
 ### Importing Timing Track
 
 You can also import timing marks created externally \(the most common being those created via Audacity or another xLights sequence\).
 
-![](../../.gitbook/assets/image%20%28344%29.png)
+![](../../.gitbook/assets/image%20%28346%29.png)
 
 This capability includes importing a Singing Face \(xLights Papagayo\) timing track.
 
@@ -96,7 +96,7 @@ You can export the file as a PGO file , if you wish to provide the file for use 
 
 Multiple timing tracks can be exported to a single XTIMING file by selected them from the following dialog.
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 
 
@@ -110,7 +110,7 @@ The purpose of this function is to create a timing track by importing the notes 
 
 Right Click on the Timing Track name and select Import Notes.
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 Specify a name for the Timing Track to be created , the Notes Source,  and then navigate to and select the file from which the notes are to be Import.
 
