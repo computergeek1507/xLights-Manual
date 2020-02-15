@@ -42,11 +42,11 @@ You can also have xLights create fixed timing interval timing tracks by selectin
 
 When xLights created a Metronome timing it is generated as a Fixed Timing Tracks. Fixed Timing Tracks are not editable and the timing marks cannot be changed. Fixed timing tracks are colored orange in the sequence tab by default.
 
-![](../../.gitbook/assets/image%20%28668%29.png)
+![](../../.gitbook/assets/image%20%28671%29.png)
 
 To edit a Fixed timing track the user must right click and select Make Timing Track Variable.
 
-![](../../.gitbook/assets/image%20%28385%29.png)
+![](../../.gitbook/assets/image%20%28386%29.png)
 
 ### Adding/Removing Timing Track
 
@@ -54,13 +54,13 @@ While on the sequencer tab, you can add new timing tracks or delete an existing 
 
 Right Click , with your cursor in the area of the timing track names and select Add Timing Track or Delete Timing Track.
 
-![](../../.gitbook/assets/image%20%28453%29.png)
+![](../../.gitbook/assets/image%20%28454%29.png)
 
 ### Importing Timing Track
 
 You can also import timing marks created externally \(the most common being those created via Audacity or another xLights sequence\).
 
-![](../../.gitbook/assets/image%20%28406%29.png)
+![](../../.gitbook/assets/image%20%28407%29.png)
 
 This capability includes importing a Singing Face \(xLights Papagayo\) timing track.
 

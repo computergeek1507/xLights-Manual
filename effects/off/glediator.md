@@ -1,6 +1,6 @@
 # Glediator
 
-![Icon](../../.gitbook/assets/image%20%28339%29.png)
+![Icon](../../.gitbook/assets/image%20%28340%29.png)
 
 ![Sequencer Grid](../../.gitbook/assets/image%20%2895%29.png)
 

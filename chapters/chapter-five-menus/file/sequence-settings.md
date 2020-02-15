@@ -4,23 +4,23 @@
 
 ![](../../../.gitbook/assets/image%20%28201%29.png)
 
-Select the Sequence Settings option from the Settings menu. This screen can also be accessed by clicking on the button of the toolbar. The Sequence Settings screen has four tabs.
+Select the Sequence Settings option from the File menu. This screen can also be accessed by clicking on the button of the toolbar. The Sequence Settings screen has four tabs.
 
-![](https://lh3.googleusercontent.com/OQArj9obVgqL-qSakGBsHr9MsLLfrnHGom4ifJucjlVWFCSJCERVJ8Gh3xhFiFt5fXcme_YNIKyK1YU2dK_HycYDrzOdns-c6J_5fmXjvO7TtFo4-n8SB7qqW8mxa1TaP7KCz7yR)
+![](../../../.gitbook/assets/image%20%28481%29.png)
 
-### Info/Media
+## Info/Media
 
 The Info/Media tab displays information about the sequence including the xLights release that was used to create the sequence, the number of models saved, the Sequence Type \(i.e. Media or animated\), if media has been specified then the name and location of the media file. The sequence duration, the sequence timing and whether the media tags should be overwritten.
 
 The sequence type, media file name or location, the sequence duration and whether media tags can be overwritten can be changed from this tab after the sequence has been created.
 
-![](https://lh6.googleusercontent.com/ygXgmWobGjAdY4_3pnFafGbfMsq9UFivq6DKqVCogEjhwkMa6SOZvpdG2MO_i7G1-RnCJV_ZxPAoW16iBaKOye4kQSB1MnV2vuBXbC51vqiNh6YGJcCeXZOFGQlGql8NxHsh6n0m)
+![](../../../.gitbook/assets/image%20%28637%29.png)
 
 If you have reduced the length of the media file after starting on the sequence, and want the sequence to adjust to the new length or if you want to change the default length of an animation:
 
 Change the length of sequence duration to the new value, then save the sequence. Delete the fseq file, close the sequence, re-open it and save \(creating a new fseq file\).
 
-### Metadata
+## Metadata
 
 The Metadata tab enables the media metadata to be entered or updated. The attributes supported are the author, email, website, song, artist, album, music url and a comment.
 
@@ -32,7 +32,7 @@ xLights will parse and retrieve the information from the media file. It won't up
 
 After updating any data Click on Done to Update.
 
-### Timings
+## Timings
 
 The Timings tab enables you to create or import one or more sets of timing marks on timing tracks for the audio of your sequence.
 
@@ -72,6 +72,18 @@ You can repeat this process to import another timing grid from the same file or 
 
 ![](https://lh5.googleusercontent.com/gS-MkR25N4b4LjlDbfu2DqZEkr5go0R6nRYR5zM5KrmTkkah_5F-nEGqRWngOYqO_1GSXqHT804tuDtWni3texWbrIHbAGdXCNnI3wDUUXB8XtZNNtVQZJyeZKShjzdVWHtiP4Qo)
 
+## Data Layers
+
+![](../../../.gitbook/assets/image%20%28211%29.png)
+
+### Render Mode
+
+If the Render Mode is set to Erase \(which is the default value\), then the fseq file is erased before every render. If set to Canvas Mode, then the data in the fseq is not cleared before a render, rendering is done over the old data.
+
+{% hint style="info" %}
+If set to Canvas mode, deleting an effect will still show when played until it is overridden with a new effect. Imagine a 6 foot painting in which you paint over a 4 foot section. The 2 foot original section is still visible. This is the how canvas mode works.
+{% endhint %}
+
 ### Data Layers
 
 When should you use the data layer to import effects?
@@ -89,7 +101,7 @@ This conversion is done in two places.
 * When you a import a data layer
 * When you press the ‘Render All’ button
 
-![](../../../.gitbook/assets/image%20%28391%29.png)
+![](../../../.gitbook/assets/image%20%28392%29.png)
 
 {% hint style="info" %}
 The purpose of ‘Render All’ is to render all the effects and data layers to the sequence object without saving to disk. The already imported ISEQ file data is used. If the source \(‘LMS’, ‘SEQ’, ‘HLS’ etc\) file is changed, then you need to go to the Data Layer tab, click on that layer and select the Re-Import function.

@@ -1,12 +1,12 @@
 # Galaxy
 
-![Icon](../../.gitbook/assets/image%20%28414%29.png)
+![Icon](../../.gitbook/assets/image%20%28415%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28217%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28218%29.png)
 
 {% tabs %}
 {% tab title="Start" %}
-![](../../.gitbook/assets/image%20%28469%29.png)
+![](../../.gitbook/assets/image%20%28470%29.png)
 {% endtab %}
 
 {% tab title="End" %}

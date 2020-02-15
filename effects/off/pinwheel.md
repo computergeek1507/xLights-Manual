@@ -2,11 +2,11 @@
 
 ## Pinwheel
 
-![Icon](../../.gitbook/assets/image%20%28231%29.png)
+![Icon](../../.gitbook/assets/image%20%28232%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28694%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28697%29.png)
 
-![](../../.gitbook/assets/image%20%28521%29.png)
+![](../../.gitbook/assets/image%20%28523%29.png)
 
 The Pinwheel effect generates a rotating pinwheel arrangement or radial rays type of effect.
 

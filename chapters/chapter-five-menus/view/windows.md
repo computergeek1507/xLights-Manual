@@ -4,15 +4,15 @@
 
 There are a number of windows that enable simultaneous display of different views in xLights. When xLights first loads, a default set of windows are displayed. Which windows are open can be controlled via the Windows menu by selecting View, Windows and then clicking on the required window to open it. The window is dropped by default on the left side of the screen, however each window can be moved and docked to alternate locations on the same screen or moved to an alternate display screen if connected to your PC/ MAC.
 
-![](../../../.gitbook/assets/image%20%28224%29.png)
+![](../../../.gitbook/assets/image%20%28225%29.png)
 
-![Window Toolbar](../../../.gitbook/assets/image%20%28395%29.png)
+![Window Toolbar](../../../.gitbook/assets/image%20%28396%29.png)
 
 ### ![](../../../.gitbook/assets/display-elements-icon.JPG) Display Elements
 
 The Display Elements window enables views, Timings as well as models to be defined and updated. Functionality for these functions is described in the Views, Timings and Models section of this document.
 
-![](../../../.gitbook/assets/image%20%28420%29.png)
+![](../../../.gitbook/assets/image%20%28421%29.png)
 
 {% page-ref page="../../chapter-four-sequencer/views.md" %}
 
@@ -20,19 +20,19 @@ The Display Elements window enables views, Timings as well as models to be defin
 
 The Model Preview window displays the effects on a model as the sequence is playing. With the window open, right click on the model name when on the sequencer tab and select Play model. It can also be opened/closed by clicking on the icon on the toolbar.
 
-![](../../../.gitbook/assets/image%20%28481%29.png)
+![](../../../.gitbook/assets/image%20%28483%29.png)
 
 ### ![](../../../.gitbook/assets/house-preview-icon.JPG) House Preview
 
 The House Preview window displays the effects of your entire display where the model or model group has been assigned to the currently selected Preview window. Refer to explanations of multiple Preview windows in the Layout section. It can also be opened/closed by clicking on the icon on the toolbar.
 
-![](../../../.gitbook/assets/image%20%28530%29.png)
+![](../../../.gitbook/assets/image%20%28532%29.png)
 
 ### ![](../../../.gitbook/assets/effect-settings-icon.JPG) Effect Settings
 
 The Effect Settings window displays the current or last effect that is being worked with. If an effect on the grid is selected or a new effect dragged to the grid, then this window gets updated with the ‘current’ effect.
 
-![](../../../.gitbook/assets/image%20%28616%29.png)
+![](../../../.gitbook/assets/image%20%28618%29.png)
 
 Use the window to modify the attributes of the effect as required. The results of the change are displayed in the model window when selected and in the House Preview window when the sequence is played.
 
@@ -66,7 +66,7 @@ By clicking on one of the colors, the color box will appear allowing you to choo
 
 The first option of Morph is used with two or more layers. If selected, effect \#1 will morph/blend/fade into Effect \#2 midway through the timing interval in which the effects are placed.
 
-![](../../../.gitbook/assets/image%20%28695%29.png)
+![](../../../.gitbook/assets/image%20%28698%29.png)
 
 {% page-ref page="../../chapter-four-sequencer/layers/layer-blending.md" %}
 
@@ -76,11 +76,11 @@ The Layer Settings menu has two tabs. The first tab \(Buffer\) defines how the e
 
 {% tabs %}
 {% tab title="Buffer" %}
-![](../../../.gitbook/assets/image%20%28665%29.png)
+![](../../../.gitbook/assets/image%20%28668%29.png)
 {% endtab %}
 
 {% tab title="Roto-Zoom" %}
-![](../../../.gitbook/assets/image%20%28574%29.png)
+![](../../../.gitbook/assets/image%20%28576%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -104,13 +104,13 @@ The size on the icons on the Effects Toolbar can be adjusted by going to _Settin
 
 The Value Curves Dialog allows the user to drag and drop their saved values curves onto the desired effect setting.
 
-![](../../../.gitbook/assets/image%20%28472%29.png)
+![](../../../.gitbook/assets/image%20%28473%29.png)
 
 ### Color Dropper
 
 The Color Dropper Dialog allows the user to drag and drop their saved colors/color curves onto the color palette.
 
-![](../../../.gitbook/assets/image%20%28729%29.png)
+![](../../../.gitbook/assets/image%20%28732%29.png)
 
 ### Effect Assist
 

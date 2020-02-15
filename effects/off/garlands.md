@@ -2,9 +2,9 @@
 
 ![Icon](../../.gitbook/assets/image%20%28207%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28561%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28563%29.png)
 
-![](../../.gitbook/assets/image%20%28380%29.png)
+![](../../.gitbook/assets/image%20%28381%29.png)
 
 The Garlands effect creates an effect that simulates a circle of rings that drop on each other \(depending on the direction of the effect\).
 

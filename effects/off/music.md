@@ -1,8 +1,8 @@
 # Music
 
-![Icon](../../.gitbook/assets/image%20%28427%29.png)
+![Icon](../../.gitbook/assets/image%20%28428%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28659%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28662%29.png)
 
 ![](../../.gitbook/assets/image-802.png)
 

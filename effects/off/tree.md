@@ -1,8 +1,8 @@
 # Tree
 
-![Icon](../../.gitbook/assets/image%20%28675%29.png)
+![Icon](../../.gitbook/assets/image%20%28678%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28245%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28246%29.png)
 
 ![](../../.gitbook/assets/image%20%2871%29.png)
 

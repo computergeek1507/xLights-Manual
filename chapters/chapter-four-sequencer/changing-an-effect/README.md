@@ -6,7 +6,7 @@
 
 To change an Effects setting, Select the effect in the sequencer timeline and open the Effects setting window using the shortcut in the top toolbar.
 
-![](../../../.gitbook/assets/image%20%28748%29.png)
+![](../../../.gitbook/assets/image%20%28751%29.png)
 
 ![](../../../.gitbook/assets/image-793.png)
 
@@ -20,7 +20,7 @@ See the Effects Section for more information on the individual effect settings.
 
 From the Color window, you can change the Colors that apply to the effect, as well as the Sparkles, Brightness and Contrast values. How effects use the colors is defined by the effect.
 
-![](../../../.gitbook/assets/image%20%28660%29.png)
+![](../../../.gitbook/assets/image%20%28663%29.png)
 
 {% page-ref page="changing-color-settings.md" %}
 
@@ -62,7 +62,7 @@ In order to copy and paste a range of effects, use the cursor to highlight and s
 
 You can paste what is in the buffer \(after a Copy\) to multiple locations, by moving the cursor to each new location and pasting the copied data \(right click and Paste or Ctrl+V\) there.
 
-![](../../../.gitbook/assets/image%20%28473%29.png)
+![](../../../.gitbook/assets/image%20%28474%29.png)
 
 There are two modes for Copying and Pasting effects: Paste by Time or Paste by Cell.
 
@@ -95,15 +95,15 @@ You can copy the effects of an entire model/group and paste it to another model/
 
 Highlight the model name, right click and select Model, Copy Effects to copy the entire row of the effects.
 
-![](../../../.gitbook/assets/image%20%28767%29.png)
+![](../../../.gitbook/assets/image%20%28770%29.png)
 
-![](../../../.gitbook/assets/image%20%28400%29.png)
+![](../../../.gitbook/assets/image%20%28401%29.png)
 
 ### Model - Paste
 
 Then select the model name header you want to paste the effects \(in the same sequence or another sequence\), right click against the model name and select Model -&gt; Paste Effects. The data copied remains in the clipboard buffer. The Paste operation does not have to be immediately after the Copy operation.
 
-![](../../../.gitbook/assets/image%20%28344%29.png)
+![](../../../.gitbook/assets/image%20%28345%29.png)
 
 ### Row - Copy
 
@@ -143,11 +143,11 @@ If two arrows are shown, then you can’t select the cells. You may need to zoom
 
 After selecting multiple effects, the user can change an individual setting across all the selecting effects. Right Click on the effects setting to change and select Bulk Edit.
 
-![](../../../.gitbook/assets/image%20%28610%29.png)
+![](../../../.gitbook/assets/image%20%28612%29.png)
 
 A separate window will appear, allowing the user to change the setting.
 
-![](../../../.gitbook/assets/image%20%28606%29.png)
+![](../../../.gitbook/assets/image%20%28608%29.png)
 
 After Clicking OK, all the selected effects will update to the updated setting.
 

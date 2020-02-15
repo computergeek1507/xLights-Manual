@@ -6,11 +6,11 @@
 
 {% tabs %}
 {% tab title="Position" %}
-![](../../.gitbook/assets/image%20%28378%29.png)
+![](../../.gitbook/assets/image%20%28379%29.png)
 {% endtab %}
 
 {% tab title="Options" %}
-![](../../.gitbook/assets/image%20%28555%29.png)
+![](../../.gitbook/assets/image%20%28557%29.png)
 {% endtab %}
 {% endtabs %}
 

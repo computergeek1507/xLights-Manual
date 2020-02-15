@@ -1,8 +1,8 @@
 # Fan
 
-![Icon](../../.gitbook/assets/image%20%28423%29.png)
+![Icon](../../.gitbook/assets/image%20%28424%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28758%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28761%29.png)
 
 {% tabs %}
 {% tab title="Position" %}
@@ -14,7 +14,7 @@
 {% endtab %}
 
 {% tab title="Options" %}
-![](../../.gitbook/assets/image%20%28795%29.png)
+![](../../.gitbook/assets/image%20%28798%29.png)
 {% endtab %}
 {% endtabs %}
 

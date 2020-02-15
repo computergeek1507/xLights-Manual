@@ -16,15 +16,15 @@ Then click anywhere on the Canvas and drag slightly. An image of an arch will be
 
 The start channel is 1. \(You can change this later\). Change the Model name to ‘Arches-1’ or ‘Arch 1’ or anything of your choice.
 
-![](../../.gitbook/assets/image%20%28236%29.png)
+![](../../.gitbook/assets/image%20%28237%29.png)
 
 Change the Nodes Per Arch value to 25.
 
-![](../../.gitbook/assets/image%20%28235%29.png)
+![](../../.gitbook/assets/image%20%28236%29.png)
 
 The end channel \(75\) will be calculated by xLights.
 
-![](../../.gitbook/assets/image%20%28519%29.png)
+![](../../.gitbook/assets/image%20%28521%29.png)
 
 If you are adding a second model, ensure that the start and end channels do not overlap with other models.
 
@@ -42,7 +42,7 @@ Use the blue dots around the model to resize and rotate it if required. To move 
 
 The starting location of the model can be changed to the 'Blue' or 'Green' square.
 
-![](../../.gitbook/assets/image%20%28584%29.png)
+![](../../.gitbook/assets/image%20%28586%29.png)
 
 Click on the Save button \(just below the Models button\) to save the work that you have done so far. This includes the Model definition and its position on the Layout.
 

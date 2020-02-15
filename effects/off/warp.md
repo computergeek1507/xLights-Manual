@@ -1,8 +1,8 @@
 # Warp
 
-![Icon](../../.gitbook/assets/image%20%28336%29.png)
+![Icon](../../.gitbook/assets/image%20%28337%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28677%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28680%29.png)
 
 ![](../../.gitbook/assets/image%20%28168%29.png)
 

@@ -16,15 +16,15 @@ You can click Add Null and define a block of say 10,000 channels to work with \(
 
 Click on the Add E131 button:
 
-![](../../.gitbook/assets/image%20%28551%29.png)
+![](../../.gitbook/assets/image%20%28553%29.png)
 
 Select Multicast, Starting Universe \# = 1, \# of Universes = 20, Check "One Output", Last Channel = 512, and press OK. The Description filed can be left blank at this stage.
 
-![](../../.gitbook/assets/image%20%28295%29.png)
+![](../../.gitbook/assets/image%20%28296%29.png)
 
 This will create a single output with 20 universes. Each universe will have 512 channels. The start and end channel are automatically calculated and displayed in the mapping column.
 
 Click on Save Setup to save the network created.
 
-![](../../.gitbook/assets/image%20%28554%29.png)
+![](../../.gitbook/assets/image%20%28556%29.png)
 

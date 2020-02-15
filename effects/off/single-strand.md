@@ -6,11 +6,11 @@
 
 {% tabs %}
 {% tab title="Chase" %}
-![](../../.gitbook/assets/image%20%28776%29.png)
+![](../../.gitbook/assets/image%20%28779%29.png)
 {% endtab %}
 
 {% tab title="Skips" %}
-![](../../.gitbook/assets/image%20%28214%29.png)
+![](../../.gitbook/assets/image%20%28215%29.png)
 {% endtab %}
 {% endtabs %}
 

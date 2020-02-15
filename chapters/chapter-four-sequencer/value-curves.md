@@ -10,7 +10,7 @@ Consider the Bars effect. It has two attributes ‘Palette Rep’ and ‘Cycles�
 
 However, if you click on the Value Curve icon for either of these attributes, you will be presented with options to change how these repetitions are applied.
 
-![Value Curve Dialog](../../.gitbook/assets/image%20%28781%29.png)
+![Value Curve Dialog](../../.gitbook/assets/image%20%28784%29.png)
 
 The Flat option is the same as the default linear option. The level can be used to adjust the intensity.
 
@@ -20,15 +20,15 @@ In other scenarios, Value Curves and for other effects, different sliders are av
 
 Click on the drop down link and a number of options are presented.
 
-![Value Curve Types](../../.gitbook/assets/image%20%28313%29.png)
+![Value Curve Types](../../.gitbook/assets/image%20%28314%29.png)
 
 Select the Ramp Value curve. As the image indicates, this will cause the selected attribute \(say Palette Reps\), to increase \(ramp up\) over time, starting from 20% and ending at 80%. Note that the Start level and End level sliders are now active.
 
-![](../../.gitbook/assets/image%20%28227%29.png)
+![](../../.gitbook/assets/image%20%28228%29.png)
 
 Another type of Value Curve is the Sawtooth variation. The selected attribute to which this is being applied \(palette reps\) will increase and decrease twice \(controlled by the Cycles selected\) from a start level to and End level.
 
-![](../../.gitbook/assets/image%20%28813%29.png)
+![](../../.gitbook/assets/image%20%28816%29.png)
 
 Custom Value Curves can also be created. Select the Custom option from the drop-down. You can then click on the waveform to add new points and drag them as necessary.
 
@@ -36,7 +36,7 @@ Custom Value Curves can also be created. Select the Custom option from the drop-
 
 Value curves can be loaded and exported as a .XVC file. By default, the files will be loaded and previewed if they are in the 'valuecurves' folder automatically created in the current show folder.
 
-![](../../.gitbook/assets/image%20%28282%29.png)
+![](../../.gitbook/assets/image%20%28283%29.png)
 
 ![](../../.gitbook/assets/image-808.png)
 

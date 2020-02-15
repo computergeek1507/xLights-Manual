@@ -1,8 +1,8 @@
 # Spirograph
 
-![Icon](../../.gitbook/assets/image%20%28633%29.png)
+![Icon](../../.gitbook/assets/image%20%28635%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28744%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28747%29.png)
 
 ![](../../.gitbook/assets/image%20%28186%29.png)
 
