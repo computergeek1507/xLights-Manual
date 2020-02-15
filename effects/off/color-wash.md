@@ -1,10 +1,10 @@
 # Color Wash
 
-![Icon](../../.gitbook/assets/image%20%28799%29.png)
+![Icon](../../.gitbook/assets/image%20%28801%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28487%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28489%29.png)
 
-![](../../.gitbook/assets/image%20%28412%29.png)
+![](../../.gitbook/assets/image%20%28414%29.png)
 
 The Color Wash effect creates a wash effect of the selected color or colors across the model. Can be effective if multiple colors are selected and the effect is used as a background effect.
 

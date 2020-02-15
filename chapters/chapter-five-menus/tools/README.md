@@ -2,7 +2,7 @@
 
 ## Tools
 
-![](../../../.gitbook/assets/image%20%28672%29.png)
+![](../../../.gitbook/assets/image%20%28674%29.png)
 
 The Tools menu contains the Test , Convert, Generate Custom Models, View Logs, Package Problem Files, Export Models, Export Effects, FPP Connect, Package Sequence, and xSchedule functions.
 
@@ -38,17 +38,17 @@ The Generate Custom Model function enables you to generate an xLights custom mod
 
 The Generate Lyrics From Data allows xLights to generate Lyric Timing Tracks with Phonemes from channel data. This data can be a LOR LMS or LAS file, that has been imported as a data layer first. Select the start channel of the channel data and the offset for each mouth movement channel. xLights will then generate the Phonemes Track from this data.
 
-![](../../../.gitbook/assets/image%20%28458%29.png)
+![](../../../.gitbook/assets/image%20%28460%29.png)
 
 ### Generate 2D Path
 
 This 2D Path Generate Tool allows you to create X and Y value curve "paths" that can then be used by effects like the shape effect.
 
-![](../../../.gitbook/assets/image%20%28809%29.png)
+![](../../../.gitbook/assets/image%20%28811%29.png)
 
 Click and Drag the endpoint Dots, to move them. Double Click to add a new Line Segment. The Browse button allows the user to load a image to trace if needed. The slider will adjust the image brightness. Load will allow you to edit previously generated files. The Generate Button will save the path to two value curves files \(X & Y Direction\) to be loaded by an effect.
 
-![ Value curve Files](../../../.gitbook/assets/image%20%28679%29.png)
+![ Value curve Files](../../../.gitbook/assets/image%20%28681%29.png)
 
 ### Prepare Audio
 
@@ -112,7 +112,7 @@ A CSV file will be created with a row for each effect defined listing all the ke
 
 ### FPP Connect
 
-![](../../../.gitbook/assets/image%20%28394%29.png)
+![](../../../.gitbook/assets/image%20%28396%29.png)
 
 FPP Connect is used to upload to a Falcon Pi Player that is playing the role as a show player the channel and model configurations and one or more sequences \(including associated audio\).
 
@@ -120,11 +120,11 @@ FPP Connect is used to upload to a Falcon Pi Player that is playing the role as 
 
 ### User Lyric Dictionary
 
-![](../../../.gitbook/assets/image%20%28420%29.png)
+![](../../../.gitbook/assets/image%20%28422%29.png)
 
 The User Lyric Dictionary Dialog allows the user to manually add word phonemes breakdowns to the user dictionary file in the current show folder. This list will be used in addition to the standard and extended library, to breakdown works when creating lyric tracks. Enter your new work into the first text box. The second text box will auto search the current word list and find similar words and display their phonemes. The second box supports multiple words separated by a space. Once you are happy with the phonemes breakdown you can add it to the library.
 
-![](../../../.gitbook/assets/image%20%28658%29.png)
+![](../../../.gitbook/assets/image%20%28660%29.png)
 
 ### Download Sequences/Lyrics
 
@@ -132,11 +132,11 @@ The Download Sequences/Lyrics Dialog provides a list of free sequences available
 
 This Dialog also contains links to the Singing Faces Project Lyric tracks. You must be a member of the singing faces project to access these files.
 
-![](../../../.gitbook/assets/image%20%28717%29.png)
+![](../../../.gitbook/assets/image%20%28719%29.png)
 
 ### Batch Render
 
-![](../../../.gitbook/assets/image%20%28812%29.png)
+![](../../../.gitbook/assets/image%20%28814%29.png)
 
 Batch Render allows the user to re-render multiple sequence files. This is useful if a Layout change was made and all the FSEQ files need to be updated. The "Filter" drop-down allows the user to select which folders to search for the sequence XML files in.
 
@@ -151,7 +151,7 @@ If "Recursive Search" or "Recursive Search - No Backups" is selected the "Folder
 
 Place a check-mark next to the sequence XML file name you plan to batch render. There is a right click menu to Select All or Select None.
 
-![](../../../.gitbook/assets/image%20%2896%29.png)
+![](../../../.gitbook/assets/image%20%2897%29.png)
 
 Click OK to render all the Sequence XML file.
 

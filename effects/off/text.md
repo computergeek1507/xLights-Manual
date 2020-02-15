@@ -2,11 +2,11 @@
 
 ## Text
 
-![Icon](../../.gitbook/assets/image%20%28214%29.png)
+![Icon](../../.gitbook/assets/image%20%28215%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28172%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28173%29.png)
 
-![](../../.gitbook/assets/image%20%28248%29.png)
+![](../../.gitbook/assets/image%20%28249%29.png)
 
 The Text effect enables up to 20 lines of text, all individually controlled to be displayed. The content of the text can be static, but can also include countdown timers.
 

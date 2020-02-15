@@ -1,10 +1,10 @@
 # Fire
 
-![Icon](../../.gitbook/assets/image%20%28552%29.png)
+![Icon](../../.gitbook/assets/image%20%28554%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28664%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28666%29.png)
 
-![](../../.gitbook/assets/image%20%28569%29.png)
+![](../../.gitbook/assets/image%20%28571%29.png)
 
 The Fire effect creates an effect that appears as licks of flames. Used most effectively on models such as a mega tree or a matrix.
 

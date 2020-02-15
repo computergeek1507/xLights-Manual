@@ -1,10 +1,10 @@
 # State
 
-![Icon](../../.gitbook/assets/image%20%28187%29.png)
+![Icon](../../.gitbook/assets/image%20%28188%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28433%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28435%29.png)
 
-![](../../.gitbook/assets/image%20%28339%29.png)
+![](../../.gitbook/assets/image%20%28340%29.png)
 
 The State effect is similar to the Faces effect, but enables you to have similar functionality for props that are not standard ‘Faces’ - such as Reindeer Coro faces, a seven segment FM ‘Tune to sign’ with a colon and a dot etc \(image examples as below\):
 

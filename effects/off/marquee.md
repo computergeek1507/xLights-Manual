@@ -1,16 +1,16 @@
 # Marquee
 
-![Icon](../../.gitbook/assets/image%20%28410%29.png)
+![Icon](../../.gitbook/assets/image%20%28412%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28515%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28517%29.png)
 
 {% tabs %}
 {% tab title="Settings" %}
-![](../../.gitbook/assets/image%20%28620%29.png)
+![](../../.gitbook/assets/image%20%28622%29.png)
 {% endtab %}
 
 {% tab title="Positions" %}
-![](../../.gitbook/assets/image%20%28555%29.png)
+![](../../.gitbook/assets/image%20%28557%29.png)
 {% endtab %}
 {% endtabs %}
 

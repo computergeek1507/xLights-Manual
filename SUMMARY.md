@@ -155,6 +155,11 @@
   * [Warp](effects/off/warp.md)
   * [Wave](effects/off/wave.md)
 
+## Appendicies
+
+* [Glossary](appendicies/glossary.md)
+* [Keyboard Shortcuts](appendicies/keyboard-shortcuts.md)
+
 ## Tutorials
 
 * [Configure Matrix Panels](tutorials/configure-matrix-panels.md)

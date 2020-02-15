@@ -1,10 +1,10 @@
 # Snowflakes
 
-![Icon](../../.gitbook/assets/image%20%28372%29.png)
+![Icon](../../.gitbook/assets/image%20%28373%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28268%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28269%29.png)
 
-![](../../.gitbook/assets/image%20%28562%29.png)
+![](../../.gitbook/assets/image%20%28564%29.png)
 
 The Snowflakes effect paints a picture of falling particles i.e. a similar to snowflakes falling on snow. This effect works best with a single color selected. Multiple colors can be selected and depending on the type of the snowflake either one color or multiple colors will be used.
 
