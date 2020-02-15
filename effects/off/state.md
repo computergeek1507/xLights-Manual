@@ -1,10 +1,10 @@
 # State
 
-![Icon](../../.gitbook/assets/image%20%28162%29.png)
+![Icon](../../.gitbook/assets/image%20%28181%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28387%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28425%29.png)
 
-![](../../.gitbook/assets/image%20%28296%29.png)
+![](../../.gitbook/assets/image%20%28331%29.png)
 
 The State effect is similar to the Faces effect, but enables you to have similar functionality for props that are not standard ‘Faces’ - such as Reindeer Coro faces, a seven segment FM ‘Tune to sign’ with a colon and a dot etc \(image examples as below\):
 
@@ -16,7 +16,7 @@ The State effect is similar to the Faces effect, but enables you to have similar
 
 This effect is somewhat similar to the Faces effects i.e uses many of the same concepts.
 
-However there are a number of differences and therefore this effect  can be used when there are a number of ‘non standard’ elements that you wish to control. You can define upto 40 different combinations of channels to turn on and off \(each combination via a state setting\).
+However there are a number of differences and therefore this effect can be used when there are a number of ‘non standard’ elements that you wish to control. You can define upto 40 different combinations of channels to turn on and off \(each combination via a state setting\).
 
 There are pre defined state values to support numbers and color options to cycle through or allocate specific colors to specific number digits.
 
@@ -32,9 +32,9 @@ Then click on the State Property, to open up the State definition window.
 
 ![](https://lh6.googleusercontent.com/IzliaKYCvu9bVkuZHmg9Q8UPIk0w3TWamSRF3EIU_FBOl9-DyPvnQTlsNfAwolxI9c6EhSEcuxIcec-dnSpWlHGOnB-gt7pAsB_OndrEoaXyzpeNxAt1CBqL0gw2bqheE88Apm37)
 
-Click on Add and specify a Name for the State \(‘State1’ in this example\). From the  drop down box , select either Single Range or Node ranges.
+Click on Add and specify a Name for the State \(‘State1’ in this example\). From the drop down box , select either Single Range or Node ranges.
 
-You can specify upto 40 different combinations  of states along with the channels to be turned on for each state. In the example , ‘wink’ will turn on channels 1,5 and 8 and ‘blink’ will turn on channels 1,2,5,and 8.  For this type of effect, any words can be used - just ensure that the same words are used on the timing track and the matching nodes will be turned on.
+You can specify upto 40 different combinations of states along with the channels to be turned on for each state. In the example , ‘wink’ will turn on channels 1,5 and 8 and ‘blink’ will turn on channels 1,2,5,and 8. For this type of effect, any words can be used - just ensure that the same words are used on the timing track and the matching nodes will be turned on.
 
 To can define additional or different combinations by creating a new state definition \(say State2\) and having another set of upto 40 States defined.
 
@@ -50,17 +50,17 @@ Similar to other custom models, create or import the channel setup via the Mode 
 
 On the sequencer tab, drop the State effect against the Custom model \(Bruno in this example\).
 
-Edit the timing track and enter the labels to match the state definitions. In this example, select the timing track ‘New Timing’ , create two timing bars \(press lower case ‘t’ with the cursor in the waveform area\), then double click on the white horizontal line between the two timing marks and enter the label text \(eyesleft, eyesright etc\)  in the pop up window. Ensure that the text exactly matches one of the states defined.
+Edit the timing track and enter the labels to match the state definitions. In this example, select the timing track ‘New Timing’ , create two timing bars \(press lower case ‘t’ with the cursor in the waveform area\), then double click on the white horizontal line between the two timing marks and enter the label text \(eyesleft, eyesright etc\) in the pop up window. Ensure that the text exactly matches one of the states defined.
 
-In the Effects setting window, select ‘State1’ as the state definition, enable and select the Timing Track ‘New Timing’  as the source and select ‘Iterate’ as the Mode.
+In the Effects setting window, select ‘State1’ as the state definition, enable and select the Timing Track ‘New Timing’ as the source and select ‘Iterate’ as the Mode.
 
 ![](https://lh5.googleusercontent.com/qsjwecNo68H2eneRn6K5XbFxPxYvIykEufN8gNurPQlwkxx6gASPFon8KtT2znELdR5t7swztG2rwK7mtl8QW6D0Fmw6ixZNlWZPy6gwd5GbR7fyP0kPkDCjWkLrME6eKi03IhbE)
 
-Similar to the way phonemes work on the Faces effect , this will cause the states  ‘eyesleft’, ‘eyesright’ and ‘wink’ to be activated.  Iterate causes it to  loop around equally for the timespan duration selected for the effect.
+Similar to the way phonemes work on the Faces effect , this will cause the states ‘eyesleft’, ‘eyesright’ and ‘wink’ to be activated. Iterate causes it to loop around equally for the timespan duration selected for the effect.
 
-You can create multiple Timing tracks and add labels to each track matching the defined states if required.  You can also select a specific State to turn on instead of using the Timing track by checking the State attribute and selecting the State value \(wink or another from the drop down list\).
+You can create multiple Timing tracks and add labels to each track matching the defined states if required. You can also select a specific State to turn on instead of using the Timing track by checking the State attribute and selecting the State value \(wink or another from the drop down list\).
 
-If you select ‘Default’ as the mode, then the selected states will be activated once \(with equal duration\).   
+If you select ‘Default’ as the mode, then the selected states will be activated once \(with equal duration\).
 
 The Color attribute has the following options:
 
@@ -86,5 +86,5 @@ In the default mode, if you wish to turn on the number ‘123’, then you would
 
 ‘Colon’ and ‘Dot’ represent the colon and dot respectively.
 
-These state names are predefined to work for a seven segment display.  The nodes however can be assigned to each State/ Number as required.
+These state names are predefined to work for a seven segment display. The nodes however can be assigned to each State/ Number as required.
 

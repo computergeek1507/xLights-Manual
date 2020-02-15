@@ -1,14 +1,14 @@
 # Off
 
-![Icon](../../.gitbook/assets/image%20%28532%29.png)
+![Icon](../../.gitbook/assets/image%20%28578%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28616%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28666%29.png)
 
-![](../../.gitbook/assets/image%20%28669%29.png)
+![](../../.gitbook/assets/image%20%28727%29.png)
 
 The Off effect simply turns every pixel off on the model/group that it is placed on.
 
-This effect can be used in between other effects, to create a situation of a few seconds of  “all lights off”, followed by effects coming on suddenly.
+This effect can be used in between other effects, to create a situation of a few seconds of “all lights off”, followed by effects coming on suddenly.
 
 It can also be used on layers to adjust when an effect on another layer come on and goes off.
 

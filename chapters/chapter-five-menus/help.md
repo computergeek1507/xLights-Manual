@@ -2,7 +2,7 @@
 
 ## Help
 
-![](../../.gitbook/assets/image%20%28258%29.png)
+![](../../.gitbook/assets/image%20%28290%29.png)
 
 ### User Manual
 
@@ -57,6 +57,4 @@ Checks for new version of xLights. This is also done automatically on program st
 ### About
 
 The About option display a window containing xLights release information, the official website, copyright and acknowledgements.
-
-
 

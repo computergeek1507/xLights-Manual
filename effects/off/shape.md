@@ -1,10 +1,10 @@
 # Shape
 
-![Icon](../../.gitbook/assets/image%20%2848%29.png)
+![Icon](../../.gitbook/assets/image%20%2853%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28661%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28717%29.png)
 
-![](../../.gitbook/assets/image%20%28495%29.png)
+![](../../.gitbook/assets/image%20%28540%29.png)
 
 The shape effect displays different geometric shapes. They are predefined sharps or System Font can be used.
 
@@ -32,6 +32,4 @@ The shape effect displays different geometric shapes. They are predefined sharps
 | **Trigger level** | Music intensity level to trigger from. |
 | **Fire with timing track** | Display shapes based on a timing track. |
 | **Timing Track** | Timing track to trigger shapes from. |
-
-
 

@@ -2,13 +2,13 @@
 
 ## Liquid
 
-![Icon](../../.gitbook/assets/image%20%284%29.png)
+![Icon](../../.gitbook/assets/image-4.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28455%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28495%29.png)
 
-![](../../.gitbook/assets/image%20%28377%29.png)
+![](../../.gitbook/assets/image%20%28415%29.png)
 
-The Liquid effect is based on a liquid particle simulation algorithm. Up to four liquid particle  sources can be enabled. Based on Google's LiquidFun fluid simulation. [http://google.github.io/liquidfun/](http://google.github.io/liquidfun/)
+The Liquid effect is based on a liquid particle simulation algorithm. Up to four liquid particle sources can be enabled. Based on Google's LiquidFun fluid simulation. [http://google.github.io/liquidfun/](http://google.github.io/liquidfun/)
 
 <table>
   <thead>
@@ -20,7 +20,7 @@ The Liquid effect is based on a liquid particle simulation algorithm. Up to four
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><b>Top, Bottom, </b>
+        <p><b>Top, Bottom,</b>
         </p>
         <p><b>Left, Right Barriers</b>
         </p>

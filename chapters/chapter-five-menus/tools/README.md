@@ -2,9 +2,9 @@
 
 ## Tools
 
-![](../../../.gitbook/assets/image%20%28606%29.png)
+![](../../../.gitbook/assets/image%20%28656%29.png)
 
-The Tools menu contains the Test , Convert, Generate Custom Models, View Logs, Package Problem Files, Export Models, Export Effects, FPP Connect, Package Sequence, and xSchedule  functions.
+The Tools menu contains the Test , Convert, Generate Custom Models, View Logs, Package Problem Files, Export Models, Export Effects, FPP Connect, Package Sequence, and xSchedule functions.
 
 ### Test
 
@@ -38,37 +38,37 @@ The Generate Custom Model function enables you to generate an xLights custom mod
 
 The Generate Lyrics From Data allows xLights to generate Lyric Timing Tracks with Phonemes from channel data. This data can be a LOR LMS or LAS file, that has been imported as a data layer first. Select the start channel of the channel data and the offset for each mouth movement channel. xLights will then generate the Phonemes Track from this data.
 
-![](../../../.gitbook/assets/image%20%28410%29.png)
+![](../../../.gitbook/assets/image%20%28448%29.png)
 
 ### Generate 2D Path
 
-This 2D Path Generate Tool allows you to create X and Y value curve "paths" that can then be used by effects like the shape effect. 
+This 2D Path Generate Tool allows you to create X and Y value curve "paths" that can then be used by effects like the shape effect.
 
-![](../../../.gitbook/assets/image%20%28727%29.png)
+![](../../../.gitbook/assets/image%20%28790%29.png)
 
-Click and Drag the endpoint Dots, to move them. Double Click to add a new Line Segment. The Browse button allows the user to load a image to trace if needed. The slider will adjust the image brightness. Load will allow you to edit previously generated files. The Generate Button will save the path to two value curves  files \(X & Y Direction\) to be loaded by an effect.
+Click and Drag the endpoint Dots, to move them. Double Click to add a new Line Segment. The Browse button allows the user to load a image to trace if needed. The slider will adjust the image brightness. Load will allow you to edit previously generated files. The Generate Button will save the path to two value curves files \(X & Y Direction\) to be loaded by an effect.
 
-![ Value curve Files](../../../.gitbook/assets/image%20%28613%29.png)
+![ Value curve Files](../../../.gitbook/assets/image%20%28663%29.png)
 
 ### Prepare Audio
 
-Prepare Audio allows xLights to load an audio "Cut List" file and edit an audio file to remove sections of a song or combine multiple songs. Reaper files\(.rpp\) and xAudio Files \(.xAudio\) Files. 
+Prepare Audio allows xLights to load an audio "Cut List" file and edit an audio file to remove sections of a song or combine multiple songs. Reaper files\(.rpp\) and xAudio Files \(.xAudio\) Files.
 
 ### Check Sequence
 
-The Check Sequence option runs a series of verification routines against the currently loaded setup, layout and sequence.  This process will generate a text file containing information on the controller outputs, channel mappings and model information as well as identify any potential issues which could cause problems within xLights.  Selecting the option will open up a text file using the default text file editor on your computer.
+The Check Sequence option runs a series of verification routines against the currently loaded setup, layout and sequence. This process will generate a text file containing information on the controller outputs, channel mappings and model information as well as identify any potential issues which could cause problems within xLights. Selecting the option will open up a text file using the default text file editor on your computer.
 
 ![](https://lh3.googleusercontent.com/P31ipFUYMnP5Q32CAklY25M7nFZXsD-ugsO8FqJykqrn7gtN7-Sn73mFYEAUix74bn6e0Ot_tWsFBNhcdUERmBNzjQfZw5GjqTRIoCLMEKKU8pa5Ba6l7FhTsv6Q3ajYnSkt3Ktx)
 
 {% hint style="warning" %}
-ERRORS in a check sequence file indicate there is something wrong with your setup, layout, or sequence and the show will not run correctly.  Errors should be fixed before trying to run the sequence from your controllers.
+ERRORS in a check sequence file indicate there is something wrong with your setup, layout, or sequence and the show will not run correctly. Errors should be fixed before trying to run the sequence from your controllers.
 
-WARNINGS are indications that something is not typical, but the show will still run.  Verifying that the warnings are intended, or correcting their cause is recommended before running the sequence from your controllers.
+WARNINGS are indications that something is not typical, but the show will still run. Verifying that the warnings are intended, or correcting their cause is recommended before running the sequence from your controllers.
 {% endhint %}
 
 ### Cleanup File Locations
 
-Cleanup File Locations will move all the files currently used by xLights \(audio, videos, pictures, etc\) into the Show directory.  This is useful when backing up or packaging your sequence for sharing, so that all of the needed files and paths are retained.
+Cleanup File Locations will move all the files currently used by xLights \(audio, videos, pictures, etc\) into the Show directory. This is useful when backing up or packaging your sequence for sharing, so that all of the needed files and paths are retained.
 
 ### View Log
 
@@ -80,17 +80,17 @@ The View Log option, enables a user to view the information / debug log that xLi
 
 ### Package Log Files
 
-The Package Log Files option, provides functionality to package the required xLights XML and log files  into a ZIP file which can then be provided for analysis. It is similar in content to the ZIP file created when a system crash occurs.
+The Package Log Files option, provides functionality to package the required xLights XML and log files into a ZIP file which can then be provided for analysis. It is similar in content to the ZIP file created when a system crash occurs.
 
 ![](https://lh5.googleusercontent.com/-Sc_QZp5wnF-aP1Gj351dCD76o1KsYhdAysm4tXK77DVzyb2GDmsy9faUdwBIAi1CHQKVnc8VBLTmfy60g63orHe7tvcKyoCm30Rd_AV7CDToz-4ckqi5kjBzw1LJzzpoXezctA4)
 
-From the Tools menu, with the sequence that needs to be investigated open, select the Package Log  Files option.  The required files will be zipped into a file ‘xLightsProblem.zip’ and you will be prompted to save it in the show directory.
+From the Tools menu, with the sequence that needs to be investigated open, select the Package Log Files option. The required files will be zipped into a file ‘xLightsProblem.zip’ and you will be prompted to save it in the show directory.
 
 You can change either the ZIP file name and/or the location before saving the file.
 
 ![](https://lh5.googleusercontent.com/6BCqngjJSMXgHXu5sg_p0ujJO_Fdw1Zky3oyQXB4Po6b380rUTe354PzOQYHwCoOhmXE5E0dIO10hSoAaGZ-A097ziKj3Aj__UVa8rHCMFc4cMZWHjX0yMlNio33ikupvYlffK6i)
 
-The zip file will contain the xLights network, rgbeffects, the sequence xml \(if open is open\) and a log file.  The zip file can then be provided to the xLights team for analysis.
+The zip file will contain the xLights network, rgbeffects, the sequence xml \(if open is open\) and a log file. The zip file can then be provided to the xLights team for analysis.
 
 ### Export Models
 
@@ -98,7 +98,7 @@ The Export Models functionality creates a CSV file with the details of all your 
 
 ![](https://lh5.googleusercontent.com/ZTQb1VaEXFBzwYEkK0NC5z8RONzdQDSHpkIzqqGLbxySm8j8B4poKx1o4FI5B49UuOkgRVpPdD0VJZiuxtPVMXRY4WezP-MSEQflyHe00VVfefzZTcutNocriLG2BT0HW9Xxn2fc)
 
-A CSV file will be created with a row for each model defined listing all the key attributes.  Spreadsheet programs such as Excel are used to view CSV files.
+A CSV file will be created with a row for each model defined listing all the key attributes. Spreadsheet programs such as Excel are used to view CSV files.
 
 ![](https://lh5.googleusercontent.com/Ng4CzpTHY-h6Y0K-bYhN1m43tYah9lQ-Bq8uEYyQMWgJjXm-gmi_3-s0pVPDhjRQiEU5OWgontRRuZtm-7_TmvM-p_mKDEYkpCqg0gZ_7yR20ToyIQ_JRc1WHhGQS5UDMidnjhlf)
 
@@ -106,13 +106,13 @@ A CSV file will be created with a row for each model defined listing all the key
 
 The Export Effects functionality creates a CSV file with the details of all the effects in the open sequence. Click on the Export Effects menu item. You will be prompted for a filename and location to create the file in. Specify the filename and click OK.
 
-A CSV file will be created with a row for each effect defined listing all the key attributes.  In addition summary rows are created showing the number of times each sequence is used as well as the total duration of each effect.
+A CSV file will be created with a row for each effect defined listing all the key attributes. In addition summary rows are created showing the number of times each sequence is used as well as the total duration of each effect.
 
 ![](https://lh5.googleusercontent.com/ZTQb1VaEXFBzwYEkK0NC5z8RONzdQDSHpkIzqqGLbxySm8j8B4poKx1o4FI5B49UuOkgRVpPdD0VJZiuxtPVMXRY4WezP-MSEQflyHe00VVfefzZTcutNocriLG2BT0HW9Xxn2fc)
 
 ### FPP Connect
 
-![](../../../.gitbook/assets/image%20%28350%29.png)
+![](../../../.gitbook/assets/image%20%28386%29.png)
 
 FPP Connect is used to upload to a Falcon Pi Player that is playing the role as a show player the channel and model configurations and one or more sequences \(including associated audio\).
 
@@ -120,25 +120,25 @@ FPP Connect is used to upload to a Falcon Pi Player that is playing the role as 
 
 ### User Lyric Dictionary
 
-![](../../../.gitbook/assets/image%20%28374%29.png)
+![](../../../.gitbook/assets/image%20%28412%29.png)
 
-The User Lyric Dictionary Dialog allows the user to manually add word phonemes breakdowns to the user dictionary file in the current show folder. This list will be used in addition to the standard and extended library, to breakdown works when creating lyric tracks. Enter your new work into the first text box. The second text box will auto search the current word list and find similar words and display their phonemes. The second box supports multiple words separated by a space. Once you are happy with the phonemes breakdown you can add it to the library. 
+The User Lyric Dictionary Dialog allows the user to manually add word phonemes breakdowns to the user dictionary file in the current show folder. This list will be used in addition to the standard and extended library, to breakdown works when creating lyric tracks. Enter your new work into the first text box. The second text box will auto search the current word list and find similar words and display their phonemes. The second box supports multiple words separated by a space. Once you are happy with the phonemes breakdown you can add it to the library.
 
-![](../../../.gitbook/assets/image%20%28592%29.png)
+![](../../../.gitbook/assets/image%20%28642%29.png)
 
 ### Download Sequences/Lyrics
 
-The Download Sequences/Lyrics Dialog provides a list of free sequences available on the Google Drive. You can select a Sequence to download and xLights will open the download link in your default web browser. 
+The Download Sequences/Lyrics Dialog provides a list of free sequences available on the Google Drive. You can select a Sequence to download and xLights will open the download link in your default web browser.
 
 This Dialog also contains links to the Singing Faces Project Lyric tracks. You must be a member of the singing faces project to access these files.
 
-![](../../../.gitbook/assets/image%20%28646%29.png)
+![](../../../.gitbook/assets/image%20%28700%29.png)
 
 ### Batch Render
 
-![](../../../.gitbook/assets/image%20%28730%29.png)
+![](../../../.gitbook/assets/image%20%28793%29.png)
 
-Batch Render allows the user to re-render multiple sequence files. This is useful if a Layout change was made and all the FSEQ files need to be updated. The "Filter" drop-down allows the user to select which folders to search for the sequence XML files in. 
+Batch Render allows the user to re-render multiple sequence files. This is useful if a Layout change was made and all the FSEQ files need to be updated. The "Filter" drop-down allows the user to select which folders to search for the sequence XML files in.
 
 * Recursive Search - No Backups
   * Search the show folders and sub-folder **not** including backup folders.
@@ -151,9 +151,9 @@ If "Recursive Search" or "Recursive Search - No Backups" is selected the "Folder
 
 Place a check-mark next to the sequence XML file name you plan to batch render. There is a right click menu to Select All or Select None.
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../.gitbook/assets/image%20%2892%29.png)
 
-Click OK to render all the Sequence XML file. 
+Click OK to render all the Sequence XML file.
 
 {% hint style="warning" %}
 If a Error is found during batch rendering, xLights will display a popup and will stop rendering. Monitor batch rendering to verify all the FSEQ files are created correctly.
@@ -169,7 +169,7 @@ On windows and Linux this menu option will launch the xLights scheduler/player x
 
 ### Purge Download Cache
 
-To speed up loading, xLights caches\(saves\) the download items\(Vender Model List, Free Sequence List\) for up to 5 days. Purge Download Cache deletes the cached files and forces xLights to downloaded the newest version.  This is needed when there are updated to the files available for download, but xLights is not seeing the newest list.
+To speed up loading, xLights caches\(saves\) the download items\(Vender Model List, Free Sequence List\) for up to 5 days. Purge Download Cache deletes the cached files and forces xLights to downloaded the newest version. This is needed when there are updated to the files available for download, but xLights is not seeing the newest list.
 
 ### Purge Render Cache
 

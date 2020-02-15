@@ -1,12 +1,12 @@
 # Shimmer
 
-![Icon](../../.gitbook/assets/image%20%28591%29.png)
+![Icon](../../.gitbook/assets/image%20%28641%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28452%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28492%29.png)
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
-The Shimmer effect provides an effect whereby the lights rapidly turn on and off.  One or multiple colors can be used for the effect.
+The Shimmer effect provides an effect whereby the lights rapidly turn on and off. One or multiple colors can be used for the effect.
 
 | Option/Settings | Description |
 | :--- | :--- |

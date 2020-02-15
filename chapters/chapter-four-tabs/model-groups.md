@@ -1,16 +1,16 @@
 # Model Groups
 
-### Model Groups
+## Model Groups
 
 A Model Group defines a collection of models. It is an optional entity, but very useful, in that many effects can be sequenced against the Model Group and xLights will then generate effects on all the Models in the group.
 
 A Model can belong to more than one Model Group. An an example a model ‘Arch1’ can belong to the ‘All Models Group’ Model group as well as the ‘Arches Group’
 
-You can also have models that do not belong to a Model Group  - for example a matrix that you wish to sequence effects on separately such that dropping an effect on the” All Models” group does not affect the matrix.
+You can also have models that do not belong to a Model Group - for example a matrix that you wish to sequence effects on separately such that dropping an effect on the” All Models” group does not affect the matrix.
 
 To create a Model Group, from the layout tab right click within the Model list window. Click on Add Group, enter a Model Group name in the resultant window and click Ok.
 
-![](../../.gitbook/assets/image%20%28185%29.png)
+![](../../.gitbook/assets/image%20%28206%29.png)
 
 In the layout windows, a Model Group can be added by highlight multiple models, right click, and select 'Create Group'.
 
@@ -38,14 +38,14 @@ The models that are currently in the group will be displayed in the ‘Models in
 The order of the models in the ‘Models in Group’ determines the render order of the Group Render Styles. 'Per Model' group render styles are rendered in model order top to bottom.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28463%29.png)
+![](../../.gitbook/assets/image%20%28503%29.png)
 
-To remove a Model Group, select the Model Group from the model list, right click and select  Delete Group. This will not change or remove any of the underlying models, however any effects that have been placed at that group level on the sequencer will be removed and the Model group will be removed from the Layout display if it has been added to that display.
+To remove a Model Group, select the Model Group from the model list, right click and select Delete Group. This will not change or remove any of the underlying models, however any effects that have been placed at that group level on the sequencer will be removed and the Model group will be removed from the Layout display if it has been added to that display.
 
-To rename a Model Group, select the Model Group from the same list , right click and select Rename Group.  Enter the new name for the Model Group. 'Clone Group' will create a copy of the current group with the same models. 'Delete Empty Groups' will delete Model Group with containing no models.
+To rename a Model Group, select the Model Group from the same list , right click and select Rename Group. Enter the new name for the Model Group. 'Clone Group' will create a copy of the current group with the same models. 'Delete Empty Groups' will delete Model Group with containing no models.
 
 {% hint style="info" %}
-Selecting a Model Group from the list, sets it as a filter and only that Model Group is active on the layout; as such only models that are part of that group are displayed on the Preview screen.  In order to revert back to all the models , Click on the ‘eye’ next to the Model Group name to deselect it.
+Selecting a Model Group from the list, sets it as a filter and only that Model Group is active on the layout; as such only models that are part of that group are displayed on the Preview screen. In order to revert back to all the models , Click on the ‘eye’ next to the Model Group name to deselect it.
 {% endhint %}
 
 If the ‘Overlap checks enabled’ attribute is selected, when you click on the model name in the list, it will turn yellow in the layout display to the right. If there is a channel overlap with any other model, then the other model will turn red.

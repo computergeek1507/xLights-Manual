@@ -8,93 +8,85 @@ This section describes how Singing Face functionality i.e. the conversion of phr
 
 In the model setup tab, select the singing face model, then click on the ellipsis \(three dots\) button on the Faces property.
 
-![](../../../.gitbook/assets/image%20%28395%29.png)
+![](../../../.gitbook/assets/image%20%28433%29.png)
 
-![Face Definition Window](../../../.gitbook/assets/image%20%28232%29.png)
+![Face Definition Window](../../../.gitbook/assets/image%20%28259%29.png)
 
-The 'Name' dropdown specified the currently selected Face Definition. If the dropdown is empty, then no Face Definition exist for the current model. 
+The 'Name' dropdown specified the currently selected Face Definition. If the dropdown is empty, then no Face Definition exist for the current model.
 
-![](../../../.gitbook/assets/image%20%28708%29.png)
+![](../../../.gitbook/assets/image%20%28769%29.png)
 
 Click 'Add' to create a new Face Definition.
 
-![](../../../.gitbook/assets/image%20%28611%29.png)
+![](../../../.gitbook/assets/image%20%28661%29.png)
 
 'Delete' will delete the current selected Face Definition.
 
-![](../../../.gitbook/assets/image%20%28177%29.png)
+![](../../../.gitbook/assets/image%20%28198%29.png)
 
 Click the ellipsis \(three dots\) to copy, rename or import a face definition.
 
-![](../../../.gitbook/assets/image%20%28335%29.png)
-
-
-
-
+![](../../../.gitbook/assets/image%20%28370%29.png)
 
 The drop down box below the 'Name' selector is used to select the type of face definition. There are three types of face definition.
 
-![](../../../.gitbook/assets/image%20%28712%29.png)
+![](../../../.gitbook/assets/image%20%28773%29.png)
 
 | Type | Use Case |
 | :--- | :--- |
 | Single Node | Coro Faces with LED Lights/Dumb RGB Nodes. i.e. 7/8 Channel LOR Faces |
 | Node Ranges | Coro Faces with Smart RGB Pixels Faces i.e. Boscoyo Singing Faces |
-| Matrix | Smart RGB Pixels/P5/P10 Matrices  |
+| Matrix | Smart RGB Pixels/P5/P10 Matrices |
 
 #### Single Node
 
-For each phoneme, select the channels that will be turned on.  Multiple selections can be selected, by holding down the CTRL key.
+For each phoneme, select the channels that will be turned on. Multiple selections can be selected, by holding down the CTRL key.
 
-![](../../../.gitbook/assets/image%20%28424%29.png)
+![](../../../.gitbook/assets/image%20%28462%29.png)
 
-![](../../../.gitbook/assets/image%20%28484%29.png)
+![](../../../.gitbook/assets/image%20%28527%29.png)
 
-If force custom colors is selected, then a specific color to be turned on by default. This can be specified for each phenom/row by double clicking in the color column to bring up the color palette. 
+If force custom colors is selected, then a specific color to be turned on by default. This can be specified for each phenom/row by double clicking in the color column to bring up the color palette.
 
-![Color Palette](../../../.gitbook/assets/image%20%28744%29.png)
+![Color Palette](../../../.gitbook/assets/image%20%28808%29.png)
 
 #### Node Ranges
 
-If ‘Node Ranges’ is selected, then the following window will be displayed. 
+If ‘Node Ranges’ is selected, then the following window will be displayed.
 
-![](../../../.gitbook/assets/image%20%28449%29.png)
+![](../../../.gitbook/assets/image%20%28477%29.png)
 
-Type in the list of node numbers \(pixel numbers\) for what should be turned for each movement. Example:  \("1-12,24-30"\). Double click the Nodes Column or Phenom Name to bring up the Node Select Dialog.
+Type in the list of node numbers \(pixel numbers\) for what should be turned for each movement. Example: \("1-12,24-30"\). Double click the Nodes Column or Phenom Name to bring up the Node Select Dialog.
 
-![](../../../.gitbook/assets/image%20%28587%29.png)
+![](../../../.gitbook/assets/image%20%28637%29.png)
 
 Click and drag to select the desired nodes for the selected phenom definition.
 
 ![](../../../.gitbook/assets/image%20%289%29.png)
 
- Click Ok when done selecting the nodes for the current phenom name/row.
+Click Ok when done selecting the nodes for the current phenom name/row.
 
 There is a right clicked menu that allows the user to import node numbers from a predefined submodel.
 
-![](../../../.gitbook/assets/image%20%28288%29.png)
-
-
+![](../../../.gitbook/assets/image%20%28323%29.png)
 
 If force custom colors is selected, then a specific color to be turned on by default. This can be specified for each phenom/row by double clicking in the color column to bring up the color palette.
 
-![](../../../.gitbook/assets/image%20%2878%29.png)
+![](../../../.gitbook/assets/image%20%2886%29.png)
 
 #### Matrix
 
 If a matrix is selected, then the following window will be displayed.
 
-![](../../../.gitbook/assets/image%20%28413%29.png)
+![](../../../.gitbook/assets/image%20%28451%29.png)
 
 Then for each mouth position, double click in the eyes open column \(you may need to double click more than once\) and navigate to and select the face image corresponding to that mouth position. You can specify different images for the Eyes Closed position or by default, the same image is copied across.
 
+![](../../../.gitbook/assets/image%20%28792%29.png)
 
+The 'Download Images' button will display a list of user submitted singing faces images. Select the 'Insert Face' to download the pictures files to 'DownloadedFaces' folder in the show folder. This will also populate the face definitions in the main dialog.
 
-![](../../../.gitbook/assets/image%20%28729%29.png)
-
-The 'Download Images' button will display a list of user submitted singing faces images. Select the 'Insert Face' to download the pictures files to 'DownloadedFaces' folder in the show folder. This will also populate  the face definitions in the main dialog.
-
-![](../../../.gitbook/assets/image%20%287%29.png)
+![](../../../.gitbook/assets/image-7.png)
 
 {% hint style="warning" %}
 Pay attention the image resolution compared to the matrix resolution. High resolution image will not scale well to low resolution matrices.
@@ -102,25 +94,23 @@ Pay attention the image resolution compared to the matrix resolution. High resol
 
 Then select the image placement i.e. Centered or Scaled. 'Center' with display the image in the center of the matrix. If the image resolution is greater than the matrix resolution, xLights will down scale the image to the matrix resolution. 'Scaled' will upscale the X and Y resolution of the image separately to the matrix resolution.
 
-![](../../../.gitbook/assets/image%20%28459%29.png)
-
-
+![](../../../.gitbook/assets/image%20%28499%29.png)
 
 {% hint style="danger" %}
-Images used for pictures and faces use the location reference you specify when you  added the image. xLights attempts to resolve the location of the image if it cannot be located where specified.
+Images used for pictures and faces use the location reference you specify when you added the image. xLights attempts to resolve the location of the image if it cannot be located where specified.
 
-If the images are in your show directory or in a sub folder inside your show directory, then the image will be found.  In other cases , the new location may not be detected.
+If the images are in your show directory or in a sub folder inside your show directory, then the image will be found. In other cases , the new location may not be detected.
 {% endhint %}
 
 #### Timing Tracks
 
 Next add a new Timing track. Right Click on the Row Heading and Select Add Timing Track
 
-![](../../../.gitbook/assets/image%20%2855%29.png)
+![](../../../.gitbook/assets/image%20%2861%29.png)
 
-Select a Timing Track of type ‘Empty’ and click on OK to add it. 
+Select a Timing Track of type ‘Empty’ and click on OK to add it.
 
-![](../../../.gitbook/assets/image%20%28595%29.png)
+![](../../../.gitbook/assets/image%20%28645%29.png)
 
 Right click on the name of the timing track and Select Rename Timing Track. Change it to something meaningful, such as ‘Lyrics’ or 'Main Vocals'.
 
@@ -130,18 +120,18 @@ If you have more than one Voice, then repeat this process for the second Voice.
 
 #### Phrases/Lyrics for Voice 1
 
-Select the Timing Track \(‘Lyrics’\) and for clarity deselect any others.  There are two ways to add the phrases/lyrics to the Timing Track.
+Select the Timing Track \(‘Lyrics’\) and for clarity deselect any others. There are two ways to add the phrases/lyrics to the Timing Track.
 
 1. Importing the entire set of Lyrics.  Obtain the lyrics from the internet or elsewhere, copy them, then Right click and select ‘Import Lyrics’.
 2. Type or paste the lyrics into the Window and press OK. The words of the lyrics will be evenly distributed across the song.
 
 {% hint style="info" %}
-It is also possible to import an entire timing track \(that another person has exported\)  containing the Lyrics, Words and phonemes via the Import Timing Tracks option. The file must be an  .xtimings file.
+It is also possible to import an entire timing track \(that another person has exported\) containing the Lyrics, Words and phonemes via the Import Timing Tracks option. The file must be an .xtimings file.
 {% endhint %}
 
-#### Using timing marks 
+#### Using timing marks
 
-Play through the song at regular or reduced speed and use the ‘t’ key to add timing marks at the beginning of each phrase.  Then on the timing track, between two timing marks, double click and an ‘Edit label’ box will pop up. Type in, or copy and paste the words that pertain to the phrase \(or phrases\) that belong between the two timing marks. Press Ok to accept.
+Play through the song at regular or reduced speed and use the ‘t’ key to add timing marks at the beginning of each phrase. Then on the timing track, between two timing marks, double click and an ‘Edit label’ box will pop up. Type in, or copy and paste the words that pertain to the phrase \(or phrases\) that belong between the two timing marks. Press Ok to accept.
 
 ![](https://lh5.googleusercontent.com/xn4pj-7oMhAyTc7Fp_Mvwc4nUygSKSUOWS94QiLui5uI2ehN2H_GjWLCoKFHT9n3OOu08e241gEIpMLxq1y1raoLaFAfTtjFRL2hgImJIl5X32vhNEfeFuPQev9r8tgklJIvBcEI)
 
@@ -157,7 +147,7 @@ A list of words will be generated for the phrase in a timing track, just below t
 
 ### Breakdown Words
 
-You can break down all the words into phonemes by right clicking on the Timing Track to the left of the Papagayo icon and selecting the Breakdown Words option. This will breakdown all the words  into phonemes or you can do this in sections ie: highlight a group of words, right click and accept the Breakdown Word or Breakdown Selected Words option. If the Breakdown Selected Words option does not appear, ensure that your cursor is not pointing on a word, otherwise you may only see the Breakdown Word option.
+You can break down all the words into phonemes by right clicking on the Timing Track to the left of the Papagayo icon and selecting the Breakdown Words option. This will breakdown all the words into phonemes or you can do this in sections ie: highlight a group of words, right click and accept the Breakdown Word or Breakdown Selected Words option. If the Breakdown Selected Words option does not appear, ensure that your cursor is not pointing on a word, otherwise you may only see the Breakdown Word option.
 
 {% hint style="info" %}
 Due to the loading of dictionaries, there could be a delay of several seconds the first time this is used in each session, while the first word is broken down.
@@ -199,7 +189,7 @@ Repeat the process for the next phrase or group of phrases.
 
 ### Phrases / Lyrics for Voice 2
 
-Similarly, repeat for the next Voice by selecting another model \(‘Singing Face 2’\), and the next Timing Track \(‘Lyrics 2’\).  When you drop the Face effect on the sequence grid, select the second timing track \(‘Lyrics 2’\) as the Timing Track on the Effects option and proceed as described for Voice.
+Similarly, repeat for the next Voice by selecting another model \(‘Singing Face 2’\), and the next Timing Track \(‘Lyrics 2’\). When you drop the Face effect on the sequence grid, select the second timing track \(‘Lyrics 2’\) as the Timing Track on the Effects option and proceed as described for Voice.
 
 {% hint style="success" %}
 If you wish to assign a group of phrases/words/ phonemes from one Voice/timing Track to another, then against the model of the second voice \(‘Singing face 2’\), for the selected group of phrases \(‘Chorus’\), when you drop the Face effect, select the first timing track \(‘Lyrics’\) and the effects from that timing track will be duplicated.
@@ -207,7 +197,7 @@ If you wish to assign a group of phrases/words/ phonemes from one Voice/timing T
 
 ### Checking for Unknown words in the dictionary
 
-This  step will help eliminate any words that xLights may not have in its library.
+This step will help eliminate any words that xLights may not have in its library.
 
 ![](https://lh5.googleusercontent.com/DRnK4SJnWQaXE2anSDZl4YvtUqcqsmiwXh4iOB97d13WI_5kMTYaVtMLM1Nqo8cE_Tbh0Ry4GsH1Y45qRsLIRze3OnSTwMU0BVk9VJX9quNXlrSMlsAHkTYIZr_TJlsQTFyHH227)
 
@@ -225,17 +215,15 @@ On the sequencer tab , after creating a new musical sequence or opening an exist
 
 ![](https://lh3.googleusercontent.com/8m5_ZhWFcyHe2aaVtk0bjzAnfjnSB0SzxSnchc0ncBNlupzUW1WYCSxejHy8jxICeIl85Z4FIml9jhdQFLrfFejaRQTUBSpw5oxMwlhP98NALUrf31mbSSbgQoID8S3XcMp9L3TP)![](https://lh6.googleusercontent.com/qifBn1Ot3IpTn3HuPx_Jt0Ey42x8W9Bjhb0JoZjvR9dJybk7etTuFuCdzGS1y3rnlfiFS7q-yYsZqAbMSTp3mFHOIJiOnAENwCf-tb2NTAGBAI_mvwCTvVlid7dF5j6iNUd1YrOF)
 
-Specify the number of frames to offset the data by.  Due to a performance limitation in the Papagayo software, a sequence often had to be broken up into segments. In which case the second segment had to be offset by the number of frames of the first segment.
+Specify the number of frames to offset the data by. Due to a performance limitation in the Papagayo software, a sequence often had to be broken up into segments. In which case the second segment had to be offset by the number of frames of the first segment.
 
 ![](https://lh3.googleusercontent.com/YBH6edh3YAaayIAPb7RAvN8B_nHTFop0uYj2v2dgC5uTEEdOxkZ_-YWm0VoKkQlq5KSE13M3GVlIZYhT0ZY81rPm_rB9n7Bz-nW08JxpVUdSdf9XoBNWL6lhLD3JSr3yCGuiT1x3)
 
-For the first segment being imported  the offset is zero. Click on OK.
+For the first segment being imported the offset is zero. Click on OK.
 
 The Phrases, words and phonemes are imported and a timing track with the three components is created for each Voice contained in the PGO file. The phrases, words and phonemes can then be edited, moved and adjusted similar to one that had been created within xLights.
 
 ![](https://lh3.googleusercontent.com/Kp-DRVjI63YfzFTyWNbqpSW7VfPRwpmpvbjxaoi5DJNxkiOyVR8szpVP0CEyvI2byErZw8HkTZfi5rDy6YBc-vdAu4fcG2-ahrO31vF1v_6kl8Mb6byPXBfZaMTmmyvj-DRbdDji)
-
-
 
 The following image shows a snippet of what the file contains. The 4th line contains the total number of frames and the 5th line has the number of Voices in the file, followed by the details for each voice.
 

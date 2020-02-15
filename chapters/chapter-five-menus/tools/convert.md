@@ -1,6 +1,6 @@
 # Convert
 
-### Convert
+## Convert
 
 The Convert function is commonly used to convert a sequence file from one sequencer format to the format of another sequencer or to the format \(.fseq\) required to run via Falcon Player on a Raspberry Pi or BeagleBone Black controller.
 
@@ -10,9 +10,9 @@ It is not to be used to convert into an xLights sequence – use the Data Layer 
 
 Supported input/output formats are:
 
-![](../../../.gitbook/assets/image%20%28104%29.png)
+![](../../../.gitbook/assets/image%20%28113%29.png)
 
-![Convert Dialog](../../../.gitbook/assets/image%20%28486%29.png)
+![Convert Dialog](../../../.gitbook/assets/image%20%28529%29.png)
 
 1. Click on Choose Files, and on the subsequent window, change the file type to the type of file that you wish to convert and navigate to where your input file \(i.e. LOR LMS file etc\) is located. Select the file and Click Open or Double click to select the file.
 

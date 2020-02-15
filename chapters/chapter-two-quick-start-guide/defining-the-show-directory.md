@@ -8,17 +8,17 @@ If this is the first time that you have installed xLights on the computer, then 
 
 You should be presented with the following screen:
 
-![Select Show Directory Dialog](../../.gitbook/assets/image%20%28436%29.png)
+![Select Show Directory Dialog](../../.gitbook/assets/image%20%28474%29.png)
 
 This screen will allow you to navigate to and select the directory folder. You can also create a new folder and then select it.
 
 {% hint style="info" %}
-If you have not created a separate folder as yet, then it is recommended that you do so.  That way all your xLights user files are in one place and can be easily transported or backed up.
+If you have not created a separate folder as yet, then it is recommended that you do so. That way all your xLights user files are in one place and can be easily transported or backed up.
 {% endhint %}
 
 After setting up your show folder the main xLights window should appear.
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 ## \*\*\*\*
 

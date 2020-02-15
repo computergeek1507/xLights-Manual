@@ -1,12 +1,12 @@
 # Changing Color Settings
 
-### Changing Color Settings
+## Changing Color Settings
 
 From the Color window, you can change the Colors that apply to the effect, as well as the Sparkles, Brightness and Contrast values. How effects use the colors is defined by the effect. Some support just one, some support up to 8.
 
-![](../../../.gitbook/assets/image%20%28610%29.png)
+![](../../../.gitbook/assets/image%20%28660%29.png)
 
-Use the Sparkles slider to increase the sparkles for the effect. If the Sparkles reflect music option is selected, then the sparkles will increase from the selected value based on the intensity of the  music.
+Use the Sparkles slider to increase the sparkles for the effect. If the Sparkles reflect music option is selected, then the sparkles will increase from the selected value based on the intensity of the music.
 
 Use the Brightness slider to increase or decrease the brightness of the effect.
 
@@ -14,47 +14,47 @@ Use the Brightness slider to increase or decrease the brightness of the effect.
 If this window is not open, select and open the Window from the Views, Window menu. You can save all your window positions as a “Perspective” for easy recall.
 {% endhint %}
 
-### Changing Colors
+## Changing Colors
 
-To change the colors used by an effect, select the effect, and double click the color that needs to be modified. 
+To change the colors used by an effect, select the effect, and double click the color that needs to be modified.
 
-![](../../../.gitbook/assets/image%20%28773%29.png)
+![](../../../.gitbook/assets/image-773.png)
 
 The Color Manager Dialog allows the use to then select a different color.
 
-![](../../../.gitbook/assets/image%20%2838%29.png)
+![](../../../.gitbook/assets/image%20%2841%29.png)
 
 The user can create custom colors by clicking "Define Custom Colors" and manually adjusting the RGB color settings.
 
-![](../../../.gitbook/assets/image%20%28251%29.png)
+![](../../../.gitbook/assets/image%20%28283%29.png)
 
-For any effect, you can change the initial colors  selected for the effect by selecting a different color or colors from the Color Window. You can use the Control key and select multiple effects.
+For any effect, you can change the initial colors selected for the effect by selecting a different color or colors from the Color Window. You can use the Control key and select multiple effects.
 
-Once you select all the effects and change the color , hit the Update button in the color panel.  It will modify just the colors for all selected effects.
+Once you select all the effects and change the color , hit the Update button in the color panel. It will modify just the colors for all selected effects.
 
 You can open/close the Color Window by Clicking on the Effect Colors icon in the toolbar.
 
-![](../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../.gitbook/assets/image%20%2822%29.png)
 
 {% hint style="success" %}
 Clicking on the any of the color icons opens up a Palette window, where the standard colors can then be replaced with a new standard color or a custom color can be selected.
 {% endhint %}
 
-### Color Palettes
+## Color Palettes
 
 The Save button allows the user to save the current selected color for future use as a color palette. These color palette files are stored in the current show folder.
 
-![](../../../.gitbook/assets/image%20%28422%29.png)
+![](../../../.gitbook/assets/image%20%28460%29.png)
 
-The Drop-Down allows the user to select the previously saved color palette stored in the show folder. 
+The Drop-Down allows the user to select the previously saved color palette stored in the show folder.
 
-![](../../../.gitbook/assets/image%20%28442%29.png)
+![](../../../.gitbook/assets/image%20%28482%29.png)
 
 The update button will save any pending changes to the currently selected color palette file. Delete will delete the selected color palette file. If the user hovers over the color palette, the file name will appear.
 
-![](../../../.gitbook/assets/image%20%28141%29.png)
+![](../../../.gitbook/assets/image%20%28158%29.png)
 
-### Color Curves
+## Color Curves
 
 This functionally enables a color to change within an effect duration I.E. where previously the same color value would have been displayed for a particular segment duration it can now be made to change within that segment duration.
 
@@ -62,7 +62,7 @@ As an example, drop a Bars effect against a model on the grid.
 
 After selecting the required colors \(white, red and green in this example\), right click on the first color .
 
-![](../../../.gitbook/assets/image%20%28369%29.png)
+![](../../../.gitbook/assets/image%20%28407%29.png)
 
 The Color Curves window is displayed.
 
@@ -96,21 +96,21 @@ To can export a color curve by clicking on the Export button. You will be prompt
 
 Similarly you can load a previously exported color curve file by clicking on the load button and then navigating to the location of a .xcc file and selecting it.
 
-#### Types of Color Curves
+### Types of Color Curves
 
-Color curves can be timed based or spatial based. A timed based color curve will change color over the duration of the effect, while a spatial color curve will change over the models X/Y location. A spatial color curve has direction.  The icon below the color specified what type of color curve is selected. Click the icon to change the color curve type. A clock is a time based and an arrow is used for a spatial color curve. The Direction of the arrow represents the direction of the spatial color curve.
+Color curves can be timed based or spatial based. A timed based color curve will change color over the duration of the effect, while a spatial color curve will change over the models X/Y location. A spatial color curve has direction. The icon below the color specified what type of color curve is selected. Click the icon to change the color curve type. A clock is a time based and an arrow is used for a spatial color curve. The Direction of the arrow represents the direction of the spatial color curve.
 
-![](../../../.gitbook/assets/image%20%28673%29.png)
+![](../../../.gitbook/assets/image%20%28731%29.png)
 
-This functionality works on most effects but not all. For example – it is not applicable to effects such as DMX,  Faces, Fire, Glediator, Pictures, State and Video.
+This functionality works on most effects but not all. For example – it is not applicable to effects such as DMX, Faces, Fire, Glediator, Pictures, State and Video.
 
-### Single Channel Colors
+## Single Channel Colors
 
-Single Channel colors react only to the color that they are defined as.  If you define them as single color blue then it will only react to the blue channel.  You can set any color and it will route the blue portion of that color to that model.
+Single Channel colors react only to the color that they are defined as. If you define them as single color blue then it will only react to the blue channel. You can set any color and it will route the blue portion of that color to that model.
 
-If you send White \(R=255, G=255 B=255\), to a single color blue model then it will turn fully blue.  If you send blue it will turn fully blue. If you send red or green it won't turn on at all. If you send pink which is R=255, G=0, B=128 you will get a half brightness blue.
+If you send White \(R=255, G=255 B=255\), to a single color blue model then it will turn fully blue. If you send blue it will turn fully blue. If you send red or green it won't turn on at all. If you send pink which is R=255, G=0, B=128 you will get a half brightness blue.
 
-You can therefore include those single color models inside a group and they will react to the colors dropped on the group.  Any of the "blue" components of the RGB values assigned to that model will cause it to fire at the associated brightness of the component.
+You can therefore include those single color models inside a group and they will react to the colors dropped on the group. Any of the "blue" components of the RGB values assigned to that model will cause it to fire at the associated brightness of the component.
 
 The strings will light up with the intensity of the color for each channel. So if you send Purple R=128, G=0, B=128\), that will light up all the Red and Blue strings but only about 50% intensity.
 

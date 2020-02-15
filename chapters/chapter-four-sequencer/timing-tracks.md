@@ -2,9 +2,7 @@
 
 ## Timing Tracks
 
-xLights can support multiple timing tracks on the sequencer, each with different frequencies of timing marks. By default, a timing track ‘New Timing’ is created for each sequence if you have not created one when creating a new sequence.  Timing Tracks can be added via the Settings, Sequence Settings, Timing menu.
-
-
+xLights can support multiple timing tracks on the sequencer, each with different frequencies of timing marks. By default, a timing track ‘New Timing’ is created for each sequence if you have not created one when creating a new sequence. Timing Tracks can be added via the Settings, Sequence Settings, Timing menu.
 
 ![](https://lh6.googleusercontent.com/qWnjCtQ6z7tU-HaRfPjCdukqXjanKwqByBIwgLL3gZeeHlJ2WK-f544vRUIp2-2bpGlan7TZ6vke7ylioqZFYFn7C8nbkSBOUEjyErqdw1OGmRPOwGogfYaSuTLEtUrnO80COiY5)
 
@@ -19,13 +17,13 @@ You can also import a Timing track that has been created externally. Click on th
 ![](https://lh3.googleusercontent.com/12QtPYnhVDORqwqr_-hFLwzabT2fs2axkkSSAH7O-oLAgxWzGG4LBiXtYQAYfU_t4C_By9q1BNhZI4tK6VWA1-Cu0-91CuvekVBgOerQx0fRqTNsB5bOG1S_jKdp1buxPmIujTxb)
 
 {% hint style="info" %}
-If you are trying to import a LOR timing grid and it is not retrieved i.e. the window is empty, use any xml supported editor and check the LMS xml file for a section called &lt;timingGrids&gt;.  The section should contain a subsection called &lt;timingGrid&gt; which must contain an attribute called "type=freeform".
+If you are trying to import a LOR timing grid and it is not retrieved i.e. the window is empty, use any xml supported editor and check the LMS xml file for a section called &lt;timingGrids&gt;. The section should contain a subsection called &lt;timingGrid&gt; which must contain an attribute called "type=freeform".
 {% endhint %}
 
 When you create a timing track it gets added to all views that you have defined. Timing tracks are local to a sequence.
 
 {% hint style="info" %}
-The timing marks create a grid but once the effects are dropped they have no relation to the original timing marks that were used to drop them.  You can switch to any other timing track and have a completely different grid.
+The timing marks create a grid but once the effects are dropped they have no relation to the original timing marks that were used to drop them. You can switch to any other timing track and have a completely different grid.
 {% endhint %}
 
 If you have multiple timing tracks defined,
@@ -33,8 +31,6 @@ If you have multiple timing tracks defined,
 * Each timing track has a different color of timing marks.
 * You can select the timing track radio button \(to the left of the timing track name\) to enable that track. You can also select more than one timing track to be displayed at the same time, however only one timing track will be active for effects to calculate the start and end position.
 * You can rename a timing track , by right clicking on the timing track name and then providing a new name in the window that gets displayed.
-
-
 
 ![](https://lh3.googleusercontent.com/Lm0V6P5ht4qLyB3PiVSnkV69xQSZMIvD1bPUaLxDejAjl3cJYzEqFfFokk23F78jFJKx8rred7Dgd_R5tbsTs5CH0knB9XXOyt9LViMCd7ri-n7UVRd82V7CvqBuGuEEhMppfY0C)
 
@@ -46,25 +42,25 @@ You can also have xLights create fixed timing interval timing tracks by selectin
 
 When xLights created a Metronome timing it is generated as a Fixed Timing Tracks. Fixed Timing Tracks are not editable and the timing marks cannot be changed. Fixed timing tracks are colored orange in the sequence tab by default.
 
-![](../../.gitbook/assets/image%20%28618%29.png)
+![](../../.gitbook/assets/image%20%28668%29.png)
 
 To edit a Fixed timing track the user must right click and select Make Timing Track Variable.
 
-![](../../.gitbook/assets/image%20%28349%29.png)
+![](../../.gitbook/assets/image%20%28385%29.png)
 
 ### Adding/Removing Timing Track
 
 While on the sequencer tab, you can add new timing tracks or delete an existing timing track at any time.
 
-Right Click , with your cursor  in the area of the timing track names and select Add Timing Track or Delete Timing Track.
+Right Click , with your cursor in the area of the timing track names and select Add Timing Track or Delete Timing Track.
 
-![](../../.gitbook/assets/image%20%28415%29.png)
+![](../../.gitbook/assets/image%20%28453%29.png)
 
 ### Importing Timing Track
 
 You can also import timing marks created externally \(the most common being those created via Audacity or another xLights sequence\).
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](../../.gitbook/assets/image%20%28406%29.png)
 
 This capability includes importing a Singing Face \(xLights Papagayo\) timing track.
 
@@ -96,23 +92,21 @@ You can export the file as a PGO file , if you wish to provide the file for use 
 
 Multiple timing tracks can be exported to a single XTIMING file by selected them from the following dialog.
 
-![](../../.gitbook/assets/image%20%2874%29.png)
-
-
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 {% hint style="success" %}
-Timings are created just like effects which means they have a duration.  Every timing effect has a starting edge and an ending edge. So you can have a timing effect that goes from 1 to 2 seconds and then another from 3 to 4 seconds with nothing in between 2 and 3 seconds.  If you want one in there just select a range and hit "t" then drag the edges over to connect to the existing timing effects.
+Timings are created just like effects which means they have a duration. Every timing effect has a starting edge and an ending edge. So you can have a timing effect that goes from 1 to 2 seconds and then another from 3 to 4 seconds with nothing in between 2 and 3 seconds. If you want one in there just select a range and hit "t" then drag the edges over to connect to the existing timing effects.
 {% endhint %}
 
 ## Import Notes
 
-The purpose of this function is to create a timing track by importing the notes from an external source such as a MIDI file,  from an externally generated source such as Audacity or from a music XML file.
+The purpose of this function is to create a timing track by importing the notes from an external source such as a MIDI file, from an externally generated source such as Audacity or from a music XML file.
 
 Right Click on the Timing Track name and select Import Notes.
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
-Specify a name for the Timing Track to be created , the Notes Source,  and then navigate to and select the file from which the notes are to be Import.
+Specify a name for the Timing Track to be created , the Notes Source, and then navigate to and select the file from which the notes are to be Import.
 
 ![](https://lh6.googleusercontent.com/7wqZ-7F9o5oYYuZi9ZVMg3uiLks1siB2K_-UJhK7zvnjy_9Ip9hiQrkD-ZhoZtbXe6E_0bjDGqrkAVKS6GE36fxxuOjQeI0tVIjdcxkn_p7Z9NYwhRNmxALmd1r4_ZD4OL3LPonr)
 

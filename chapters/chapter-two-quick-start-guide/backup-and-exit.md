@@ -4,11 +4,11 @@
 
 Click on the File Menu.
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 The drop down list has options to backup files, close the sequence and Quit xLights.
 
-Click on the Backup option \(or press F10\).  The backup process will copy all xml files \(including key xLights setup and the model definition from your show directory only.
+Click on the Backup option \(or press F10\). The backup process will copy all xml files \(including key xLights setup and the model definition from your show directory only.
 
 You can also click on Alternate Backup or press F11 to backup to a different location.
 
@@ -20,10 +20,10 @@ A message is displayed indicating the name and location of the backup files.
 
 ![](https://lh5.googleusercontent.com/1FiwD0OceJZWIBo59970AGhf7OgQbfU0xCZYgdGhdOYdMT6CHQ8T_05PdZlltOK5gBd3xQfQUcEq2TMtN7X2nsIju0Y7_JZOJ4BQ15c5UUtk-Sdq_26h3ytomkHGIMl3oG2BdGrl)
 
-Select Yes to accept.  Then, from the file menu again, click on Close Sequence.
+Select Yes to accept. Then, from the file menu again, click on Close Sequence.
 
-Then click on Quit.  
-  
+Then click on Quit.
+
 If the following message is displayed, xLights has detected that there has been a change to the Model or View definitions that has yet to be saved.
 
 ![](https://lh3.googleusercontent.com/P0kwwHQy73eMDquOi9aiak9nMBULUy90y_gwvNW0vLft9vB47KvuUXHXGnICTbPpcZnUGUkElxomAJqAs2H54fGB6WcDtc0HTcD-1pLx37ZGyfLOTiVzf84qzT0DLVlGQJ6BawCs)

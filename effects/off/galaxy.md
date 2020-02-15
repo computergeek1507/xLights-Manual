@@ -1,31 +1,25 @@
 # Galaxy
 
-![Icon](../../.gitbook/assets/image%20%28376%29.png)
+![Icon](../../.gitbook/assets/image%20%28414%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28194%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28217%29.png)
 
 {% tabs %}
 {% tab title="Start" %}
-
-
-![](../../.gitbook/assets/image%20%28431%29.png)
+![](../../.gitbook/assets/image%20%28469%29.png)
 {% endtab %}
 
 {% tab title="End" %}
-
-
-![](../../.gitbook/assets/image%20%2873%29.png)
+![](../../.gitbook/assets/image-73.png)
 {% endtab %}
 
 {% tab title="Options" %}
-
-
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 {% endtab %}
 {% endtabs %}
 
-The Galaxy effect creates a spiral like effect that expands around the model either clockwise or counterclockwise. Used most effectively on models such as a mega tree or a matrix.  
-  
+The Galaxy effect creates a spiral like effect that expands around the model either clockwise or counterclockwise. Used most effectively on models such as a mega tree or a matrix.
+
 One or multiple colors can be used for the effect. If multiple colors are selected, than the spiral will be made up of the selected colors.
 
 | Options/Settings | Description |

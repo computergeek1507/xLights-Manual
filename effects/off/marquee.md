@@ -1,24 +1,20 @@
 # Marquee
 
-![Icon](../../.gitbook/assets/image%20%28365%29.png)
+![Icon](../../.gitbook/assets/image%20%28402%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28462%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28502%29.png)
 
 {% tabs %}
 {% tab title="Settings" %}
-
-
-![](../../.gitbook/assets/image%20%28561%29.png)
+![](../../.gitbook/assets/image%20%28607%29.png)
 {% endtab %}
 
 {% tab title="Positions" %}
-
-
-![](../../.gitbook/assets/image%20%28497%29.png)
+![](../../.gitbook/assets/image%20%28542%29.png)
 {% endtab %}
 {% endtabs %}
 
-The Marquee effect displays scrolling lines or bands of pixels around the edge of an model or from one end of a line to the other.  One or multiple colors can be used for the effect.  If multiple colors are selected, then the bands of the effect will be sequentially selected from the colors chosen.
+The Marquee effect displays scrolling lines or bands of pixels around the edge of an model or from one end of a line to the other. One or multiple colors can be used for the effect. If multiple colors are selected, then the bands of the effect will be sequentially selected from the colors chosen.
 
 <table>
   <thead>

@@ -6,7 +6,7 @@ The top section of the display window is the Timeline section and indicates the 
 
 ![](https://lh3.googleusercontent.com/0zrLdhjmOeseeKYsShrrNazVDj-OjZOZM04MMtbVDOQAqoD2Usjwp6oZlBaS5VStdjZs5LtBB27UccIQhIYUmeMsKBfnsHSAM2tYKDuXsRd7ZGkhsL0ht_1kt-YtCVCcjamJjwGZ)
 
-You can select an area on the timeline – depicted by the arrows - and you can then play that section once independent of the section highlighted to be played on the waveform. At the end of playing that section, the highlighted arrows disappear, leaving the waveform highlight to be played.  Clicking anywhere in the timeline or highlighting an area in the timeline initiates auto play, without losing the waveform selection.
+You can select an area on the timeline – depicted by the arrows - and you can then play that section once independent of the section highlighted to be played on the waveform. At the end of playing that section, the highlighted arrows disappear, leaving the waveform highlight to be played. Clicking anywhere in the timeline or highlighting an area in the timeline initiates auto play, without losing the waveform selection.
 
 ![](https://lh5.googleusercontent.com/8-RECaL0SUFqghlz5uCnhYBgcdqrmYTpYKYTe8xJYSpNYWkpRHJjb3YapdzisPvXVlTCJnMaWbkdisbduV-AmklHU37b58-nRi7sY_WE2MAxUnAytvfcKabScdwUoVfyM_uhHkWw)
 
@@ -14,25 +14,21 @@ The waveform displays a sonographic representation of the audio portion of the m
 
 ![](https://lh3.googleusercontent.com/7MKMFnl8ZLYRIHLktySJmF_2g9sv-W4Gz69eXC8WZcgnQW1HkhPXYX7il900vuxpdFiB_PIG11__mwPUoBRFEXZBbHy4PMVPmXDwM7WPlf3Stpxd8U1z1llbscbhAFzEcy2Bkh5J)
 
-
-
 ### Zoom in and Zoom out
 
- You can control the focus of the waveform.
+You can control the focus of the waveform.
 
-![](../../.gitbook/assets/image%20%28318%29.png)
+![](../../.gitbook/assets/image%20%28353%29.png)
 
 * Zoom in on the waveform by double clicking on the waveform. Keep double clicking until you've got a zoom setting you can use. Or click on the ‘+’ button.
 * To zoom out, hold the shift key and double click on the waveform or click on the ‘-‘- button.
 * Click the edge of an effect, hold down control and use the mouse scroll wheel to go in or out.
 
-
-
 ![](https://lh5.googleusercontent.com/MR3tvjFsokDXzc_FfcSOHIgyiNyIWwsAXgRdfQCmAPCWaq68YpAAncBq1Q_QcZX0k4NsgFtV0GdzUiLAdCYdTiW_zOhOHJoHd8nwe0unGxf5ZYDldZTxSHekY8j_30Sup7CbyqFI)
 
 ### Scroll Left/Right
 
-Click on the waveform. Then hold down the Shift key and use the scroll key of the mouse to move the waveform and grid  left or right.
+Click on the waveform. Then hold down the Shift key and use the scroll key of the mouse to move the waveform and grid left or right.
 
 ![](https://lh5.googleusercontent.com/QgN8Z2J2Swimtu17GonCbQ2_RxhEnLdxBlxh1aBEm_Gx408hy3-MDRcHap_7BJIhvHHNpJfY6U5dGPmlwfhpQp8w1vxidFCHFFOJy53uLKCT9fKaHwWgzY648CNGBGewMsVRs4KS)
 
@@ -51,11 +47,11 @@ You can highlight a range on the waveform to play only that section. If you move
 * Highlighting a portion of the waveform will cause only that section to be played. Pressing the spacebar will replay that section.
 * The ‘Replay’ button  will replay the highlighted section of the waveform. It will start from the beginning of the highlighted area and when it reaches the end of the area , will loop back to play from the beginning of that area.  
 
-![](../../.gitbook/assets/image%20%28741%29.png)
+![](../../.gitbook/assets/image%20%28805%29.png)
 
-Clicking on an effect in the grid will not alter the waveform area that has been highlighted to be played. The effect becomes the focus point, if you zoom in and out, but the play range does not change.  If you do want the start position to move to where your effect is, or to be based on the edit position in the grid, then double click in the grid and that will then remove any highlighted position/area in the waveform and set the start position in line with where you have double clicked.
+Clicking on an effect in the grid will not alter the waveform area that has been highlighted to be played. The effect becomes the focus point, if you zoom in and out, but the play range does not change. If you do want the start position to move to where your effect is, or to be based on the edit position in the grid, then double click in the grid and that will then remove any highlighted position/area in the waveform and set the start position in line with where you have double clicked.
 
-To scroll Left/ Right, click in the grid. Then hold down the Shift key and use the scroll key of the mouse to move the grid  left or right.
+To scroll Left/ Right, click in the grid. Then hold down the Shift key and use the scroll key of the mouse to move the grid left or right.
 
 ### Audio Scrubbing
 
@@ -63,17 +59,17 @@ Hold the Ctrl key down and placing the mouse on the waveform, click and hold the
 
 ![](https://lh6.googleusercontent.com/dAvSX8fxrtKr2AMLUcNL9oFUTYOli4_OV2YHNQzW0m8vym-hVP2m0KvNED04f8GyFye9zizH9ojQPQy1YpN0JU7UflCzqXIpMlpsb7dOf4H8THknCmlU8QzQUBJSZ5mzWtskm-xb)
 
-The audio will be played as you scrub the line. Therefore you can play a small section again and again, backwards and forwards so as  to identify a particular note inflection, timing mark or a word of a lyric.
+The audio will be played as you scrub the line. Therefore you can play a small section again and again, backwards and forwards so as to identify a particular note inflection, timing mark or a word of a lyric.
 
 ### Timeline Tags
 
-![Red Boxes Highlight Timeline Tags](../../.gitbook/assets/image%20%28707%29.png)
+![Red Boxes Highlight Timeline Tags](../../.gitbook/assets/image%20%28768%29.png)
 
 Timeline Tags allow the user to create "bookmarks" or "shortcuts" on timeline numbered 0-9. You can then type CTRL + 0-9 to scroll the timeline to the numbered tag's location. To add a timeline tag right-click on the timeline at the desired timing location and select a number 0-9. Numbers with check-marks already have tags placed on the timeline. You can reuse a tag with a check-mark but the previous location will be overwritten.
 
-![](../../.gitbook/assets/image%20%28398%29.png)
+![](../../.gitbook/assets/image%20%28436%29.png)
 
 To delete a timeline tag Right Click on the timeline and Select Delete and then the number of the tag you want to remove.
 
-![](../../.gitbook/assets/image%20%28696%29.png)
+![](../../.gitbook/assets/image%20%28757%29.png)
 

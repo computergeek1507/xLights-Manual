@@ -2,12 +2,12 @@
 
 ## Editing **Preview Layouts**
 
-The Preview Window displays the available preview windows, enables you to select a different view  and also enables you to create additional Preview Layout windows. To create a new Preview Layout, select the &lt;Create New Preview&gt; option from the window.
+The Preview Window displays the available preview windows, enables you to select a different view and also enables you to create additional Preview Layout windows. To create a new Preview Layout, select the &lt;Create New Preview&gt; option from the window.
 
 ![Preview1.png](https://lh4.googleusercontent.com/fkksPejWP-O3NFjHRxHC58zUVhygG_AazcbMsQkSnVc01I5a80K6EFsBi6JPCJTdiTSZdV_2Y8b2oW1sVr9-p1-iM9MryYXQlpqVAwQqDzn9dzYAeXSwy1lPcwDJ1nhmDH8cKhk7)
 
 {% hint style="info" %}
-When would you create an additional Preview layout?  If you had a corner block and you wanted to sequence from 2 directions or if you have a really wide block you can split it so everything does not become small, or if you are sequencing multiple houses in your street.
+When would you create an additional Preview layout? If you had a corner block and you wanted to sequence from 2 directions or if you have a really wide block you can split it so everything does not become small, or if you are sequencing multiple houses in your street.
 {% endhint %}
 
 Enter the name for the Preview Layout and click Ok.
@@ -24,7 +24,7 @@ The image size has to be the same as the default image and as such, it is not av
 
 The preview window can now be used to create Models or Model Groups against similar to the Default Preview layout. Models can be reassigned to the different Preview by changing the "Preview" Model Setting.
 
-![](../../.gitbook/assets/image%20%28650%29.png)
+![](../../.gitbook/assets/image%20%28704%29.png)
 
 If you wish to delete the preview , right click within the window and click on the ‘Delete this Preview’ option.
 
@@ -32,11 +32,9 @@ If you wish to delete the preview , right click within the window and click on t
 
 When a Preview is Deleted, All the Models currently assigned to it will become unassigned and need to be reassigned to another preview.
 
-![](../../.gitbook/assets/image%20%28210%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
-
-
-When an additional Preview is created, a  ‘Previews’ option to select and open it on your sequencer will be available on the View menu. Click on the preview name to open the Preview window. This option is not available if only the Default preview exists.
+When an additional Preview is created, a ‘Previews’ option to select and open it on your sequencer will be available on the View menu. Click on the preview name to open the Preview window. This option is not available if only the Default preview exists.
 
 ![Preview5.png](https://lh3.googleusercontent.com/eBFfopaGgh28ncGRj4W4WFzjYDNcAAq6FMaPpbFxFDIhsx4r1X6JG6eK-pPqXAXT0G66lpOrma2FUKBpDRxxPKwh4o2oRvmVtNoxJaC5kzH6tKEzyB8q3lgNB7ov11MZVKdXQf1n)
 

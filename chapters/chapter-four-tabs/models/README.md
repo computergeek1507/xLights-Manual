@@ -4,15 +4,15 @@
 
 A model in xLights defines the entire required characteristic about a single physical element of your display. Typically it will represent a common item such as an arch, a matrix, a straight line, flood light as well as more esoteric and custom made items such as singing trees, candy canes, a snowman etc.
 
-It defines the type of lights, the number of channels and other characteristics required to render the sequence data.  When a model is defined, it is retained in an xLights configuration .xml file in the show directory. It can be reused for all subsequent sequences – however it needs to be added to the sequence grid of each sequence as required in order for effects to then be sequenced against the model.
+It defines the type of lights, the number of channels and other characteristics required to render the sequence data. When a model is defined, it is retained in an xLights configuration .xml file in the show directory. It can be reused for all subsequent sequences – however it needs to be added to the sequence grid of each sequence as required in order for effects to then be sequenced against the model.
 
 {% hint style="info" %}
-Refer to the View section on how this can be automated using Views.  A model is made up of one or more strands, and each strand is made up of one or more nodes.
+Refer to the View section on how this can be automated using Views. A model is made up of one or more strands, and each strand is made up of one or more nodes.
 {% endhint %}
 
 At the top of the layout screen is a row of Model icons. If you hover the cursor on each icon, the model name will be displayed. The model icons represent an Arch, Candy Cane, Circle, Custom model, Icicles Matrix, Single Line, Spinner, Star, Tree, Window Frame, Wreath and Import Custom. The last icon labelled ‘Import’ Custom enables you to import and create a custom model that has been exported from another sequence.
 
-![](../../../.gitbook/assets/image%20%28213%29.png)
+![](../../../.gitbook/assets/image%20%28238%29.png)
 
 To define a new Model, click on the Model icon that you wish to create once. The model icon will have a dark blue square around it. Then with your mouse left button click on the layout canvas , and keep your mouse button still held down. The model shape will appear on the canvas in yellow. If it does not , then left click on the canvas and drag slightly. At the same time , a model is created and displayed in the Model panel that is normally to the left of the Layout screen.
 
@@ -32,7 +32,7 @@ When the model is aligned horizontally, a red horizontal line will be displayed.
 
 ![](https://lh5.googleusercontent.com/lx4kE7JP13W3yjoFHo-W8FBkl-tltwJzqm6yxjza_YXGWQWw5dzjhlaxv9oKoyaxn1Os76aHWwh0ZFe8L54RsYl0Z1NUgszAfh745_an9AL52cJjQwBoxs4Kj9mRvD6ewmFLKvyf)
 
-When the model is aligned vertically, a blue vertical  line will be displayed.
+When the model is aligned vertically, a blue vertical line will be displayed.
 
 ![](https://lh4.googleusercontent.com/B_Edk9IVKObPYlDR--o_6J-d7w0YkcYOlwUquOM9OmBRiEwIPwnpyz5hjTyCk1VEBb83bbBE8wWV6zuygYoluynKD9FiJ1hTugLvC6meDAEwjBVb7ngWbCK8IdLXl4YyulC2oP5u)
 
@@ -40,7 +40,7 @@ In this image, the Single Line model has two points. The bottom left is green an
 
 ![](https://lh4.googleusercontent.com/x7UYtT0ngHm30kDD2FXV0lhYUeb-S5JPUsEsrMR5sjYrtSTXwOw-XaVm9Tnvo2ThMA7LNDYARI6_xL-IgVpWVUW8CIOuNgcsrWqtgAxK2dXtkK_HIq97zT-ozB_bLm0RKR5DJY6W)
 
-If you double click on the Single Line model icon \(instead of using a single click\) , then you can draw a single line \(say as part of the roof line\), then click on the layout again and draw another segment from the end of the first segment - this will create another model and so on. Or you can use this technique to draw multiple arches at the same time.  Click on the model icon again to deselect it.
+If you double click on the Single Line model icon \(instead of using a single click\) , then you can draw a single line \(say as part of the roof line\), then click on the layout again and draw another segment from the end of the first segment - this will create another model and so on. Or you can use this technique to draw multiple arches at the same time. Click on the model icon again to deselect it.
 
 {% hint style="success" %}
 Both of the above examples have alternate ways of being implemented \(using the Poly Line model or using the ‘\# of Arches ‘ attribute’ in the model definition of the Arch model.
@@ -74,7 +74,7 @@ You can also use the Undo function i.e Ctrl-Z to remove the model that has just 
 
 ### Creating Multiple Model Instances
 
-You can select the model image on the canvas, press Ctrl-C to copy and then Ctrl-V to paste. A new model instance will be created.  You can also double-click on the Model icon that you wish to create. The model icon will have a grey/light blue square around it. Then with your mouse left button click on the layout canvas. The model shape will appear on the canvas \(surrounded by five blue squares\). A left click on the canvas again at the required location will create another instance of the model. And so on. To end the process, click on any of the model icons once.
+You can select the model image on the canvas, press Ctrl-C to copy and then Ctrl-V to paste. A new model instance will be created. You can also double-click on the Model icon that you wish to create. The model icon will have a grey/light blue square around it. Then with your mouse left button click on the layout canvas. The model shape will appear on the canvas \(surrounded by five blue squares\). A left click on the canvas again at the required location will create another instance of the model. And so on. To end the process, click on any of the model icons once.
 
 ### Rename a Model
 
@@ -94,7 +94,7 @@ Once a model has been defined, a quick way to duplicate definitions is to select
 
 ## Right Click Menu
 
-![](../../../.gitbook/assets/image%20%2860%29.png)
+![](../../../.gitbook/assets/image%20%2867%29.png)
 
 {% hint style="info" %}
 The Right Click Menu has some entries that don't apply to individual models and they will not be covered in this section.
@@ -106,19 +106,19 @@ This will resize the model so the number of node in the vertical and horizontal 
 
 ### Node Layout
 
-The node layout  window is then displayed. The s1, s2, etc. represent the string numbers, the n1,n2,n3,etc represent the node count.
+The node layout window is then displayed. The s1, s2, etc. represent the string numbers, the n1,n2,n3,etc represent the node count.
 
-![Node Layout Dialog](../../../.gitbook/assets/image%20%28794%29.png)
+![Node Layout Dialog](../../../.gitbook/assets/image-794.png)
 
 ### Lock
 
 Lock a model in place to prevent it from being moved. The Model handles will appear red when a model is locked.
 
-![](../../../.gitbook/assets/image%20%28320%29.png)
+![](../../../.gitbook/assets/image%20%28355%29.png)
 
 ### Unlock
 
-Unlock a model so a model can be moved. 
+Unlock a model so a model can be moved.
 
 ### Export as a Custom xLights Model
 
@@ -128,7 +128,7 @@ Create a Custom Model file from a built in Model Type. Use only if you wire your
 
 Displays a view of how to wire your model based on the Model properties. This can be saved or printed by right clicking on the dialog.
 
-![](../../../.gitbook/assets/image%20%28336%29.png)
+![](../../../.gitbook/assets/image%20%28371%29.png)
 
 ### Export xLights Model
 

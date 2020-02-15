@@ -1,26 +1,22 @@
 # Shockwave
 
-![Icon](../../.gitbook/assets/image%20%28181%29.png)
+![Icon](../../.gitbook/assets/image%20%28202%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28764%29.png)
+![Sequencer Grid](../../.gitbook/assets/image-764.png)
 
 {% tabs %}
 {% tab title="Position" %}
-
-
-![](../../.gitbook/assets/image%20%28343%29.png)
+![](../../.gitbook/assets/image%20%28378%29.png)
 {% endtab %}
 
 {% tab title="Options" %}
-
-
-![](../../.gitbook/assets/image%20%28509%29.png)
+![](../../.gitbook/assets/image%20%28555%29.png)
 {% endtab %}
 {% endtabs %}
 
 The Shockwave effect describes a circular object that starts small and expands to a larger circle. The effect can be configured to do the opposite i.e. start as a large circle and shrink to a smaller one.
 
-One or multiple colors can be used for the effect.  If multiple colors are used, then as the effect expands or contracts, the circle color will cycle through the selected colors.
+One or multiple colors can be used for the effect. If multiple colors are used, then as the effect expands or contracts, the circle color will cycle through the selected colors.
 
 | Option/Settings | Description |
 | :--- | :--- |

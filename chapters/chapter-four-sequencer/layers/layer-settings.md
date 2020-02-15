@@ -2,40 +2,40 @@
 
 ## Layer Settings
 
-![](../../../.gitbook/assets/image%20%28310%29.png)
+![](../../../.gitbook/assets/image%20%28345%29.png)
 
 The Layer Settings window can be opened by clicking on the Layer Settings icon from the toolbar, or via the View, Windows menu.
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2839%29.png)
 
 #### Reset panel when changing effects
 
-![](../../../.gitbook/assets/image%20%28545%29.png)
+![](../../../.gitbook/assets/image%20%28591%29.png)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
 ### Buffer
 
-![](../../../.gitbook/assets/image%20%28334%29.png)
+![](../../../.gitbook/assets/image%20%28369%29.png)
 
 #### Render Style
 
-This attribute controls how the buffer is laid out for a model or model group when the effect is rendered.  Every model has a ‘Default’ buffer which can be view by opening the model's node layout in the Layout Tab.
+This attribute controls how the buffer is laid out for a model or model group when the effect is rendered. Every model has a ‘Default’ buffer which can be view by opening the model's node layout in the Layout Tab.
 
-![Arch Model Render Styles ](../../../.gitbook/assets/image%20%28307%29.png)
+![Arch Model Render Styles ](../../../.gitbook/assets/image%20%28342%29.png)
 
 For example, for Arches – the default buffer treats each arch as a single line and stacks the arches on top of eachother, for a Star model, the default is a square grid that cases effects to chase across the face of a star.
 
-Additional options are available to change the buffer representation for the model or group.  The list of values that are selectable are dynamic depending on the type of model.
+Additional options are available to change the buffer representation for the model or group. The list of values that are selectable are dynamic depending on the type of model.
 
-![](../../../.gitbook/assets/image%20%28695%29.png)
+![](../../../.gitbook/assets/image%20%28755%29.png)
 
-For model groups, additional buffer render styles are available. The list below discrips all model render styles. 
+For model groups, additional buffer render styles are available. The list below discrips all model render styles.
 
 | Render Style | ​Description |
 | :--- | :--- |
 | Default | Uses the Default buffer for a model or SubModel and Per Preview for a Model Group. |
-| Per Preview  |  This will render the way the model has been laid out in the preview. |
+| Per Preview | This will render the way the model has been laid out in the preview. |
 | Single Line | Places all the strings/stands end to end and renders the effect on the resulting one pixel high line. |
 | As Pixel | Treats all the model nodes as one pixel. |
 | Horizontal Stacked | Places each Model next to each other horizontally in a single row that is aligned to the bottom |
@@ -57,13 +57,13 @@ For model groups, additional buffer render styles are available. The list below 
 
 When using the "Per Preview" render style, this dropdown allows the user to select which viewpoint to use. 2D is the default.
 
-![](../../../.gitbook/assets/image%20%28214%29.png)
+![](../../../.gitbook/assets/image%20%28239%29.png)
 
 #### Transformation
 
 The transformation attributes can be used to rotate the effect clockwise, counter clockwise \(90 or 180 degrees\) or to flip it either horizontally or vertically.
 
-![](../../../.gitbook/assets/image%20%28100%29.png)
+![](../../../.gitbook/assets/image%20%28108%29.png)
 
 {% hint style="info" %}
 While some effects have settings to do similar things this is now the standard way to flip or rotate an effect.
@@ -73,18 +73,18 @@ While some effects have settings to do similar things this is now the standard w
 
 This attribute will cause the effect to ‘blur’ i.e. the colors become less distinct \(hazy\) and the edges of two colors will fade into each other i.e. will not have sharp edges. The level of haziness can be increased from 0 onwards using the slider or adjusted using the Value Curve functionality by clicking on the Value Curve icon.
 
-![](../../../.gitbook/assets/image%20%28408%29.png)
+![](../../../.gitbook/assets/image%20%28446%29.png)
 
 #### Sub Buffer Selection
 
 The Sub Buffer selection can be used to limit the area that an effect is active. This basically redefines the size of the model/group \(on a per effect basis\). This option is different than masking, because the entire effect is rendered based on this new model size, whereas a mask covers up what you specify.
 
-![](../../../.gitbook/assets/image%20%28648%29.png)
+![](../../../.gitbook/assets/image%20%28702%29.png)
 
-So if you only want the effect to be on the top half of the model or group, bring the bottom part of the dotted yellow line to the middle of the black box.  The ‘handles’ of the yellow grid are in the corners. Double Clicking will reset the defaults to the full size.
+So if you only want the effect to be on the top half of the model or group, bring the bottom part of the dotted yellow line to the middle of the black box. The ‘handles’ of the yellow grid are in the corners. Double Clicking will reset the defaults to the full size.
 
 {% hint style="success" %}
-If you right click on the black box you can access and select some of the common  buffer settings. ‘Full Buffer’ will reset to the full size. The "Edit" option allows the user to manually input the X/Y locations and use value curves.
+If you right click on the black box you can access and select some of the common buffer settings. ‘Full Buffer’ will reset to the full size. The "Edit" option allows the user to manually input the X/Y locations and use value curves.
 {% endhint %}
 
 As an example, drop the Fire effect on a Model Group covering your ‘whole house’.
@@ -97,9 +97,9 @@ The Sub-Buffer area selection also supports Value Curves. The bounding box handl
 
 #### Persistent
 
-The Persistent option when enabled does not clear the display buffer before rendering each frame.  The result is the preview frame remains until overwritten by a subsequent frame. For example, drop the balls or fan effect on a model, select the blending to “Effect 1”, then toggle Persistent on/off. You will see a huge difference. Doing the same for a “Chase” effect also results in a very different look.
+The Persistent option when enabled does not clear the display buffer before rendering each frame. The result is the preview frame remains until overwritten by a subsequent frame. For example, drop the balls or fan effect on a model, select the blending to “Effect 1”, then toggle Persistent on/off. You will see a huge difference. Doing the same for a “Chase” effect also results in a very different look.
 
-![](../../../.gitbook/assets/image%20%28600%29.png)
+![](../../../.gitbook/assets/image%20%28650%29.png)
 
 The term came from high persistence scopes where each trace just kept layering on top of previous traces.
 
@@ -107,7 +107,7 @@ The term came from high persistence scopes where each trace just kept layering o
 
 The Roto-Zoom functionality enables the effect to be Rotated as well as have aspects of the effect Zoomed.
 
-![](../../../.gitbook/assets/image%20%28676%29.png)
+![](../../../.gitbook/assets/image%20%28714%29.png)
 
 The Preset defines the type of rotation to be applied to the effect. The effect can be continuously rotated clockwise or counterclockwise, made to explode outwards , implode inwards , shake etc.
 

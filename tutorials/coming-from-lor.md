@@ -4,8 +4,7 @@
 
 ### LOR to DMX Channel conversion
 
-The following table describes the conversion of a LOR Unit id to a DMX address. As an example, if you have a controller with a Unit id of 03, then when converted to run under DMX, the channel ranges will be 33 to 48.  
-
+The following table describes the conversion of a LOR Unit id to a DMX address. As an example, if you have a controller with a Unit id of 03, then when converted to run under DMX, the channel ranges will be 33 to 48.
 
 | LOR Unit ID | DMX Address | LOR Unit ID | DMX Address |
 | :--- | :--- | :--- | :--- |
@@ -34,7 +33,7 @@ The following diagram shows an example of how LOR controllers can be connected i
 
 ![](https://lh5.googleusercontent.com/YneUk4XYocaquvQJ45Lz95Mn-t1cQsWSX4-f1Sf0PRVZrQ8nsh7YbZ3POWv1pro3QaPHINc94556KPVyrRJ2DZII9VwVuZLCIPOnRxvbbgRxyAv4VDdHjh0GtngpwDvzl4QbO0nI)
 
-You must use the LOR hardware utility to set the DMX start address on a LOR controller if the controller doesn’t have on board channel selection.  The next diagram shows an example of how LOR controller addresses are set in a DMX universe. The controllers do not need to be physically connected in order of the controllers start address. The controllers can be put in any order.
+You must use the LOR hardware utility to set the DMX start address on a LOR controller if the controller doesn’t have on board channel selection. The next diagram shows an example of how LOR controller addresses are set in a DMX universe. The controllers do not need to be physically connected in order of the controllers start address. The controllers can be put in any order.
 
 ![](https://lh5.googleusercontent.com/bwNbH862Xcn265vgIp9p5u2jNRvmQGWUFP6a7__1QU8-5YH60MmcrVzXf64VzbQxDRVa0bOyH-kis5lxri-L6s-uzDj7RRE5BF2BJ9SRNj9Cl8DGEVNQlX049zEfjGIPSeIUeIi-)
 
@@ -42,15 +41,15 @@ You must use the LOR hardware utility to set the DMX start address on a LOR cont
 
 _This section is based on a video created by Steve Giron_
 
-The item to be converted is a purchased 12 leg CCR tree sequence. The input file should be in LMS format.  Within xLights, go to the Convert tab and from there Select Convert, navigate to where the LMS file is and select it. Select the ‘Show Verbose Channel Map’ attribute.  ‘Click on Start Conversion.
+The item to be converted is a purchased 12 leg CCR tree sequence. The input file should be in LMS format. Within xLights, go to the Convert tab and from there Select Convert, navigate to where the LMS file is and select it. Select the ‘Show Verbose Channel Map’ attribute. ‘Click on Start Conversion.
 
 If you get an error “Unable to determine the length of this LOR sequence \(looked for length of track 1\)", it usually means that the LMS sequence has been saved using the demo software. The lms file from demo LOR is mostly binary and does not contain the xml tags.
 
-Error messages are expected for the first run in the status window on the right side.  Scroll to top of error messages and look at messages that says “LOR Network”.
+Error messages are expected for the first run in the status window on the right side. Scroll to top of error messages and look at messages that says “LOR Network”.
 
 ![](https://lh6.googleusercontent.com/Z7iMVto0yQ4ovhbQ6Y8mFiNHij8xgh4ICZBK6G3wzC4PBLbSqINlqD_ke8KcEFFY4cgbTOeCNq6TJo_PRRVIfRQ57j6athzg7O-UN1chIFWBCvujrdXpunOu3deRAUJ_tYDZvzYj)
 
-The messages tell us that two networks  are required: One with zero channels – \(this was a star where channels were deleted from\),  one with 1800 channels.
+The messages tell us that two networks are required: One with zero channels – \(this was a star where channels were deleted from\), one with 1800 channels.
 
 Go to the Setup tab and define these.
 
@@ -58,7 +57,7 @@ Setup tab \(Existing layout\)
 
 ![LORSetupSteveVideo12CCR.png](https://lh5.googleusercontent.com/OfRngi4xLauRTtGkSRhbP240dQqsWGuRklpccVuXbuJk6bII-aqXegb56H45DUnste3KKvqQMX8MyCq53zJ5Oa_bI6459KapZNEd5QaSHkVkSEr2JK8T5VL8CyvxGzuErQfnXbcP)
 
-Add two entries: Network type of LOR, any baud rate, however the last channel must map correctly.  Then move them to the top using the green UP arrows.
+Add two entries: Network type of LOR, any baud rate, however the last channel must map correctly. Then move them to the top using the green UP arrows.
 
 ![LORSetupSteveVideo12CCR\_3.png](https://lh6.googleusercontent.com/NWdwSFkClg_1KGeDwMJSw0qiqtyeq7iAPh9V5zP1nO29BvSPF775GyYVHmto1kYndSS0F8YSDLMYFXoylVczfKp-D3MhU6QFWHRF_7EKVnu3aAiIjHPuY3rJS_89UNMYOUCh7xlS)
 
@@ -66,7 +65,7 @@ Ensure that ‘Map Empty LMS Channels’ is not selected \(else you may get erro
 
 Open the xseq file that was created and play it to view the effects on the layout window. You may need to click on the ‘Render All’ button.
 
-If you are not playing the sequence though LOR hardware, go back to the setup and delete the two LOR entries that you added for the conversion, leaving your previous configuration as it was.  If you are using LOR hardware, then these entries will need to be correctly defined.
+If you are not playing the sequence though LOR hardware, go back to the setup and delete the two LOR entries that you added for the conversion, leaving your previous configuration as it was. If you are using LOR hardware, then these entries will need to be correctly defined.
 
 ## Converting a LOR sequence and importing into xLights
 
@@ -78,7 +77,7 @@ First ensure that within LOR, all the channels for the controller have been defi
 
 If there are any channels missing use the ‘Add Channels’ function to add the missing \(unused\) channel.
 
-Note that in the image, the Unit id is 03 and the Channels \(Circuit\) values run from 1 to 16. However, referring to the LOR Unit Id to DMX channel mapping table Unit id 03 corresponds to Channel number 33.  If Units prior to Unit 3 have not been defined, then you need to define them so as to ‘utilise’ the missing channels.  Use the ‘Insert Device’ function to ‘Insert Device Above’ the current device \(Unit 03\) as a LOR 16 channel device – Unit id 01.  Repeat this step and add another device - Unit id 02.
+Note that in the image, the Unit id is 03 and the Channels \(Circuit\) values run from 1 to 16. However, referring to the LOR Unit Id to DMX channel mapping table Unit id 03 corresponds to Channel number 33. If Units prior to Unit 3 have not been defined, then you need to define them so as to ‘utilise’ the missing channels. Use the ‘Insert Device’ function to ‘Insert Device Above’ the current device \(Unit 03\) as a LOR 16 channel device – Unit id 01. Repeat this step and add another device - Unit id 02.
 
 ![LOR\_CL3.png](https://lh6.googleusercontent.com/TMsj0Wj7j_OYfu91NxH1jrX2Cqp71n9fRkOlYdDnfLYolOvE6s87Gzxn7g9VSxzIolpSEHp2qfvBp6tQsyCsSQqQxCOatDg9uX-c8bkPGEpHBk_SS14OTDWyRLkvQWz8puzxbtPa)
 
@@ -122,11 +121,11 @@ Create a new music sequence, add timing tracks and add the models you have defin
 
 Using the Import, Import Effects menu, change the ‘Import file’ file to LOR Music Sequence - LMS, navigate to where the LOR LMS file is and select the file to Import.
 
-![](../.gitbook/assets/image%20%28466%29.png)
+![](../.gitbook/assets/image%20%28506%29.png)
 
 On the Map Channels dialog, all the xLights models will appear on the left hand side and all the LOR Channels on the right side.
 
-![](../.gitbook/assets/image%20%28534%29.png)
+![](../.gitbook/assets/image%20%28580%29.png)
 
 Do not select the Map by Strand/CCR option in this case.
 
@@ -134,21 +133,19 @@ Highlight the 'Map To' Cell – in line with the model name. Double Click the LO
 
 When Done, Save the mapping first, so that you can re-use it later.
 
-![](../.gitbook/assets/image%20%28731%29.png)
+![](../.gitbook/assets/image%20%28794%29.png)
 
-Click OK to start the process. 
+Click OK to start the process.
 
-![](../.gitbook/assets/image%20%28330%29.png)
+![](../.gitbook/assets/image%20%28365%29.png)
 
 Double Click the model name and then double click the stand name to see the effects on the nodes.
 
-![](../.gitbook/assets/image%20%28694%29.png)
+![](../.gitbook/assets/image%20%28754%29.png)
 
 Click on the Render All icon and play the sequence.
 
-![](../.gitbook/assets/image%20%2875%29.png)
-
-
+![](../.gitbook/assets/image%20%2882%29.png)
 
 {% hint style="success" %}
 **If you were importing data from a Singing face where your model has multiple channels, then you need to double click in the Channel column, but against the node row instead.**
@@ -186,9 +183,9 @@ Note: Baud Rate of 250000 is for DMX only.
 
 A user is setup is a mixture of LOR and DMX Channels i.e. intermixed LOR -DMX-LOR-DMX.
 
-LOR Controller 1, LOR Controller 2, LOR Controller 3, DMX Universe 1  ch. 1-126,
+LOR Controller 1, LOR Controller 2, LOR Controller 3, DMX Universe 1 ch. 1-126,
 
-LOR Controller 4, LOR Controller 5, DMX Universe 1  ch. 127-183.
+LOR Controller 4, LOR Controller 5, DMX Universe 1 ch. 127-183.
 
 How should this be configured?
 
@@ -196,11 +193,11 @@ How should this be configured?
 
 Use Universe 1 for all the LOR and DMX channels.
 
-Since the DMX is already set \(channels 1-183\),  add an LOR entry with Universe 1 starting at 184 until the last channel for controller \#5 \(16 x 5 = 90\), for a total of  274 total channels. You can 'reserve' additional channels should you need them later upto 510/512.
+Since the DMX is already set \(channels 1-183\), add an LOR entry with Universe 1 starting at 184 until the last channel for controller \#5 \(16 x 5 = 90\), for a total of 274 total channels. You can 'reserve' additional channels should you need them later upto 510/512.
 
 #### Option 2
 
-Keep it simple with DMX - Universe 1,  LOR - Universe 2 and then start with Universe 3 with the RGB controllers.
+Keep it simple with DMX - Universe 1, LOR - Universe 2 and then start with Universe 3 with the RGB controllers.
 
 {% hint style="success" %}
 All the channels in LOR must be mapped exactly including blank ones in between. Setup your AC LOR channels first in XL4 and then start with your first prop in the same order as your LOR sequences. Otherwise the convert process will indicate that channels are unmapped.
@@ -211,6 +208,6 @@ LMS to xLights XML via Import Effects is done via model mapping so channel numbe
 {% endhint %}
 
 {% hint style="success" %}
-When importing timing grids, xLights searches the LMS file for a section called &lt;timingGrids&gt; which needs to contain a subsection called &lt;timingGrid&gt; which must contain an attribute called "type=freeform".  So, in case you can't import a LOR timing grid, you can open your LMS file in any editor that can view XML in a nice format like, Notepad++, and search for some of those terms to see why your timing grids aren't found inside the file.
+When importing timing grids, xLights searches the LMS file for a section called &lt;timingGrids&gt; which needs to contain a subsection called &lt;timingGrid&gt; which must contain an attribute called "type=freeform". So, in case you can't import a LOR timing grid, you can open your LMS file in any editor that can view XML in a nice format like, Notepad++, and search for some of those terms to see why your timing grids aren't found inside the file.
 {% endhint %}
 

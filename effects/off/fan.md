@@ -1,30 +1,24 @@
 # Fan
 
-![Icon](../../.gitbook/assets/image%20%28385%29.png)
+![Icon](../../.gitbook/assets/image%20%28423%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28697%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28758%29.png)
 
 {% tabs %}
 {% tab title="Position" %}
-
-
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 {% endtab %}
 
 {% tab title="Blades" %}
-
-
-![](../../.gitbook/assets/image%20%28149%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 {% endtab %}
 
 {% tab title="Options" %}
-
-
-![](../../.gitbook/assets/image%20%28732%29.png)
+![](../../.gitbook/assets/image%20%28795%29.png)
 {% endtab %}
 {% endtabs %}
 
-The Fan effect creates spiralling blade like objects that move around the model either clockwise or counterclockwise.  Used most effectively on models such as a mega tree or a matrix.
+The Fan effect creates spiralling blade like objects that move around the model either clockwise or counterclockwise. Used most effectively on models such as a mega tree or a matrix.
 
 One or many colors can be used for the effect. If multiple colors are selected, then the blades of the fan will be made up of the selected colors.
 
@@ -49,6 +43,6 @@ Playing with the radius values i.e. making radius 2 less than radius 1 can provi
 {% endhint %}
 
 {% hint style="success" %}
-You can create four Fan effects that each take up about one quadrant of your model \(matrix/house\) and have them all doing different thing with their arms blending at the edges.  The four positions would be x25:y25, x25:y75, x75:y75, x75:y25.
+You can create four Fan effects that each take up about one quadrant of your model \(matrix/house\) and have them all doing different thing with their arms blending at the edges. The four positions would be x25:y25, x25:y75, x75:y75, x75:y25.
 {% endhint %}
 
