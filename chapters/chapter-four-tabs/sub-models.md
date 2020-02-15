@@ -8,13 +8,13 @@ This setting allows the user to specify parts of a model to be controlled as if 
 
 Click Add to create a new submodel. Then add the nodes that will be included in the submodel. On the right side you will see the model and selected nodes will be highlighted.
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 On the right side, the model will be displayed with the selected nodes highlighted. If the user clicks the row header\(Top or Bottom\), the display will highlight only the nodes in the selected row. If the user clicks the "Node Ranges" column header, all the nodes from all the rows will be highlighted.
 
 The Node Ranges 'Grid' represents the submodels render buffer. A grid five row high with four node listed per row will create a 5x5 Render buffer. Empty Commas\(,\) can be used to create empty spaces in the render buffer. The example below will create 5x5 a outline with a 3x3 'hole' in the middle.
 
-![](../../.gitbook/assets/image%20%28694%29.png)
+![](../../.gitbook/assets/image%20%28695%29.png)
 
 {% hint style="info" %}
 Always Press 'Tab' after changing the submodel name or adding nodes to a row. This will guarantee the changes will "stick" and not disappear.
@@ -30,17 +30,17 @@ The 'Vertical Buffer Layout' checkbox with rotate the underlining render buffer 
 
 To Draw a model, like a Cross, across the whole model click the Draw Model Button.
 
-![](../../.gitbook/assets/image%20%28594%29.png)
+![](../../.gitbook/assets/image%20%28595%29.png)
 
 Click and drag to select nodes\(blue highlight\). The selected node will turn grey once selected. Double clicking on a node number also toggles between selected and not selected. 'Select All' will select all the nodes. 'Select None' will deselect all the nodes.
 
-![](../../.gitbook/assets/image%20%28827%29.png)
+![](../../.gitbook/assets/image%20%28828%29.png)
 
 The "From Model" button allows the user to select nodes based on the custom model "shape". For Example, you can import a snowflake model file to overlay it on a matrix.
 
 Hold the 'Ctrl'/'Cmd' Key highlight the cells and press Ctrl+C to copy them. Ctrl+V can then be used to paste the cells. This data can also be copied to and from Excel.
 
-![](../../.gitbook/assets/image%20%28611%29.png)
+![](../../.gitbook/assets/image%20%28612%29.png)
 
 Click Ok to Close the select window.
 
@@ -48,7 +48,7 @@ Click Ok to Close the select window.
 
 ## SubBuffer SubModel
 
-![](../../.gitbook/assets/image%20%28410%29.png)
+![](../../.gitbook/assets/image%20%28411%29.png)
 
 The SubBuffer tab allows the user to select sections of the buffer instead of the nodes. This can be used to divide mega trees/matrices into slices for singing face or individual effects.
 
@@ -60,13 +60,13 @@ Click The Generate Button to automatically generate different size slices.
 
 Vertical Slices will create 'count' number of vertical slices that are equal size.
 
-![](../../.gitbook/assets/image%20%28429%29.png)
+![](../../.gitbook/assets/image%20%28430%29.png)
 
 ## Delete
 
 Delete the currently selected submodel\(s\).
 
-![](../../.gitbook/assets/image%20%28449%29.png)
+![](../../.gitbook/assets/image%20%28450%29.png)
 
 {% hint style="info" %}
 To select multiple submodel to delete, hold the shirt or ctrl/command key.
@@ -80,7 +80,7 @@ Copy the currently selected submodel.
 
 This allows the user to 'copy' submodels from another similar model. Example, if multiple mini-trees, are defined in your layout, only create the sub-models on one tree and then use this option to import the sub-models on all the other trees.
 
-![](../../.gitbook/assets/image%20%28509%29.png)
+![](../../.gitbook/assets/image%20%28510%29.png)
 
 ## Import from File
 
@@ -90,5 +90,5 @@ This allows the user to 'copy' submodels from a XModel file.
 
 This option will use a custom model and submodels X/Y node location and create a submodels from the node locations.
 
-![](../../.gitbook/assets/image%20%28397%29.png)
+![](../../.gitbook/assets/image%20%28398%29.png)
 

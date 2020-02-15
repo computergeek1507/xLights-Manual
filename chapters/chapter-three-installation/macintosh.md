@@ -4,7 +4,7 @@
 
 The latest release of xLights for Macintosh can be found at the following link: [http://www.dankulp.com/xlights/?C=M;O=D](http://www.dankulp.com/xlights/?C=M;O=D)
 
-![](../../.gitbook/assets/image%20%28420%29.png)
+![](../../.gitbook/assets/image%20%28421%29.png)
 
 ## Installing xLights
 
@@ -17,7 +17,7 @@ xLights will run on macOS 10.10 and above.
 1. Double click on the compressed disk image you downloaded to mount the disk.
 2. Click, drag and drop the xLights application over the Applications folder to copy the program on to your computer.  Or you can copy the xLights application to another location of your choice too.
 
-![](../../.gitbook/assets/image%20%28510%29.png)
+![](../../.gitbook/assets/image%20%28511%29.png)
 
 ### Installing QM Vamp Plugin
 
@@ -25,7 +25,7 @@ For the QM vamp plugin packages that can be installed without Audacity installed
 
 [http://www.dankulp.com/xlights](http://www.dankulp.com/xlights/?C=M;O=D)
 
-![](../../.gitbook/assets/image%20%28627%29.png)
+![](../../.gitbook/assets/image%20%28628%29.png)
 
 Direct link to Latest Version: [qm-vamp-plugins-osx-v1.7.1.dmg](https://dankulp.com/xlights/qm-vamp-plugins-1.7.1.dmg)
 

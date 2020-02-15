@@ -1,8 +1,8 @@
 # Shimmer
 
-![Icon](../../.gitbook/assets/image%20%28655%29.png)
+![Icon](../../.gitbook/assets/image%20%28656%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28503%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28504%29.png)
 
 ![](../../.gitbook/assets/image%20%28109%29.png)
 

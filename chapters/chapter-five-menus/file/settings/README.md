@@ -2,7 +2,7 @@
 
 ## Backup Tab
 
-![](../../../../.gitbook/assets/image%20%28358%29.png)
+![](../../../../.gitbook/assets/image%20%28359%29.png)
 
 ### Backup On Save
 
@@ -24,11 +24,11 @@ When selected, backups are made of all relevant files both in the show directory
 
 This drop-down sets how long xLights will keep backup. With "Never" selected xLights will not delete any backups. 365, 90, 31, and 7 days will delete backup folder older than the selected length. This helps to clear out older files and free up space.
 
-![](../../../../.gitbook/assets/image%20%28756%29.png)
+![](../../../../.gitbook/assets/image%20%28757%29.png)
 
 ## View Tab
 
-![](../../../../.gitbook/assets/image%20%28706%29.png)
+![](../../../../.gitbook/assets/image%20%28707%29.png)
 
 ### Tool Icon Size
 
@@ -36,11 +36,11 @@ This function enables you to change the size of the tool icons that are used to 
 
 Four options are available:
 
-![](../../../../.gitbook/assets/image%20%28250%29.png)
+![](../../../../.gitbook/assets/image%20%28251%29.png)
 
 #### OpenGL Version
 
-![](../../../../.gitbook/assets/image%20%28292%29.png)
+![](../../../../.gitbook/assets/image%20%28293%29.png)
 
 The OpenGL setting is used to define what version of the OpenGL API is being used for certain components of xLight rendering of 2D and 3D graphics.
 
@@ -50,7 +50,7 @@ This option does not have to be used unless you see issues with the waveform or 
 
 In 3D mode, Model and Objects sometimes do not look correct in the house preview on all videocards. The Render Order 1-6 options use different render methods to generate the model layout. If you are having unwanted visual artifacts, try a different options and see if the models look better on your specific computer.
 
-![](../../../../.gitbook/assets/image%20%28763%29.png)
+![](../../../../.gitbook/assets/image%20%28764%29.png)
 
 ### Model Handle Size
 
@@ -58,11 +58,11 @@ This option will adjust the size of the model handles in the Layout Tab.
 
 There are three sizes available:
 
-![Normal](../../../../.gitbook/assets/image%20%28182%29.png)
+![Normal](../../../../.gitbook/assets/image%20%28183%29.png)
 
 ![Large](../../../../.gitbook/assets/image%20%2846%29.png)
 
-![Extra Large](../../../../.gitbook/assets/image%20%28526%29.png)
+![Extra Large](../../../../.gitbook/assets/image%20%28527%29.png)
 
 ### Effect Assist Window
 
@@ -74,7 +74,7 @@ Always On will display the window in all cases, Always Off won’t display the w
 
 This Options will display Play, Pause, Stop, Scrub Bar to the House Preview to allow control of the sequence playback. They will only appear if the house preview window is larger than 400 wide by 300 high.
 
-![](../../../../.gitbook/assets/image%20%28328%29.png)
+![](../../../../.gitbook/assets/image%20%28329%29.png)
 
 ### Auto Show House Preview
 
@@ -82,7 +82,7 @@ Automatically Show the House Preview Window when the sequence is playing and hid
 
 ## Effects Grid Tab
 
-![](../../../../.gitbook/assets/image%20%28452%29.png)
+![](../../../../.gitbook/assets/image%20%28453%29.png)
 
 ### Spacing
 
@@ -90,11 +90,11 @@ This function enables you to change the size \(i.e. width of each band\) of the 
 
 Five options are available: Extra Small, Small, Medium, Large, Extra Large.
 
-![](../../../../.gitbook/assets/image%20%28188%29.png)
+![](../../../../.gitbook/assets/image%20%28189%29.png)
 
 ![Grid Spacing Small ](../../../../.gitbook/assets/image-788.png)
 
-![Grid Spacing Extra Large](../../../../.gitbook/assets/image%20%28685%29.png)
+![Grid Spacing Extra Large](../../../../.gitbook/assets/image%20%28686%29.png)
 
 ### Icon Backgrounds
 
@@ -112,9 +112,9 @@ This function provides the ability to turn off the effect displaying colors at t
 
 Turning it off improves rendering performance and is recommended where effects are only being dropped at the model level. The value can be turned back on as required.
 
-![Grid Node Values On](../../../../.gitbook/assets/image%20%28425%29.png)
+![Grid Node Values On](../../../../.gitbook/assets/image%20%28426%29.png)
 
-![Grid Node Values Off](../../../../.gitbook/assets/image%20%28308%29.png)
+![Grid Node Values Off](../../../../.gitbook/assets/image%20%28309%29.png)
 
 ### Snap to Timing Marks
 
@@ -124,7 +124,7 @@ If checked, When moving or resizing an effect this will snap the effect beginnin
 
 When checked, if you Double Click a timing mark, xLights will play the sequence for that timing mark interval. If unchecked, the Edit Label Dialog will appear. This Dialog allows you to input lyrics for singing faces or states for the state effect. The opposite option's functionality will works if you hold down shirt key then double click.
 
-![Edit Label Dialog](../../../../.gitbook/assets/image%20%28306%29.png)
+![Edit Label Dialog](../../../../.gitbook/assets/image%20%28307%29.png)
 
 ### Small Waveform
 
@@ -138,11 +138,11 @@ When Enabled, the audio waveform will appear smaller on the screen. This is desi
 
 If checked, color bars are display to represent transitions, like fade in or fade out.
 
-![](../../../../.gitbook/assets/image%20%28317%29.png)
+![](../../../../.gitbook/assets/image%20%28318%29.png)
 
 ## Sequence Tab
 
-![](../../../../.gitbook/assets/image%20%28167%29.png)
+![](../../../../.gitbook/assets/image%20%28168%29.png)
 
 ### Render On Save
 
@@ -158,7 +158,7 @@ When checked, the Model Blending option in the sequence settings dialog will be 
 
 ### Render Cache
 
-![](../../../../.gitbook/assets/image%20%28145%29.png)
+![](../../../../.gitbook/assets/image%20%28146%29.png)
 
 Render Cache allows xLights to render an effect or group of effects once and then save the individual frames in memory \(and on disk\) so it doesn't need to render the frames again. This can speed up render times, as xLights does not need to re-render unchanged effects.
 
@@ -194,7 +194,7 @@ For ArtNET you just need to select this option.
 
 For E1.31 you also need to set a universe number on the setup tab … this universe number needs to be a universe you are not otherwise using.
 
-![](../../../../.gitbook/assets/image%20%28365%29.png)
+![](../../../../.gitbook/assets/image%20%28366%29.png)
 
 ### Force Local IP
 
@@ -204,13 +204,13 @@ By default xLights automatically selects which network interface to send out net
 
 ### Duplicate Frames To Suppress
 
-![](../../../../.gitbook/assets/image%20%28760%29.png)
+![](../../../../.gitbook/assets/image%20%28761%29.png)
 
 This selection allows xLights to "skip" frames that contain the same data as the previous frame. This can help with lagging, as it will reduce network traffic. xSchedule will also use this setting when outputting data.
 
 ### xFade/xSchedule
 
-![](../../../../.gitbook/assets/image%20%28426%29.png)
+![](../../../../.gitbook/assets/image%20%28427%29.png)
 
 When using the Jukebox Panel with xFade or xSchedule, this determines which instance of xLight to select the effect from.
 
@@ -218,7 +218,7 @@ When using the Jukebox Panel with xFade or xSchedule, this determines which inst
 
 The Random Effects tab allows the user to set which effects are used by the Generate Random Effects Right click menu option in the sequencer .
 
-![](../../../../.gitbook/assets/image%20%28174%29.png)
+![](../../../../.gitbook/assets/image%20%28175%29.png)
 
 ## Colors Tab
 
@@ -226,7 +226,7 @@ The Color Tab allows the user to change the colors options of xLights.
 
 {% page-ref page="color-manager.md" %}
 
-![](../../../../.gitbook/assets/image%20%28160%29.png)
+![](../../../../.gitbook/assets/image%20%28161%29.png)
 
 ## Other Tab
 

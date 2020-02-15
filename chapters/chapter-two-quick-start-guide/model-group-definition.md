@@ -6,7 +6,7 @@ The next step is to define a Model Group. You can work without using model group
 
 Right Click in the Models Group panel. An ‘Add Group’ button will be displayed.
 
-![](../../.gitbook/assets/image%20%28368%29.png)
+![](../../.gitbook/assets/image%20%28369%29.png)
 
 Click on the Add Group button. Enter a Model Group Name when prompted. I have called it ‘All Models Group‘. Every time I add a model, I will add it to this Model Group. A model can be part of more than one model group.
 
@@ -22,15 +22,15 @@ The model ‘Arch1’ is now part of the ‘All Models Group’ group. Click on 
 
 Repeat the above steps and add a second Model Group ‘Arches Group’. Click on OK and then click on Save.
 
-![](../../.gitbook/assets/image%20%28355%29.png)
+![](../../.gitbook/assets/image%20%28356%29.png)
 
 Select the Model group ‘Arches Group’ and adding the model ‘Arch1’ to that group too.
 
-![](../../.gitbook/assets/image%20%28574%29.png)
+![](../../.gitbook/assets/image%20%28575%29.png)
 
 Click on Save to save the Model group updates \(and all changes to the layout, models or model groups since the last time this save button was clicked on\).
 
-![](../../.gitbook/assets/image%20%28635%29.png)
+![](../../.gitbook/assets/image%20%28636%29.png)
 
 Click on Save to save the Model group updates \(and all changes to the layout, models or model groups since the last time this save button was clicked on\).
 

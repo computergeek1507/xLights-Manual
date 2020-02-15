@@ -1,8 +1,8 @@
 # On
 
-![Icon](../../.gitbook/assets/image%20%28270%29.png)
+![Icon](../../.gitbook/assets/image%20%28271%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28668%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28669%29.png)
 
 ![](../../.gitbook/assets/image%20%28103%29.png)
 

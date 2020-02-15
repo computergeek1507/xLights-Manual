@@ -2,15 +2,15 @@
 
 ## Layer Blending
 
-![](../../../.gitbook/assets/image%20%28176%29.png)
+![](../../../.gitbook/assets/image%20%28177%29.png)
 
 The Layer Blendings window can be opened by clicking on the Layer Blendings icon from the toolbar or via the View , Windows menus.
 
-![](../../../.gitbook/assets/image%20%28741%29.png)
+![](../../../.gitbook/assets/image%20%28742%29.png)
 
 #### Reset panel when changing effects
 
-![](../../../.gitbook/assets/image%20%28309%29.png)
+![](../../../.gitbook/assets/image%20%28310%29.png)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
@@ -104,7 +104,7 @@ Put two effects on a model and step through each of the layering modes to see wh
 
 This is not to be confused with the Morph Effect. This is a layering option that can be applied to any two effects.
 
-![](../../../.gitbook/assets/image%20%28599%29.png)
+![](../../../.gitbook/assets/image%20%28600%29.png)
 
 The morph option of layer blending will magically make effect 1 ‘morph’ into effect 2 during the length of the timing cell that the effects are in. You will not see effect 2 at the beginning of the timing cell, and you will not see effect 1 at the end of the timing cell. Somewhere near the middle you will see the effect 1 ‘morph’ into effect 2.
 
@@ -112,7 +112,7 @@ The morph option of layer blending will magically make effect 1 ‘morph’ into
 
 There are 13 layer blending transition choices. Using the transitions will help you bridge between effects providing a way to smooth out abrupt changes between different effects. A stylistic use would be between sections of a song such as the chorus to verse or verse to verse. Keep in mind that the blending is done within the boundary of the timing mark and does not transition between timing marks.
 
-![](../../../.gitbook/assets/image%20%28259%29.png)
+![](../../../.gitbook/assets/image%20%28260%29.png)
 
 These transition choices are:
 
@@ -150,17 +150,17 @@ When setting a layer transition, the setting will apply to all future effects pl
 
 If an effect has a transitions applied a green bar will appear for an in transitions and a red bar for an out transitions. If the in and out transitions overlap, the overlap area will appear yellow.
 
-![](../../../.gitbook/assets/image%20%28667%29.png)
+![](../../../.gitbook/assets/image%20%28668%29.png)
 
 ### Layer Blending - Mix Slider
 
 This slider adjusts the level of each effect in the combined output of the effects. You can use this to just put a hint \(or more\) of one effect on another.
 
-![](../../../.gitbook/assets/image%20%28183%29.png)
+![](../../../.gitbook/assets/image%20%28184%29.png)
 
 ### Layer Blending - Canvas
 
-![](../../../.gitbook/assets/image%20%28582%29.png)
+![](../../../.gitbook/assets/image%20%28583%29.png)
 
 Canvas Mode is a special render mode that only works with specific effects. The default render mode in xLights will draw the effects on a blank buffer for each layer. Canvas Mode allows an effect to draw on a previous layer without "blanking it" out. This is used by effects like the Warp and Kaleidoscope Effect that manipulate data from the underlying layers.
 
@@ -168,7 +168,7 @@ Canvas Mode is a special render mode that only works with specific effects. The 
 
 This Dialog allows the user which layers to use when Canvas Mode is Enabled
 
-![](../../../.gitbook/assets/image%20%28829%29.png)
+![](../../../.gitbook/assets/image%20%28830%29.png)
 
-![](../../../.gitbook/assets/image%20%28284%29.png)
+![](../../../.gitbook/assets/image%20%28285%29.png)
 

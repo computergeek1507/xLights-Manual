@@ -2,9 +2,9 @@
 
 ![Icon](../../.gitbook/assets/image%20%28104%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28373%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28374%29.png)
 
-![](../../.gitbook/assets/image%20%28634%29.png)
+![](../../.gitbook/assets/image%20%28635%29.png)
 
 The DMX effect is used to output a value between 0-255 to the model. Channel 1 in the DMX effect corresponds to the first channel of the model and up to 18 channels can be controlled.
 

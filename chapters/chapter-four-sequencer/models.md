@@ -2,7 +2,7 @@
 
 ## Models
 
-![](../../.gitbook/assets/image%20%28529%29.png)
+![](../../.gitbook/assets/image%20%28530%29.png)
 
 ### Play
 

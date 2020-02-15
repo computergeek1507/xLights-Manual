@@ -8,7 +8,7 @@ The File menu enables you to create a new xLights sequence, open an existing xLi
 
 If you click on the File menu, at the bottom, last four show directories that have been used will be displayed.
 
-![Recent Show directory List](../../../.gitbook/assets/image%20%28583%29.png)
+![Recent Show directory List](../../../.gitbook/assets/image%20%28584%29.png)
 
 If you select any of the items listed, your show directory will be changed to the selected directory.
 
@@ -56,29 +56,29 @@ Click on Save Changes if you want to save your changes. If you click Cancel then
 
 ### Preferences
 
-![](../../../.gitbook/assets/image%20%28335%29.png)
+![](../../../.gitbook/assets/image%20%28336%29.png)
 
 The Preferences Dialog allows the user to set all the global settings in xLights. These settings are stored in the system register and are persistent between show folders.
 
 {% page-ref page="settings/" %}
 
-![Preferences Dialog](../../../.gitbook/assets/image%20%28151%29.png)
+![Preferences Dialog](../../../.gitbook/assets/image%20%28152%29.png)
 
 ### Sequence Setting
 
-![](../../../.gitbook/assets/image%20%28749%29.png)
+![](../../../.gitbook/assets/image%20%28750%29.png)
 
 The Sequence Settings Dialog allows the user to edit all the settings for the currently open sequence. See Sequence Settings page for more information.
 
 {% page-ref page="sequence-settings.md" %}
 
-![Sequence Setting](../../../.gitbook/assets/image%20%28314%29.png)
+![Sequence Setting](../../../.gitbook/assets/image%20%28315%29.png)
 
 ### Export House Preview Video
 
 The Export House Preview Video feature will "Play" the loaded sequence and create a video file of the House Preview Window. The video resolution of the resulting file is based on House Preview size. It is recommended you make the House Preview Window as large as possible before selecting this option.
 
-![](../../../.gitbook/assets/image%20%28595%29.png)
+![](../../../.gitbook/assets/image%20%28596%29.png)
 
 ### ![](../../../.gitbook/assets/show-directory-icon.JPG) Select Show Folder
 

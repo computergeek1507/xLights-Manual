@@ -4,7 +4,7 @@
 
 From the Color window, you can change the Colors that apply to the effect, as well as the Sparkles, Brightness and Contrast values. How effects use the colors is defined by the effect. Some support just one, some support up to 8.
 
-![](../../../.gitbook/assets/image%20%28675%29.png)
+![](../../../.gitbook/assets/image%20%28676%29.png)
 
 Use the Sparkles slider to increase the sparkles for the effect. If the Sparkles reflect music option is selected, then the sparkles will increase from the selected value based on the intensity of the music.
 
@@ -26,7 +26,7 @@ The Color Manager Dialog allows the use to then select a different color.
 
 The user can create custom colors by clicking "Define Custom Colors" and manually adjusting the RGB color settings.
 
-![](../../../.gitbook/assets/image%20%28290%29.png)
+![](../../../.gitbook/assets/image%20%28291%29.png)
 
 For any effect, you can change the initial colors selected for the effect by selecting a different color or colors from the Color Window. You can use the Control key and select multiple effects.
 
@@ -44,15 +44,15 @@ Clicking on the any of the color icons opens up a Palette window, where the stan
 
 The Save button allows the user to save the current selected color for future use as a color palette. These color palette files are stored in the current show folder.
 
-![](../../../.gitbook/assets/image%20%28470%29.png)
+![](../../../.gitbook/assets/image%20%28471%29.png)
 
 The Drop-Down allows the user to select the previously saved color palette stored in the show folder.
 
-![](../../../.gitbook/assets/image%20%28493%29.png)
+![](../../../.gitbook/assets/image%20%28494%29.png)
 
 The update button will save any pending changes to the currently selected color palette file. Delete will delete the selected color palette file. If the user hovers over the color palette, the file name will appear.
 
-![](../../../.gitbook/assets/image%20%28163%29.png)
+![](../../../.gitbook/assets/image%20%28164%29.png)
 
 ## Color Curves
 
@@ -62,7 +62,7 @@ As an example, drop a Bars effect against a model on the grid.
 
 After selecting the required colors \(white, red and green in this example\), right click on the first color .
 
-![](../../../.gitbook/assets/image%20%28414%29.png)
+![](../../../.gitbook/assets/image%20%28415%29.png)
 
 The Color Curves window is displayed.
 
@@ -100,7 +100,7 @@ Similarly you can load a previously exported color curve file by clicking on the
 
 Color curves can be timed based or spatial based. A timed based color curve will change color over the duration of the effect, while a spatial color curve will change over the models X/Y location. A spatial color curve has direction. The icon below the color specified what type of color curve is selected. Click the icon to change the color curve type. A clock is a time based and an arrow is used for a spatial color curve. The Direction of the arrow represents the direction of the spatial color curve.
 
-![](../../../.gitbook/assets/image%20%28748%29.png)
+![](../../../.gitbook/assets/image%20%28749%29.png)
 
 This functionality works on most effects but not all. For example – it is not applicable to effects such as DMX, Faces, Fire, Glediator, Pictures, State and Video.
 
