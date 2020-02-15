@@ -46,7 +46,7 @@ You can also have xLights create fixed timing interval timing tracks by selectin
 
 When xLights created a Metronome timing it is generated as a Fixed Timing Tracks. Fixed Timing Tracks are not editable and the timing marks cannot be changed. Fixed timing tracks are colored orange in the sequence tab by default.
 
-![](../../.gitbook/assets/image%20%28617%29.png)
+![](../../.gitbook/assets/image%20%28618%29.png)
 
 To edit a Fixed timing track the user must right click and select Make Timing Track Variable.
 

@@ -2,7 +2,7 @@
 
 ![Icon](../../.gitbook/assets/image%20%28385%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28696%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28697%29.png)
 
 {% tabs %}
 {% tab title="Position" %}
@@ -20,7 +20,7 @@
 {% tab title="Options" %}
 
 
-![](../../.gitbook/assets/image%20%28731%29.png)
+![](../../.gitbook/assets/image%20%28732%29.png)
 {% endtab %}
 {% endtabs %}
 

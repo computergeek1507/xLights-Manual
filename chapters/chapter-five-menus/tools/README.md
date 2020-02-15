@@ -2,7 +2,7 @@
 
 ## Tools
 
-![](../../../.gitbook/assets/image%20%28605%29.png)
+![](../../../.gitbook/assets/image%20%28606%29.png)
 
 The Tools menu contains the Test , Convert, Generate Custom Models, View Logs, Package Problem Files, Export Models, Export Effects, FPP Connect, Package Sequence, and xSchedule  functions.
 
@@ -44,11 +44,11 @@ The Generate Lyrics From Data allows xLights to generate Lyric Timing Tracks wit
 
 This 2D Path Generate Tool allows you to create X and Y value curve "paths" that can then be used by effects like the shape effect. 
 
-![](../../../.gitbook/assets/image%20%28726%29.png)
+![](../../../.gitbook/assets/image%20%28727%29.png)
 
 Click and Drag the endpoint Dots, to move them. Double Click to add a new Line Segment. The Browse button allows the user to load a image to trace if needed. The slider will adjust the image brightness. Load will allow you to edit previously generated files. The Generate Button will save the path to two value curves  files \(X & Y Direction\) to be loaded by an effect.
 
-![ Value curve Files](../../../.gitbook/assets/image%20%28612%29.png)
+![ Value curve Files](../../../.gitbook/assets/image%20%28613%29.png)
 
 ### Prepare Audio
 
@@ -124,7 +124,7 @@ FPP Connect is used to upload to a Falcon Pi Player that is playing the role as 
 
 The User Lyric Dictionary Dialog allows the user to manually add word phonemes breakdowns to the user dictionary file in the current show folder. This list will be used in addition to the standard and extended library, to breakdown works when creating lyric tracks. Enter your new work into the first text box. The second text box will auto search the current word list and find similar words and display their phonemes. The second box supports multiple words separated by a space. Once you are happy with the phonemes breakdown you can add it to the library. 
 
-![](../../../.gitbook/assets/image%20%28591%29.png)
+![](../../../.gitbook/assets/image%20%28592%29.png)
 
 ### Download Sequences/Lyrics
 
@@ -132,11 +132,11 @@ The Download Sequences/Lyrics Dialog provides a list of free sequences available
 
 This Dialog also contains links to the Singing Faces Project Lyric tracks. You must be a member of the singing faces project to access these files.
 
-![](../../../.gitbook/assets/image%20%28645%29.png)
+![](../../../.gitbook/assets/image%20%28646%29.png)
 
 ### Batch Render
 
-![](../../../.gitbook/assets/image%20%28729%29.png)
+![](../../../.gitbook/assets/image%20%28730%29.png)
 
 Batch Render allows the user to re-render multiple sequence files. This is useful if a Layout change was made and all the FSEQ files need to be updated. The "Filter" drop-down allows the user to select which folders to search for the sequence XML files in. 
 

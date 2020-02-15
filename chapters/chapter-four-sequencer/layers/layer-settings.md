@@ -10,7 +10,7 @@ The Layer Settings window can be opened by clicking on the Layer Settings icon f
 
 #### Reset panel when changing effects
 
-![](../../../.gitbook/assets/image%20%28544%29.png)
+![](../../../.gitbook/assets/image%20%28545%29.png)
 
 This will reset the Layer Setting back to default every time you select or create a new effect. Checked is the recommended setting for most users.
 
@@ -28,7 +28,7 @@ For example, for Arches – the default buffer treats each arch as a single line
 
 Additional options are available to change the buffer representation for the model or group.  The list of values that are selectable are dynamic depending on the type of model.
 
-![](../../../.gitbook/assets/image%20%28694%29.png)
+![](../../../.gitbook/assets/image%20%28695%29.png)
 
 For model groups, additional buffer render styles are available. The list below discrips all model render styles. 
 
@@ -79,7 +79,7 @@ This attribute will cause the effect to ‘blur’ i.e. the colors become less d
 
 The Sub Buffer selection can be used to limit the area that an effect is active. This basically redefines the size of the model/group \(on a per effect basis\). This option is different than masking, because the entire effect is rendered based on this new model size, whereas a mask covers up what you specify.
 
-![](../../../.gitbook/assets/image%20%28647%29.png)
+![](../../../.gitbook/assets/image%20%28648%29.png)
 
 So if you only want the effect to be on the top half of the model or group, bring the bottom part of the dotted yellow line to the middle of the black box.  The ‘handles’ of the yellow grid are in the corners. Double Clicking will reset the defaults to the full size.
 
@@ -99,7 +99,7 @@ The Sub-Buffer area selection also supports Value Curves. The bounding box handl
 
 The Persistent option when enabled does not clear the display buffer before rendering each frame.  The result is the preview frame remains until overwritten by a subsequent frame. For example, drop the balls or fan effect on a model, select the blending to “Effect 1”, then toggle Persistent on/off. You will see a huge difference. Doing the same for a “Chase” effect also results in a very different look.
 
-![](../../../.gitbook/assets/image%20%28599%29.png)
+![](../../../.gitbook/assets/image%20%28600%29.png)
 
 The term came from high persistence scopes where each trace just kept layering on top of previous traces.
 
@@ -107,7 +107,7 @@ The term came from high persistence scopes where each trace just kept layering o
 
 The Roto-Zoom functionality enables the effect to be Rotated as well as have aspects of the effect Zoomed.
 
-![](../../../.gitbook/assets/image%20%28675%29.png)
+![](../../../.gitbook/assets/image%20%28676%29.png)
 
 The Preset defines the type of rotation to be applied to the effect. The effect can be continuously rotated clockwise or counterclockwise, made to explode outwards , implode inwards , shake etc.
 

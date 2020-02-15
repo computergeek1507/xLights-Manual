@@ -36,7 +36,7 @@ Click on the Wiring View Button to open a window which will display the nodes an
 
 The Right Click on the Custom Menu grid gives options to Flip, Rotate, Compress, Trim Unusued Space, and Shrink Space.
 
-![](../../../.gitbook/assets/image%20%28525%29.png)
+![](../../../.gitbook/assets/image%20%28526%29.png)
 
 Click on the Horizontal Flip or Vertical Flip buttons to shift the nodes in the grid horizontally or vertically, which will also change the output of the Wiring View if selected.
 
@@ -48,7 +48,7 @@ To erase a number in a cell, selected the cell and press the Delete key.
 
 You can delete multiple cells by drawing a box around them and then pressing Delete.  
 
-![](../../../.gitbook/assets/image%20%28674%29.png)
+![](../../../.gitbook/assets/image%20%28675%29.png)
 
 You can use the ‘+’ and ‘-‘ keys to make zoom in and out, respectively.  
 

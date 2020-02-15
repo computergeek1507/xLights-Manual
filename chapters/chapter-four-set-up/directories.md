@@ -2,7 +2,7 @@
 
 ## **Show** Directory
 
-![](../../.gitbook/assets/image%20%28708%29.png)
+![](../../.gitbook/assets/image%20%28709%29.png)
 
 The xLights Show Directory is where all the required xLights sequences, pictures, and user configuration files required to run the sequences are kept. When a sequence \(.xml\) is saved and a binary file \(.fseq\) rendered, both files are created in the show directory.  This is the same location where xLights configuration files can be found and the default location where the program will first prompt for, or look for files pertaining to several functions of xLights.
 
@@ -34,7 +34,7 @@ This is useful if you are moving your setup to a USB drive or Dropbox.  If howev
 
 The Subfolders Dialog allows certain files to be stored in other folder locations, outside the show folder, on the harddrive. This is useful if you want to keep you show folder in Dropbox or Google Drive, but do not want to sync larges files like the fseq files and backups.
 
-![Subfolders Select Dialog](../../.gitbook/assets/image%20%28460%29.png)
+![Subfolders Select Dialog](../../.gitbook/assets/image%20%28461%29.png)
 
 ### **Media Directory**
 
@@ -52,7 +52,7 @@ Users often have a common media directory for all shows. However, a more common 
 
 This is the location where the Sequence FSEQ's will be saved. If the Use Sequence Location Checkbox is selected \(the default\) the FSEQ files will be saved in the same folder as the sequence .xml file location. If this is unchecked and a folder path is specified all the FSEQ will be saved to that location. If this folder doesn't exist \(move computers or remove a harddrive\) the FSEQ directory will default back to the show directory.
 
-![](../../.gitbook/assets/image%20%28806%29.png)
+![](../../.gitbook/assets/image%20%28807%29.png)
 
 ### **Render Cache** **Directory**
 
@@ -64,7 +64,7 @@ This is the location where the Render Cache directory data will be saved. If the
 
 ### **Backup Folder**
 
-![](../../.gitbook/assets/image%20%28710%29.png)
+![](../../.gitbook/assets/image%20%28711%29.png)
 
 This is the location where the backup folder\(Backup on Save/Launch or F10\) will be saved. If the Use How Folder Checkbox is selected \(the default\) the backup files will be saved in the show folder. If this is unchecked and a folder path is specified all the backup files will be saved to that location. If this folder doesn't exist \(move computers or remove a harddrive\) the backup directory will default back to the show directory.
 

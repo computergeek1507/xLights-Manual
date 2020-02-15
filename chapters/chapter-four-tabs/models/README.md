@@ -108,7 +108,7 @@ This will resize the model so the number of node in the vertical and horizontal 
 
 The node layout  window is then displayed. The s1, s2, etc. represent the string numbers, the n1,n2,n3,etc represent the node count.
 
-![Node Layout Dialog](../../../.gitbook/assets/image%20%28793%29.png)
+![Node Layout Dialog](../../../.gitbook/assets/image%20%28794%29.png)
 
 ### Lock
 

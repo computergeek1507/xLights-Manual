@@ -1,6 +1,6 @@
 # Faces
 
-![Icon](../../.gitbook/assets/image%20%28651%29.png)
+![Icon](../../.gitbook/assets/image%20%28652%29.png)
 
 ![Sequencer Grid](../../.gitbook/assets/image%20%2830%29.png)
 

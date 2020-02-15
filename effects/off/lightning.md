@@ -1,8 +1,8 @@
 # Lightning
 
-![Icon](../../.gitbook/assets/image%20%28484%29.png)
+![Icon](../../.gitbook/assets/image%20%28485%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28697%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28698%29.png)
 
 ![](../../.gitbook/assets/image%20%28295%29.png)
 

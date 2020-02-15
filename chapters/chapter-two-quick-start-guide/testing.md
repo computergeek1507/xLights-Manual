@@ -12,7 +12,7 @@ Then select the Test option from the Tools menu.
 
 You will be presented with a screen that shows the controller and all the channels configured via the Setup Tab.
 
-![](../../.gitbook/assets/image%20%28785%29.png)
+![](../../.gitbook/assets/image%20%28786%29.png)
 
 You can select the channels you want to test or in this case select the controller which then selects all channels.
 

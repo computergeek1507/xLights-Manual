@@ -24,7 +24,7 @@ Change the Nodes Per Arch value to 25.
 
  The end channel \(75\) will be calculated by xLights. 
 
-![](../../.gitbook/assets/image%20%28477%29.png)
+![](../../.gitbook/assets/image%20%28478%29.png)
 
 If you are adding a second model, ensure that the start and end channels do not overlap with other models.
 
@@ -42,7 +42,7 @@ Use the blue dots around the model to resize and rotate it if required. To move 
 
 The starting location of the model can be changed to the 'Blue' or 'Green' square. 
 
-![](../../.gitbook/assets/image%20%28537%29.png)
+![](../../.gitbook/assets/image%20%28538%29.png)
 
  Click on the Save button \(just below the Models button\) to save the work that you have done so far. This includes the Model definition and its position on the Layout.
 

@@ -26,13 +26,13 @@ The Model Preview window displays the effects on a model as the sequence is play
 
 The House Preview window displays the effects of your entire display where the model or model group has been assigned to the currently selected Preview window. Refer to explanations of multiple Preview windows in the Layout section. It can also be opened/closed by clicking on the  icon on the toolbar.
 
-![](../../../.gitbook/assets/image%20%28486%29.png)
+![](../../../.gitbook/assets/image%20%28487%29.png)
 
 ### ![](../../../.gitbook/assets/effect-settings-icon.JPG) Effect Settings
 
 The Effect Settings window displays the current or last effect that is being worked with. If an effect on the grid is selected or a new effect dragged to the grid, then this window gets updated with the ‘current’ effect.
 
-![](../../../.gitbook/assets/image%20%28568%29.png)
+![](../../../.gitbook/assets/image%20%28569%29.png)
 
 Use the window to modify the attributes of the effect as required. The results of the change are displayed in the model window when selected and in the House Preview window when the sequence is played.
 
@@ -66,7 +66,7 @@ By clicking on one of the colors, the color box will appear allowing you to choo
 
 The first option of Morph is used with two or more layers. If selected, effect \#1 will morph/blend/fade into Effect \#2 midway through the timing interval in which the effects are placed.
 
-![](../../../.gitbook/assets/image%20%28640%29.png)
+![](../../../.gitbook/assets/image%20%28641%29.png)
 
 {% page-ref page="../../chapter-four-sequencer/layers/layer-blending.md" %}
 
@@ -78,13 +78,13 @@ The Layer Settings menu has two tabs.  The first tab \(Buffer\) defines how the 
 {% tab title="Buffer" %}
 
 
-![](../../../.gitbook/assets/image%20%28614%29.png)
+![](../../../.gitbook/assets/image%20%28615%29.png)
 {% endtab %}
 
 {% tab title="Roto-Zoom" %}
 
 
-![](../../../.gitbook/assets/image%20%28527%29.png)
+![](../../../.gitbook/assets/image%20%28528%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -114,13 +114,13 @@ The Value Curves Dialog allows the user to drag and drop their saved values curv
 
 The Color Dropper Dialog allows the user to drag and drop their saved colors/color curves onto the color palette.
 
-![](../../../.gitbook/assets/image%20%28670%29.png)
+![](../../../.gitbook/assets/image%20%28671%29.png)
 
 ### Effect Assist
 
 The Effect Assist Window is an additional window that helps you determine how an effects is being drawn via a panel view.
 
-![](../../../.gitbook/assets/image%20%28748%29.png)
+![](../../../.gitbook/assets/image%20%28749%29.png)
 
 For example, if you open this window against a morph effect, the windows will display a grid corresponding to the x,y coordinates. If you then grab a slider for the morph effect and move it, the Effect Assist window shows exactly where the coordinate is being moved to, making it easier to determine what is being done to the effect.  
 

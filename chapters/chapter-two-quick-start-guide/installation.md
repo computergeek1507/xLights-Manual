@@ -4,11 +4,11 @@
 
 Download the xLights and QM Vamp Plugins installer from [https://xlights.org/releases/](https://xlights.org/releases/)
 
-![](../../.gitbook/assets/image%20%28721%29.png)
+![](../../.gitbook/assets/image%20%28722%29.png)
 
 First, install the Queen Mary VAMP plugins which are used used by xLights. 
 
-![](../../.gitbook/assets/image%20%28629%29.png)
+![](../../.gitbook/assets/image%20%28630%29.png)
 
 Second, install the xLights, keep the default settings.
 

@@ -14,7 +14,7 @@ Click on the Add Group button.  Enter a Model Group Name when prompted.  I have 
 
 Next add the models that are part of the Model Group to the group.  From the list of models, select the model and click on the right arrow to add to the model group window.
 
-![](../../.gitbook/assets/image%20%28773%29.png)
+![](../../.gitbook/assets/image%20%28774%29.png)
 
 The model ‘Arch1’  is now part of the ‘All Models Group’ group. Click on Save when complete.
 
@@ -26,11 +26,11 @@ Repeat the above steps and add a second Model Group ‘Arches Group’.  Click o
 
 Select the Model group ‘Arches Group’ and  adding the model ‘Arch1’ to that group too.
 
-![](../../.gitbook/assets/image%20%28515%29.png)
+![](../../.gitbook/assets/image%20%28516%29.png)
 
 Click on Save to save the Model group updates \(and all changes to the layout, models or model groups since the last time this save button was clicked on\).
 
-![](../../.gitbook/assets/image%20%28573%29.png)
+![](../../.gitbook/assets/image%20%28574%29.png)
 
 Click on Save to save the Model group updates \(and all changes to the layout, models or model groups since the last time this save button was clicked on\).
 

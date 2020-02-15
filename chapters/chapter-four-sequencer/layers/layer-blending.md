@@ -6,7 +6,7 @@
 
 The Layer Blendings window can be opened by clicking on the Layer Blendings icon from the toolbar or via the View , Windows menus.
 
-![](../../../.gitbook/assets/image%20%28665%29.png)
+![](../../../.gitbook/assets/image%20%28666%29.png)
 
 
 
@@ -253,7 +253,7 @@ Put two effects on a model and step through each of the layering modes to see wh
 
 This is not to be confused with the Morph Effect. This is a layering option that can be applied to any two effects.
 
-![](../../../.gitbook/assets/image%20%28540%29.png)
+![](../../../.gitbook/assets/image%20%28541%29.png)
 
 The morph option of layer blending will magically make effect 1 ‘morph’ into effect 2 during the length of the timing cell that the effects are in. You will not see effect 2 at the beginning of the timing cell, and you will not see effect 1 at the end of the timing cell. Somewhere near the middle you will see the effect 1 ‘morph’ into effect 2.
 
@@ -299,7 +299,7 @@ When setting a layer transition, the setting will apply to all future effects pl
 
 If an effect has a transitions applied a green bar will appear for an in transitions and a red bar for an out transitions. If the in and out transitions overlap, the overlap area will appear yellow.
 
-![](../../../.gitbook/assets/image%20%28601%29.png)
+![](../../../.gitbook/assets/image%20%28602%29.png)
 
 ### Layer Blending - Mix Slider
 
@@ -309,7 +309,7 @@ This slider adjusts the level of each effect in the combined output of the effec
 
 ### Layer Blending - Canvas
 
-![](../../../.gitbook/assets/image%20%28523%29.png)
+![](../../../.gitbook/assets/image%20%28524%29.png)
 
 Canvas Mode is a special render mode that only works with specific effects. The default render mode in xLights will draw the effects on a blank buffer for each layer. Canvas Mode allows an effect to draw on a previous layer without "blanking it" out. This is used by effects like the Warp and Kaleidoscope Effect that manipulate data from the underlying layers.
 
@@ -317,7 +317,7 @@ Canvas Mode is a special render mode that only works with specific effects. The 
 
 This Dialog allows the user which layers to use when Canvas Mode is Enabled 
 
-![](../../../.gitbook/assets/image%20%28745%29.png)
+![](../../../.gitbook/assets/image%20%28746%29.png)
 
 ![](../../../.gitbook/assets/image%20%28245%29.png)
 

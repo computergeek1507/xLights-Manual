@@ -2,9 +2,9 @@
 
 ## VU Meter
 
-![Icon](../../.gitbook/assets/image%20%28659%29.png)
+![Icon](../../.gitbook/assets/image%20%28660%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28641%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28642%29.png)
 
 ![](../../.gitbook/assets/image%20%28450%29.png)
 

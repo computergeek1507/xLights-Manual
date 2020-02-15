@@ -24,11 +24,11 @@ When selected, backups are made of all relevant files both in the show directory
 
 This drop-down sets how long xLights will keep backup. With "Never" selected xLights will not delete any backups. 365, 90, 31, and 7 days will delete backup folder older than the selected length.  This helps to clear out older files and free up space.
 
-![](../../../.gitbook/assets/image%20%28680%29.png)
+![](../../../.gitbook/assets/image%20%28681%29.png)
 
 ## View Tab
 
-![](../../../.gitbook/assets/image%20%28636%29.png)
+![](../../../.gitbook/assets/image%20%28637%29.png)
 
 ### Tool Icon Size
 
@@ -50,7 +50,7 @@ This option does not have to be used unless you see issues with the waveform or 
 
 In 3D mode, Model and Objects sometimes do not look correct in the house preview on all videocards. The Render Order 1-6 options use different render methods to generate the model layout. If you are having unwanted visual artifacts, try a different options and see if the models look better on your specific computer.
 
-![](../../../.gitbook/assets/image%20%28687%29.png)
+![](../../../.gitbook/assets/image%20%28688%29.png)
 
 ### Model Handle Size
 
@@ -62,7 +62,7 @@ There are three sizes available:
 
 ![Large](../../../.gitbook/assets/image%20%2840%29.png)
 
-![Extra Large](../../../.gitbook/assets/image%20%28472%29.png)
+![Extra Large](../../../.gitbook/assets/image%20%28473%29.png)
 
 ### Effect Assist Window
 
@@ -92,9 +92,9 @@ Five options are available: Extra Small, Small, Medium, Large, Extra Large.
 
 ![](../../../.gitbook/assets/image%20%28163%29.png)
 
-![Grid Spacing Small ](../../../.gitbook/assets/image%20%28787%29.png)
+![Grid Spacing Small ](../../../.gitbook/assets/image%20%28788%29.png)
 
-![Grid Spacing Extra Large](../../../.gitbook/assets/image%20%28619%29.png)
+![Grid Spacing Extra Large](../../../.gitbook/assets/image%20%28620%29.png)
 
 ### Icon Backgrounds
 
@@ -212,7 +212,7 @@ By default xLights automatically selects which network interface to send out net
 
 ### Duplicate Frames To Suppress
 
-![](../../../.gitbook/assets/image%20%28684%29.png)
+![](../../../.gitbook/assets/image%20%28685%29.png)
 
 This selection allows xLights to "skip" frames that contain the same data as the previous frame. This can help with lagging, as it will reduce network traffic. xSchedule will also use this setting when outputting data.
 

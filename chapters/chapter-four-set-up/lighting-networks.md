@@ -20,7 +20,7 @@ Each USB output type can be selected from the drop-down box. When a output type 
 
 Clicking on the Add E1.31 button will display the following dialog:
 
-![](../../.gitbook/assets/image%20%28542%29.png)
+![](../../.gitbook/assets/image%20%28543%29.png)
 
 Select the transmission method \(Multicast or Unicast\) depending on what option that will be used to drive individual lighting networks. If unsure, leave as Multicast. If Unicast is selected, then the IP address of the controller that will receive the universe\(s\) data must be defined. Enter the 'Starting Universe \#',  '\# of Universes' and the 'Last channel' for each universe. The 'Last Channel, is the Universe Size. Most users use a size of 510 or 512. The 'One Output' checkbox allows for all these universes to be grouped together in the setup tab and only only take one line instead of one line per universe. This is the preferred method for most users. The Description attribute is useful for annotating what the particular channel range this network is controlling. Suppressing duplicate frames reduces network traffic if the data does not change. Priority is supported by some controllers and is used to determine which data packet to use is multiple packets are received controlling the same channels. Controller Type allows the user to specify the controller being used for controller upload and the controller visualize dialog. The 'Use Auto Start Channel checkbox, allows xLights to automatically set the start channels based on the controller connection. The FPP Proxy IP/Host option is used in conjunction with FPP 2.8+ Controller Proxy. This allows the user to setup a FPP device as a "tunnel" for their controller between the two network interfaces.
 
@@ -82,7 +82,7 @@ If the Falcon Player on the Raspberry Pi or BeagleBone Black controller is to be
 
 Clicking Add ArtNET will display the following dialog:
 
-![](../../.gitbook/assets/image%20%28638%29.png)
+![](../../.gitbook/assets/image%20%28639%29.png)
 
 Specify the IP Address of the controller board, there are 2 ways of defining universes. If the IP address is known, use the Net/Subnet/Universe tab, if the IP address is not known use Universe only. Specify the number of universes that output will receive and the number of channels per universe. Optionally enter a description for this ArtNet output.   
   
@@ -92,7 +92,7 @@ Press OK.
 
 Clicking the LOR button will bring up the following dialog:
 
-![](../../.gitbook/assets/image%20%28662%29.png)
+![](../../.gitbook/assets/image%20%28663%29.png)
 
 LOR \(Optimized\) is much closer to true LOR protocol and utilizes some of the more advanced commands. First, set an ID of the ouput, this is **not** the unit ID of a controller box, it is a unique ID that xLights will use to direct the channel data to this output. The port is the COM port of the dongle in use, Baud Rate is adjustable. NOTE: Older black or white LOR dongles do not support speeds over 115200, Only the red LOR dongle will support higher speeds. Description is user defined value to identify the output. The Controller Table displays the list of LOR controller. Each controller will be listed by controller type, Unit ID, Number of Channels, and Address Mode. Select the "Add" Button to add a new LOR controller. Finally a box that you add the controller ID's that you have each controller set up to. Note: xLights cannot set the unit ID to the controller, this must be done via the LOR software or from the DIP switches on the controller board if applicable. 
 
@@ -110,7 +110,7 @@ Click Ok when done adding all unit ID's to finish the LOR Optimized network setu
 
 Selecting DDP will bring up the following dialog:
 
-![](../../.gitbook/assets/image%20%28688%29.png)
+![](../../.gitbook/assets/image%20%28689%29.png)
 
 DDP \(Distributed Display Protocol\) is a high efficiency data protocol. It is more efficiency than ArtNET or E.131. Currently, this protocol is not supported by all Ethernet based controllers. \(only Easylights, FPP 2.x+, and Minleon\) It is most useful to send large data packets to FPP for controlling P10 and P5 matrix's. It uses absolute channel addressing. IP address is the controller IP, The ID should be unique number that is not an already used universe number or the ID of another network. The number of channels is the total number of channels that the controller is using. NOTE: a P10 panel is 1536 channels for each panel and a P5 is 6144 channels for each panel. The channels per packet should be left to the default of 1440. Checking the box to keep channel numbers, this sends the channel numbers to the controller. If left unchecked the first channel in DDP will be channel 1. Description is a user field to identify this DDP network. Suppressing duplicate frames reduces network traffic if the data does not change. Controller Type allows the user to specify the controller type to use for controller upload and controller visualize dialog.The 'Use Auto Start Channel checkbox, allows xLights to automatically set the start channels based on the controller connection. Autosize output allows xLights to automatically determine the number of channels needed based your model settings and resize the channel count for you. The FPP Proxy IP/Host option is used in conjunction with FPP 2.8+ Controller Proxy. This allows the user to setup a FPP device as a "tunnel" for their controller between the two network interfaces.  
   
@@ -144,7 +144,7 @@ After you have at least one output defined you can use the Right Click in the ou
 
 ### Right Click popup
 
-![Right Click Menu](../../.gitbook/assets/image%20%28455%29.png)
+![Right Click Menu](../../.gitbook/assets/image%20%28456%29.png)
 
 Upload To Controller has three sub-menus choices 'Upload to All Controllers', 'E1.31 Input Definition', and 'Output'
 
@@ -218,7 +218,7 @@ If the Controller Type is Specified this option will appear and allow the user t
 If a controller type is not set the Visualize Controller‌ option will not appear.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28497%29.png)
+![](../../.gitbook/assets/image%20%28498%29.png)
 
 There is also a right click menu to print the controller connections or Save as a CSV file.
 

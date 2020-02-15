@@ -16,7 +16,7 @@ $$
 
 For this example, the total number of channels is: 3 x 512 x 8 = 12288 channels.
 
-![DDP Output Setting Dialog](../.gitbook/assets/image%20%28661%29.png)
+![DDP Output Setting Dialog](../.gitbook/assets/image%20%28662%29.png)
 
 Set the Description Field To 'P10Matrix' and set the Controller Type to 'FPP PiHat'. The Description is important later, do not skip this step.
 
@@ -26,11 +26,11 @@ Click Ok and the new DDP output should be added to your Setup Tab. Click 'Save S
 
 Next, Define a model ‘P10Matrix’ for in the Layout Tab
 
-![Layout Tab](../.gitbook/assets/image%20%28633%29.png)
+![Layout Tab](../.gitbook/assets/image%20%28634%29.png)
 
 First Select the 'Matrix' model icon in the Model Toolbar.
 
-![Matrix Model ](../.gitbook/assets/image%20%28495%29.png)
+![Matrix Model ](../.gitbook/assets/image%20%28496%29.png)
 
 Click the Left Mouse Button Down then Drag the Pointer to the Right, and Release.
 
@@ -48,7 +48,7 @@ A single 32 \* 16 P10 panel has 16 rows \(height\) and 32 columns \(width\). Rig
 
 To set the Start Channel Click the Ellipsis\(three periods\) button in the Start Channel Box.
 
-![](../.gitbook/assets/image%20%28621%29.png)
+![](../.gitbook/assets/image%20%28622%29.png)
 
 Set the start Channel by Clicking the 'Controller' Option and selecting the Controller Description set earlier, from the drop-down list. Keep the 'Start Channel' set to 1.
 
@@ -62,7 +62,7 @@ The start channel should be set to '!P10Matrix:1' and xLights will automatically
 
 Click the 'Save' Button when done.
 
-![](../.gitbook/assets/image%20%28736%29.png)
+![](../.gitbook/assets/image%20%28737%29.png)
 
 ### Upload Config to FPP
 
@@ -70,13 +70,13 @@ Switch back to the Setup Tab. In the Setup tab right click on the 'DDP' output f
 
 
 
-![](../.gitbook/assets/image%20%28503%29.png)
+![](../.gitbook/assets/image%20%28504%29.png)
 
 ### **BBB FPP definition**
 
 Open The Beaglebone controller web page by entering the IP address in your web browser of choose or by right-clicking on the DDP output and selecting 'Open Controller'.
 
-![](../.gitbook/assets/image%20%28607%29.png)
+![](../.gitbook/assets/image%20%28608%29.png)
 
 Set the FPP controller to bridge mode for testing for now. When running your show you can use bridge mode or switch to FPP Remote Mode, both will work with the DDP setup. No channel inputs need to be setup the DDP protocol handle that for you.
 

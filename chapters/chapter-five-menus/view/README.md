@@ -2,7 +2,7 @@
 
 ## View 
 
-![](../../../.gitbook/assets/image%20%28606%29.png)
+![](../../../.gitbook/assets/image%20%28607%29.png)
 
 The view menu enables you to zoom in or out on the sequencer view, define and use Perspectives and nominate which windows you want to have open.
 
@@ -40,7 +40,7 @@ The AC Lights Toolbar allows you to add On, Off, Shimmer, Twinkle, and Ramp effe
 
 Select an Effect, using the On effect in this example, then click and drag on the desired rows to populated.
 
-![](../../../.gitbook/assets/image%20%28813%29.png)
+![](../../../.gitbook/assets/image%20%28814%29.png)
 
 The Effects will be places in the selected area.
 

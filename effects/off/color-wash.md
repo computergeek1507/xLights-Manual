@@ -1,6 +1,6 @@
 # Color Wash
 
-![Icon](../../.gitbook/assets/image%20%28717%29.png)
+![Icon](../../.gitbook/assets/image%20%28718%29.png)
 
 ![Sequencer Grid](../../.gitbook/assets/image%20%28451%29.png)
 

@@ -26,7 +26,7 @@ To Create a new View , click on the Add button, enter a unique name in the windo
 
 To delete an existing view , highlight the view from the View window and select Delete.
 
-![](../../.gitbook/assets/image%20%28558%29.png)
+![](../../.gitbook/assets/image%20%28559%29.png)
 
 New models can be added to a view by first selecting that view from the Views list on the right, then second select the Available Model on the Left and third clicking on Right Arrow Button.
 

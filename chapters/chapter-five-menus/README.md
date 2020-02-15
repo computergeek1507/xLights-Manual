@@ -2,5 +2,5 @@
 
 ![](../../.gitbook/assets/xlights-logo.png)
 
-![](../../.gitbook/assets/menu-options.JPG)
+![](../../.gitbook/assets/image%20%28454%29.png)
 

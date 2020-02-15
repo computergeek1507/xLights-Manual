@@ -4,17 +4,17 @@
 
 The Color Tab allows the user to change the colors options of xLights. The First two Columns Relate to the colors in the Sequence Tab, while the third column changes Layout Colors.
 
-![](../../../../.gitbook/assets/image%20%28723%29.png)
+![](../../../../.gitbook/assets/image%20%28724%29.png)
 
 ## Sequencer Colors
 
 ### Timing Tracks
 
-![](../../../../.gitbook/assets/image%20%28580%29.png)
+![](../../../../.gitbook/assets/image%20%28581%29.png)
 
 These Colors are used for the Timing Tracks Header's background color in the Sequence Tab.
 
-![Sequence Tab Timing Tracks](../../../../.gitbook/assets/image%20%28587%29.png)
+![Sequence Tab Timing Tracks](../../../../.gitbook/assets/image%20%28588%29.png)
 
 ### Timings
 
@@ -26,25 +26,25 @@ Changed the Timing Mark's Color.
 
 Effects Changes the Color of the "Bounding Boxes" of the Effects
 
-![Effects Bounding Box Color](../../../../.gitbook/assets/image%20%28669%29.png)
+![Effects Bounding Box Color](../../../../.gitbook/assets/image%20%28670%29.png)
 
 ### Effect Selected
 
 Selected Effect Color \(When Mouse Click and Dragging to select multiple effects.\)
 
-![](../../../../.gitbook/assets/image%20%28664%29.png)
+![](../../../../.gitbook/assets/image%20%28665%29.png)
 
 ### Effect Referenced
 
 Effect Referenced Color.\(The Effect the Effect Settings Dialog is Currently Referencing\)
 
-![](../../../../.gitbook/assets/image%20%28467%29.png)
+![](../../../../.gitbook/assets/image%20%28468%29.png)
 
 ### Row Heading
 
 Row Heading Background Color 
 
-![](../../../../.gitbook/assets/image%20%28678%29.png)
+![](../../../../.gitbook/assets/image%20%28679%29.png)
 
 ### Row Heading Text
 
@@ -86,13 +86,13 @@ Timing Track Label Outline Color
 
 Singing Faces Phrases Background Color
 
-![](../../../../.gitbook/assets/image%20%28790%29.png)
+![](../../../../.gitbook/assets/image%20%28791%29.png)
 
 ### Words
 
 Singing Faces Words Background Color
 
-![](../../../../.gitbook/assets/image%20%28781%29.png)
+![](../../../../.gitbook/assets/image%20%28782%29.png)
 
 ### Phonemes
 
@@ -104,7 +104,7 @@ Singing Faces Phonemes Background Color
 
 Timing Tracks that cannot be edited.
 
-![](../../../../.gitbook/assets/image%20%28561%29.png)
+![](../../../../.gitbook/assets/image%20%28562%29.png)
 
 ### Locked Effects
 
@@ -124,27 +124,27 @@ Locked  Effect Referenced Color \(The Effect the Effect Settings Dialog is Curre
 
 Audio Waveform Color
 
-![](../../../../.gitbook/assets/image%20%28581%29.png)
+![](../../../../.gitbook/assets/image%20%28582%29.png)
 
 ### Waveform Background
 
 Audio Waveform Background Color
 
-![](../../../../.gitbook/assets/image%20%28626%29.png)
+![](../../../../.gitbook/assets/image%20%28627%29.png)
 
 ### Waveform Selected
 
 Audio Waveform Selected Color
 
-![](../../../../.gitbook/assets/image%20%28626%29.png)
+![](../../../../.gitbook/assets/image%20%28627%29.png)
 
-![](../../../../.gitbook/assets/image%20%28667%29.png)
+![](../../../../.gitbook/assets/image%20%28668%29.png)
 
 ### Waveform Selected Effects
 
 Audio Waveform Selected Effect Interval Marker Color
 
-![](../../../../.gitbook/assets/image%20%28464%29.png)
+![](../../../../.gitbook/assets/image%20%28465%29.png)
 
 ## Layout Tab
 
@@ -152,13 +152,13 @@ Audio Waveform Selected Effect Interval Marker Color
 
 Model Color
 
-![](../../../../.gitbook/assets/image%20%28739%29.png)
+![](../../../../.gitbook/assets/image%20%28740%29.png)
 
 ### Model Selected
 
 Model Selected Color
 
-![](../../../../.gitbook/assets/image%20%28737%29.png)
+![](../../../../.gitbook/assets/image%20%28738%29.png)
 
 ### Model Overlap
 
@@ -166,7 +166,7 @@ Color of other models with overlapping channels of the selected model. Overlap c
 
 ![](../../../../.gitbook/assets/image%20%2859%29.png)
 
-![](../../../../.gitbook/assets/image%20%28700%29.png)
+![](../../../../.gitbook/assets/image%20%28701%29.png)
 
 ### Dashed Selected
 
@@ -176,7 +176,7 @@ Mouse Click and Drag Box Color
 
 ## Buttons
 
-![](../../../../.gitbook/assets/image%20%28756%29.png)
+![](../../../../.gitbook/assets/image%20%28757%29.png)
 
 ### Import
 

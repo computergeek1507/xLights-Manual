@@ -4,7 +4,7 @@
 
 From the Color window, you can change the Colors that apply to the effect, as well as the Sparkles, Brightness and Contrast values. How effects use the colors is defined by the effect. Some support just one, some support up to 8.
 
-![](../../../.gitbook/assets/image%20%28609%29.png)
+![](../../../.gitbook/assets/image%20%28610%29.png)
 
 Use the Sparkles slider to increase the sparkles for the effect. If the Sparkles reflect music option is selected, then the sparkles will increase from the selected value based on the intensity of the  music.
 
@@ -18,7 +18,7 @@ If this window is not open, select and open the Window from the Views, Window me
 
 To change the colors used by an effect, select the effect, and double click the color that needs to be modified. 
 
-![](../../../.gitbook/assets/image%20%28772%29.png)
+![](../../../.gitbook/assets/image%20%28773%29.png)
 
 The Color Manager Dialog allows the use to then select a different color.
 
@@ -100,7 +100,7 @@ Similarly you can load a previously exported color curve file by clicking on the
 
 Color curves can be timed based or spatial based. A timed based color curve will change color over the duration of the effect, while a spatial color curve will change over the models X/Y location. A spatial color curve has direction.  The icon below the color specified what type of color curve is selected. Click the icon to change the color curve type. A clock is a time based and an arrow is used for a spatial color curve. The Direction of the arrow represents the direction of the spatial color curve.
 
-![](../../../.gitbook/assets/image%20%28672%29.png)
+![](../../../.gitbook/assets/image%20%28673%29.png)
 
 This functionality works on most effects but not all. For example – it is not applicable to effects such as DMX,  Faces, Fire, Glediator, Pictures, State and Video.
 

@@ -12,7 +12,7 @@ Supported input/output formats are:
 
 ![](../../../.gitbook/assets/image%20%28104%29.png)
 
-![Convert Dialog](../../../.gitbook/assets/image%20%28485%29.png)
+![Convert Dialog](../../../.gitbook/assets/image%20%28486%29.png)
 
 1. Click on Choose Files, and on the subsequent window, change the file type to the type of file that you wish to convert and navigate to where your input file \(i.e. LOR LMS file etc\) is located. Select the file and Click Open or Double click to select the file.
 

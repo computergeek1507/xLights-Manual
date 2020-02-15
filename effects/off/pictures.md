@@ -1,8 +1,8 @@
 # Pictures
 
-![Icon](../../.gitbook/assets/image%20%28782%29.png)
+![Icon](../../.gitbook/assets/image%20%28783%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28683%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28684%29.png)
 
 {% tabs %}
 {% tab title="Start Position" %}
@@ -20,7 +20,7 @@
 {% tab title="Start Scale" %}
 
 
-![](../../.gitbook/assets/image%20%28776%29.png)
+![](../../.gitbook/assets/image%20%28777%29.png)
 {% endtab %}
 
 {% tab title="End Scale" %}

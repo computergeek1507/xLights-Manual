@@ -38,7 +38,7 @@ The models that are currently in the group will be displayed in the ‘Models in
 The order of the models in the ‘Models in Group’ determines the render order of the Group Render Styles. 'Per Model' group render styles are rendered in model order top to bottom.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28462%29.png)
+![](../../.gitbook/assets/image%20%28463%29.png)
 
 To remove a Model Group, select the Model Group from the model list, right click and select  Delete Group. This will not change or remove any of the underlying models, however any effects that have been placed at that group level on the sequencer will be removed and the Model group will be removed from the Layout display if it has been added to that display.
 

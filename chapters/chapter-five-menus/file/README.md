@@ -8,7 +8,7 @@ The File menu enables you to create a new xLights sequence, open an existing xLi
 
 If you click on the File menu, at the bottom, last four show directories that have been used will be displayed.
 
-![Recent Show directory List](../../../.gitbook/assets/image%20%28524%29.png)
+![Recent Show directory List](../../../.gitbook/assets/image%20%28525%29.png)
 
 If you select any of the items listed, your show directory will be changed to the selected directory.
 
@@ -66,7 +66,7 @@ The Preferences Dialog allows the user to set all the global settings in xLights
 
 ### Sequence Setting
 
-![](../../../.gitbook/assets/image%20%28673%29.png)
+![](../../../.gitbook/assets/image%20%28674%29.png)
 
 The Sequence Settings Dialog allows the user to edit all the settings for the currently open sequence. See Sequence Settings page for more information.
 
@@ -78,7 +78,7 @@ The Sequence Settings Dialog allows the user to edit all the settings for the cu
 
 The Export House Preview Video feature will "Play" the loaded sequence and create a video file of the House Preview Window. The video resolution of the resulting file is based on House Preview size. It is recommended you make the House Preview Window as large as possible before selecting this option. 
 
-![](../../../.gitbook/assets/image%20%28536%29.png)
+![](../../../.gitbook/assets/image%20%28537%29.png)
 
 ### ![](../../../.gitbook/assets/show-directory-icon.JPG) Select Show Folder
 
@@ -90,7 +90,7 @@ Ensure that you have the correct xLights XML files \(xlights\_keybindings.xml, x
 
 The Backup Menu item allows you to manually trigger a backup of the show folder.
 
-![](../../../.gitbook/assets/image%20%28775%29.png)
+![](../../../.gitbook/assets/image%20%28776%29.png)
 
 You will be presented will a message indicating where a backup will be created. Click Yes to proceed.  
 Every time this step is executed, a copy will be created of all the ‘\*xml’ files from your show directory into the Backup subdirectory of your show directory.  A new subfolder is created each time a backup is executed.
@@ -111,7 +111,7 @@ The Alternate Backup function enables you to specify and use a different locatio
 
 Press F11 or select this function from the File menu. The first time you use this function, you will be prompted for the location that you wish to back the files to.  Navigate to the required location and select the folder. The prompts after that are similar to the Backup functions.
 
-![](../../../.gitbook/assets/image%20%28751%29.png)
+![](../../../.gitbook/assets/image%20%28752%29.png)
 
 Subsequently, Pressing F11 will save the files to the specified location.  You can change this location via the Settings, Alt Backup Location menu.
 

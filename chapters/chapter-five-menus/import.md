@@ -8,7 +8,7 @@
 
 The import effects dialog allows the user to import effects from other sequences in the currently open sequence. This option should be used when importing purchased sequences from different vendors.
 
-![](../../.gitbook/assets/image%20%28746%29.png)
+![](../../.gitbook/assets/image%20%28747%29.png)
 
  The Import Effect dialog supports multiple sequence file formats. xLights, Light-o-rama S4, S5, SuperStar, Vixen 2, Vixen 3\(limited\), HLS, LSP, VSA File formats are all supported.
 
@@ -90,7 +90,7 @@ Change the File Type drop-down to SUP. Then select the SuperStar Sequence File.
 
 The SuperStar Import Dialog will then appear. Select the xlights model to import the SuperStar file onto. 
 
-![](../../.gitbook/assets/image%20%28526%29.png)
+![](../../.gitbook/assets/image%20%28527%29.png)
 
 xLights will create pictures from the SuperStar files. The next dialog asks the user to select a folder to save these pictures files too. In the file name field set the 'base' file name. This 'base' name is used as the file name root of all the saved image files. In most cases just set the 'base' name to the SUP file name.
 

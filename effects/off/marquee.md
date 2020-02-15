@@ -2,19 +2,19 @@
 
 ![Icon](../../.gitbook/assets/image%20%28365%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28461%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28462%29.png)
 
 {% tabs %}
 {% tab title="Settings" %}
 
 
-![](../../.gitbook/assets/image%20%28560%29.png)
+![](../../.gitbook/assets/image%20%28561%29.png)
 {% endtab %}
 
 {% tab title="Positions" %}
 
 
-![](../../.gitbook/assets/image%20%28496%29.png)
+![](../../.gitbook/assets/image%20%28497%29.png)
 {% endtab %}
 {% endtabs %}
 

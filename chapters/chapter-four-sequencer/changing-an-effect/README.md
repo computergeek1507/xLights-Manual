@@ -6,9 +6,9 @@
 
 To change an Effects setting, Select the effect in the sequencer timeline and open the Effects setting window using the shortcut in the top toolbar.
 
-![](../../../.gitbook/assets/image%20%28689%29.png)
+![](../../../.gitbook/assets/image%20%28690%29.png)
 
-![](../../../.gitbook/assets/image%20%28792%29.png)
+![](../../../.gitbook/assets/image%20%28793%29.png)
 
 Each effect type has specific settings that can be used to manipulate the effect. These setting are specific to the currently selected effects. If multiple effect are selected the Effects setting panel will display the setting of the first effect. The "Update" button will change the settings of **all** the selected effects to current values used in the Effect Setting Dialog. To updated individual setting across multiple effects use the Bulk Edit option described below.
 
@@ -20,7 +20,7 @@ See the Effects Section for more information on the individual effect settings.
 
 From the Color window, you can change the Colors that apply to the effect, as well as the Sparkles, Brightness and Contrast values. How effects use the colors is defined by the effect.
 
-![](../../../.gitbook/assets/image%20%28609%29.png)
+![](../../../.gitbook/assets/image%20%28610%29.png)
 
 {% page-ref page="changing-color-settings.md" %}
 
@@ -95,7 +95,7 @@ You can copy the effects of an entire model/group and paste it to another model/
 
 Highlight the model name, right click and select Model, Copy Effects to copy the entire row of the effects.
 
-![](../../../.gitbook/assets/image%20%28705%29.png)
+![](../../../.gitbook/assets/image%20%28706%29.png)
 
 ![](../../../.gitbook/assets/image%20%28363%29.png)
 
@@ -143,11 +143,11 @@ If two arrows are shown, then you can’t select the cells. You may need to zoom
 
 After selecting multiple effects, the user can change an individual setting across all the selecting effects. Right Click on the effects setting to change and select Bulk Edit.
 
-![](../../../.gitbook/assets/image%20%28563%29.png)
+![](../../../.gitbook/assets/image%20%28564%29.png)
 
 A separate window will appear, allowing the user to change the setting.
 
-![](../../../.gitbook/assets/image%20%28559%29.png)
+![](../../../.gitbook/assets/image%20%28560%29.png)
 
 After Clicking OK, all the selected effects will update to the updated setting.
 

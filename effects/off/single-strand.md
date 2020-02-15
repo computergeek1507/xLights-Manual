@@ -2,13 +2,13 @@
 
 ![Icon](../../.gitbook/assets/image%20%28136%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28788%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28789%29.png)
 
 {% tabs %}
 {% tab title="Chase" %}
 
 
-![](../../.gitbook/assets/image%20%28713%29.png)
+![](../../.gitbook/assets/image%20%28714%29.png)
 {% endtab %}
 
 {% tab title="Skips" %}

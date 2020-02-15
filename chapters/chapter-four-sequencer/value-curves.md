@@ -10,7 +10,7 @@ Consider the Bars effect. It has two  attributes ‘Palette Rep’ and ‘Cycles
 
 However, if you click on the Value Curve icon for either of these attributes, you will be presented with options to change how these repetitions are applied.
 
-![Value Curve Dialog](../../.gitbook/assets/image%20%28718%29.png)
+![Value Curve Dialog](../../.gitbook/assets/image%20%28719%29.png)
 
 The Flat option is the same as  the default linear option. The level can be used to adjust the intensity.
 
@@ -28,7 +28,7 @@ Select the Ramp Value curve. As the image indicates, this will cause the selecte
 
 Another type of Value Curve is the Sawtooth variation. The selected attribute to which this is being applied \(palette reps\) will increase and decrease twice \(controlled by the Cycles selected\) from a start level to and End level.
 
-![](../../.gitbook/assets/image%20%28747%29.png)
+![](../../.gitbook/assets/image%20%28748%29.png)
 
 Custom Value Curves can also be created. Select the Custom option from the drop-down. You can then click on the waveform to add new points and drag them as necessary.
 
@@ -38,7 +38,7 @@ Value curves can be loaded and exported as a .XVC file. By default, the files wi
 
 ![](../../.gitbook/assets/image%20%28250%29.png)
 
-![](../../.gitbook/assets/image%20%28807%29.png)
+![](../../.gitbook/assets/image%20%28808%29.png)
 
 
 

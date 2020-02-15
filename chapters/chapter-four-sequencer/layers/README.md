@@ -2,7 +2,7 @@
 
 ## Layers
 
-![](../../../.gitbook/assets/image%20%28578%29.png)
+![](../../../.gitbook/assets/image%20%28579%29.png)
 
 Layering effects gives you the ability to create unlimited stunning effects that could not be created without layers.
 
@@ -24,7 +24,7 @@ The Poly Line model defines each segment as a Strand and the layer functionality
 
 To add layers at the strand level, click on the Model name in the sequencer to display the Strand names. Then right click on the strand name and choose Add Layer above or below the selected strand.
 
-![](../../../.gitbook/assets/image%20%28698%29.png)
+![](../../../.gitbook/assets/image%20%28699%29.png)
 
 The strands blend onto the model level effects.
 
