@@ -4,7 +4,7 @@
 
 If you have a set of lights connected to your controller, you can test them directly via xLights. Open the previously saved sequence if it is not already open.
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
 Ensure that the channels and universes configured on your controller match your xLights definition. As an example define 512 channels on Universe 1 and connect a string of lights to that output.
 
@@ -22,7 +22,7 @@ Select the test function \(example Background Only\) and use the sliders to incr
 
 To display Model groups or Models instead, click on Model Groups or Models across the top.
 
-![](../../.gitbook/assets/image%20%28326%29.png)
+![](../../.gitbook/assets/image%20%28332%29.png)
 
 Different test functions are available for RGB, non RGB lights as well as the option to execute different test cycles. Set the Tools-&gt;Test section for more information.
 

@@ -1,10 +1,10 @@
 # Spirals
 
-![Icon](../../.gitbook/assets/image%20%28769%29.png)
+![Icon](../../.gitbook/assets/image%20%28783%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28702%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28715%29.png)
 
-![](../../.gitbook/assets/image%20%28810%29.png)
+![](../../.gitbook/assets/image%20%28825%29.png)
 
 The Spirals effect provides different representations of two and three dimensional spirals and helix. One or multiple colors can be used for the effect. However, this effect looks best with at least two colors selected.
 

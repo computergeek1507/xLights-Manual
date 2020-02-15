@@ -1,8 +1,8 @@
 # Ripple
 
-![Icon](../../.gitbook/assets/image%20%28398%29.png)
+![Icon](../../.gitbook/assets/image%20%28404%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28288%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28294%29.png)
 
 ![](../../.gitbook/assets/image-772.png)
 

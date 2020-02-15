@@ -1,16 +1,16 @@
 # Shockwave
 
-![Icon](../../.gitbook/assets/image%20%28202%29.png)
+![Icon](../../.gitbook/assets/image%20%28207%29.png)
 
 ![Sequencer Grid](../../.gitbook/assets/image-764.png)
 
 {% tabs %}
 {% tab title="Position" %}
-![](../../.gitbook/assets/image%20%28379%29.png)
+![](../../.gitbook/assets/image%20%28385%29.png)
 {% endtab %}
 
 {% tab title="Options" %}
-![](../../.gitbook/assets/image%20%28557%29.png)
+![](../../.gitbook/assets/image%20%28567%29.png)
 {% endtab %}
 {% endtabs %}
 

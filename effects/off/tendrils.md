@@ -2,11 +2,11 @@
 
 ## Tendril
 
-![Icon](../../.gitbook/assets/image%20%2898%29.png)
+![Icon](../../.gitbook/assets/image%20%28102%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28204%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28209%29.png)
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 The Tendrils effect provides an effect which looks like a twisting threadlike structure.You can think of tendrils as the pattern you would see if you took a piece of string, held it just above a flat surface and moved it around. As you do so the string would move leaving a trail which did not exactly match the movements but was a result of it. The parameters of the tendril effect let you control the movement of the string and how the string behaves.
 

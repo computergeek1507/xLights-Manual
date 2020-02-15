@@ -32,7 +32,7 @@ You can however arrange the windows in any fashion.
 
 The rearranged windows must be saved as the default perspective so that it is loaded in that fashion whenever you open xLights.
 
-![Save Current Perspective](../../../.gitbook/assets/image%20%2827%29.png)
+![Save Current Perspective](../../../.gitbook/assets/image%20%2828%29.png)
 
 Click on View, Perspective and then Save Current.
 

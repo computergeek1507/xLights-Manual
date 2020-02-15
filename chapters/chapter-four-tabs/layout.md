@@ -17,8 +17,8 @@ The layout tab displays a full preview of your show and provides a view of how a
 * Review or change the detailed characteristics of a model’s attributes
 * Create Additional Preview layout windows
 * Assign Models to one or more  Preview Layouts
+* Assign Models to Specific Controller Connection
+* Assign the Model Start Channel
 
-
-
-![](https://lh5.googleusercontent.com/ZXsdZ97AWp95XCJzHZUjj2k7lrObl5EjYKyod0PjyF8ZXGn9OH0SG1z6j6BDmRtQ1zL5WE9p9OX1qHBrmjF5Unj6glpr31uUU1fPsiicdlQ3YvwQY2aFnlrHF2QxC7IqWTKiIg1t)
+![](../../.gitbook/assets/image%20%28622%29.png)
 

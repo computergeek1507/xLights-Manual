@@ -4,9 +4,9 @@
 
 ## xLights & Nutcracker
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
-![](../../.gitbook/assets/image%20%28806%29.png)
+![](../../.gitbook/assets/image%20%28821%29.png)
 
 xLights was created by Matt Brown in early 2010 and was released to the public on September 13th of that year. Matt wanted a program that would reliably play his LOR show after experiencing lagging. His original xLights application consisted of a testing and scheduling module only. The program could control a variety of lighting networks including LOR, D-Light, DMX and Renard. And it also ran under Windows, Mac OS X and Linux. xLights did not have its own sequencer at the time, but could run a mixture of LOR S2 and Vixen sequences.
 
@@ -24,7 +24,7 @@ During the Fall of 2012 Matt had contacted Sean and asked if he could port the N
 
 ![xLights 3.0 release](../../.gitbook/assets/screen-shot-2019-02-25-at-7.55.14-pm.png)
 
-![xLights/Nutcracker 3 GUI](../../.gitbook/assets/image%20%28748%29.png)
+![xLights/Nutcracker 3 GUI](../../.gitbook/assets/image%20%28762%29.png)
 
 2013 found both Matt and Sean developing xLights/Nutcracker into a show player and sequencer.
 
@@ -32,7 +32,7 @@ Early into 2014, Matt was hired by Light-O-Rama to develope their software and l
 
 In 2014 Sean had discussions with Dave Pitts about making xLights resemble a video editor with a horizontal timeline, sound file waveform, drag & drop effects and multiple layers. Dave coded up the first Alpha xLights 4.0 in November 2014. In January 2015, Gil Jones and Dan Kulp came on to the team and took over the development from Dave. xLights 4.0 Beta was released on March 20th, 2015. Keith Westley joined the development team in late Summer/early Fall of that year.
 
-![xLights/Nutcracker 4.0 GUI](../../.gitbook/assets/image%20%28791%29.png)
+![xLights/Nutcracker 4.0 GUI](../../.gitbook/assets/image%20%28806%29.png)
 
 With the release of version 4.3 on December 17th, 2015, Sean changed the name and dropped the reference to Nutcracker and was simply called xLights. Starting in 2016, xLights dropped the version 4.x numbering scheme and switched to a year/version scheme \(i.e 2019.17\).
 

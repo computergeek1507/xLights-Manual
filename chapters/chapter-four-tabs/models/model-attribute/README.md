@@ -2,25 +2,25 @@
 
 ## **Model Settings**
 
-![](../../../../.gitbook/assets/image%20%28149%29.png)
+![](../../../../.gitbook/assets/image%20%28154%29.png)
 
-## **Name**
+### **Name**
 
 The name of the model. The Model name can be changed by clicking on the existing name and changing to a new value.
 
-## \# Strings
+### \# Strings
 
 The \# of Strings corresponds to the physical number of strings for that model and is generally 1.
 
-## **Nodes/String**
+### **Nodes/String**
 
 Nodes per String denotes the number of nodes/pixels per string. If your model has 2 strings and 50 node per string, the total number of nodes is 100.
 
-## **Lights/Node**
+### **Lights/Node**
 
 Lights per Node denotes the number of physical lights per node. \(i.e. for pixel strips with 3 LEDs per controller chip, this would be 3\).
 
-## **Lights/String**
+### **Lights/String**
 
 {% hint style="info" %}
 ## **Only available when the 3/4 Channel RGB Selected or Single Color string type is selected.**
@@ -28,15 +28,25 @@ Lights per Node denotes the number of physical lights per node. \(i.e. for pixel
 
 Lights per String denotes the number of lights per string. This will be used instead of the Nodes/String and Lights/Node settings.
 
-## Start Location
+### Start Location
 
 Location of the first pixel or first channel location. "Green Square" means the starting location is the green square on the layout and "Blue Square" means the starting location is the blue square.
 
-## Start Channel
+![](../../../../.gitbook/assets/image%20%28794%29.png)
+
+### Controller
+
+xLights has two system to define model start channel location. If the controller dropdown is set to a controller name specified in the setup tab, the start channel will be auto generated based on the Controller Port and Model Chaining settings.
+
+![](../../../../.gitbook/assets/image%20%28508%29.png)
+
+### Start Channel
+
+![](../../../../.gitbook/assets/image%20%28446%29.png)
 
 The Start Channel corresponds to the starting channel of the first node for the model. xLights will automatically calculate the end channel based on the model settings.
 
-By Default, xLights will "chain" all you models together, this means the start channels will just follow the previously model.
+If the controller dropdown is set to "Use Start Channel", by Default, xLights will "chain" all you models together, this means the start channels will just follow the previously model.
 
 In this example, the Start Channel has been set to start immediately after the ‘Candy Canes-2’ model.
 
@@ -44,15 +54,21 @@ In this example, the Start Channel has been set to start immediately after the �
 
 xLights will automatically calculate the start channel and end channels, and if the ‘Candy Canes-2’ model’s channels change, then the start and end channels for this model will automatically be recalculated.
 
-## Individual Start Channels
+Click the ellipse button \(three periods\) to edit the start channel.
+
+![](../../../../.gitbook/assets/image%20%28128%29.png)
+
+Model Start Channel can use Absolute, Universe, Start/End of Model or Controller based addressing.
+
+![](../../../../.gitbook/assets/image%20%28434%29.png)
+
+### Individual Start Channels
 
 For models with multiple strands or elements, you can specify the start channel for each strand individually if required. This is useful where the channel numbering is not contiguous.
 
-![](https://lh4.googleusercontent.com/_XIuO-mmrRTqKWRHhlaEVEfSEWlqRdgRsQ0THmg64b6lIJsV4hrop8zyNTtIddqyKuCwPwIHaBhvWEPuRr5filiQk4tknU0bHvZdMkbicrrSBEUJ8vHEwsCLLB5uyfNEJhZZ2a1Z)
+![](../../../../.gitbook/assets/image%20%2890%29.png)
 
-\*\*\*\*
-
-## Preview Display
+### Preview Display
 
 The Preview setting controls whether the model is to appear in the House Preview screen and also which Preview layout screen. Click within the setting to open up a window which lists all the available Previews. If you have created additional Preview layouts, they will be listed in the window.
 
@@ -78,7 +94,11 @@ The model is assigned to the Preview.
 3. The model is a member of a model group that is assigned to All Previews.
 {% endhint %}
 
-## **Strand / Node Names**
+### **Strand / Node Names**
+
+![](../../../../.gitbook/assets/image%20%2867%29.png)
+
+Click the ellipse button \(three periods\) to edit the Strand / Node Names.
 
 ![](https://lh6.googleusercontent.com/XMPoMja7F3rEsUmo05NOV5o-YE3AuUBsRbR7uYvPiAXJ577aG7XHMetDJwfBzyElRgt9V1FRJO1JvCHbPwjNm5CtQVm1xkpz9n5vbARvS5Hz3OX1EakHOxtbOP9QX-npTlGpfSLa)
 
@@ -88,11 +108,17 @@ Each strand and node can have a name assigned to it. This is useful where for ex
 
 This setting is used to specify the Faces definition for custom models that support Singing faces.
 
+![](../../../../.gitbook/assets/image%20%28240%29.png)
+
+Click the ellipse button \(three periods\) to edit the Faces.
+
 Functionality has been covered in the Singing Faces section.
 
 {% page-ref page="../../../chapter-four-sequencer/singing-faces/" %}
 
-## Dimming Curves
+### Dimming Curves
+
+![](../../../../.gitbook/assets/image%20%28656%29.png)
 
 The Dimming Curves setting can be used to change/reduce the brightness of the lights for a specific model. The intensity of the lights is accordingly changed/reduced from its default value of 100%. Use the "Brightness" slider where you can reduce \(or increase, but 99% of the time, you reduce\) the brightness of the model in the FSEQ. Change the gamma curve of each of the red, blue or green values.
 
@@ -121,15 +147,21 @@ You can select from the options to have a single gamma value or change individua
 It helps when all of your LEDs have the same wavelength of colors in them. If one set has a darker red or blue you'll get different colors out of those on the same values.
 {% endhint %}
 
-## **State**
+### **State**
 
-This setting is used to specify the State definition for custom models that support Singing faces and Coro Tuine to signs. Functionality has been covered in the State Effect section.
+![](../../../../.gitbook/assets/image%20%28724%29.png)
+
+This setting is used to specify the State definition for custom models. Functionality has been covered in the State Effect section.
 
 ## Sub-Models
 
+![](../../../../.gitbook/assets/image%20%2821%29.png)
+
 This setting is used to specify parts of a model to be controlled as if it were its own model. This is used for example if you have a wire frame with 2 arm positions you then can sub model those and control them without the need for adding a 2nd or 3rd model.
 
-![Submodel Dialog](../../../../.gitbook/assets/image%20%28739%29.png)
+Click the ellipse button \(three periods\) to edit the Sub-Models
+
+![Submodel Dialog](../../../../.gitbook/assets/image%20%28753%29.png)
 
 You will find the sub-model listed as parent model name/sub model name. This can be added to groupings and added to sequencing as a stand alone model.
 
@@ -139,11 +171,11 @@ See the Sub-Models Section for more info.
 
 ## **Controller connection**
 
-This setting is used to specify which output of the controller is being used by this model. Right now the only boards currently working are falcon boards. Protocol is the pixel type. Port is the output number on the controller board.
+The Controller Connection settings are used for the Upload to Controller Options in the Setup Tab. Port specify which output of the controller is being used by this model. Protocol is the pixel type or serial type. If a serial protocol is set i.e. DMX the Port setting sets which DMX Port is used on the controller. If the Protocol is set to a pixel protocol i.e. ws2811 the Port setting sets which pixel output is used on the controller board. The additional settings\(Null Pixels, Brightness, Gamma, Color Order, etc\) will override the setting in the controller if checked. Not all controllers support all settings and some controllers only support one setting per controller port.
 
-![](https://lh4.googleusercontent.com/R1Pe6LjDofDItrSuJOySLqkUECJvq6imrwAP7TWk3FTSOKn6UIfAFsVg2viImvUF0X0feesiWGz-hPY9yTU_G8xU9JM_ea0BZcS0J9vn1eMnHrKdslOny2cRolh4BpW61YEKJFNG)
+![](../../../../.gitbook/assets/image%20%2872%29.png)
 
-How this is used is covered under setup tab.
+Upload to Controller is covered under setup tab.
 
 ## String properties
 

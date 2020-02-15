@@ -8,7 +8,7 @@ As an example, I am creating an Arch model and will call it ‘Arch 1’. The ar
 
 Click on the Layout tab, then click on the Arches icon. The selected icon will have a blue square around it.
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 Then click anywhere on the Canvas and drag slightly. An image of an arch will be displayed and an Arch model called ‘Arches’ \(the default name that is assigned to the model may be slightly different\) will be created with a default set of model settings.
 
@@ -16,15 +16,15 @@ Then click anywhere on the Canvas and drag slightly. An image of an arch will be
 
 The start channel is 1. \(You can change this later\). Change the Model name to ‘Arches-1’ or ‘Arch 1’ or anything of your choice.
 
-![](../../.gitbook/assets/image%20%28237%29.png)
+![](../../.gitbook/assets/image%20%28243%29.png)
 
 Change the Nodes Per Arch value to 25.
 
-![](../../.gitbook/assets/image%20%28236%29.png)
+![](../../.gitbook/assets/image%20%28242%29.png)
 
 The end channel \(75\) will be calculated by xLights.
 
-![](../../.gitbook/assets/image%20%28521%29.png)
+![](../../.gitbook/assets/image%20%28531%29.png)
 
 If you are adding a second model, ensure that the start and end channels do not overlap with other models.
 
@@ -42,11 +42,11 @@ Use the blue dots around the model to resize and rotate it if required. To move 
 
 The starting location of the model can be changed to the 'Blue' or 'Green' square.
 
-![](../../.gitbook/assets/image%20%28586%29.png)
+![](../../.gitbook/assets/image%20%28596%29.png)
 
 Click on the Save button \(just below the Models button\) to save the work that you have done so far. This includes the Model definition and its position on the Layout.
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 {% hint style="info" %}
 The 'Save' button will appear red when unsaved changes are present.

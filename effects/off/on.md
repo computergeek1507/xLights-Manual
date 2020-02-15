@@ -1,10 +1,10 @@
 # On
 
-![Icon](../../.gitbook/assets/image%20%28264%29.png)
+![Icon](../../.gitbook/assets/image%20%28270%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28656%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28668%29.png)
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
 The On effect turns every pixel on for a given model/group
 
