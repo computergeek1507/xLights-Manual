@@ -38,11 +38,9 @@ Four options are available:
 
 ![](../../../.gitbook/assets/image%20%28218%29.png)
 
-### OpenGL
+#### OpenGL Version
 
 ![](../../../.gitbook/assets/image%20%28253%29.png)
-
-#### OpenGL Version
 
 The OpenGL setting is used to define what version of the OpenGL API is being used for certain components of xLight rendering of 2D and 3D graphics.
 
