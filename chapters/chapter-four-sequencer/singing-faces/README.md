@@ -38,7 +38,7 @@ The drop down box below the 'Name' selector is used to select the type of face d
 | Node Ranges | Coro Faces with Smart RGB Pixels Faces i.e. Boscoyo Singing Faces |
 | Matrix | Smart RGB Pixels/P5/P10 Matrices |
 
-#### Single Node
+## Single Node
 
 For each phoneme, select the channels that will be turned on. Multiple selections can be selected, by holding down the CTRL key.
 
@@ -50,7 +50,7 @@ If force custom colors is selected, then a specific color to be turned on by def
 
 ![Color Palette](../../../.gitbook/assets/image%20%28827%29.png)
 
-#### Node Ranges
+## Node Ranges
 
 If ‘Node Ranges’ is selected, then the following window will be displayed.
 
@@ -74,7 +74,7 @@ If force custom colors is selected, then a specific color to be turned on by def
 
 ![](../../../.gitbook/assets/image%20%2889%29.png)
 
-#### Matrix
+## Matrix
 
 If a matrix is selected, then the following window will be displayed.
 
@@ -102,7 +102,7 @@ Images used for pictures and faces use the location reference you specify when y
 If the images are in your show directory or in a sub folder inside your show directory, then the image will be found. In other cases , the new location may not be detected.
 {% endhint %}
 
-#### Timing Tracks
+## Timing Tracks
 
 Next add a new Timing track. Right Click on the Row Heading and Select Add Timing Track
 
@@ -116,7 +116,7 @@ Right click on the name of the timing track and Select Rename Timing Track. Chan
 
 If you have more than one Voice, then repeat this process for the second Voice.
 
-### Importing Phrases
+## Importing Phrases
 
 #### Phrases/Lyrics for Voice 1
 
