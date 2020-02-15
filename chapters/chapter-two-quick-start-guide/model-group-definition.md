@@ -12,7 +12,7 @@ Click on the Add Group button. Enter a Model Group Name when prompted. I have ca
 
 ![](../../.gitbook/assets/image%20%2877%29.png)
 
-Next add the models that are part of the Model Group to the group. From the list of models, select the model and click on the right arrow to add to the model group window.
+Next add the models that are part of the Model Group to the group. From the list of models, select the model and click on the right arrow to add to the model group window. Double clicking the model name will also add it to the group.
 
 ![](../../.gitbook/assets/image-774.png)
 
