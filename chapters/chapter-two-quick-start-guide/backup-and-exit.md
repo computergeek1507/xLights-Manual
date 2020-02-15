@@ -4,7 +4,7 @@
 
 Click on the File Menu.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 The drop down list has options to backup files, close the sequence and Quit xLights.
 

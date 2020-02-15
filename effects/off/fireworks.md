@@ -1,10 +1,10 @@
 # Fireworks
 
-![Icon](../../.gitbook/assets/image%20%28134%29.png)
+![Icon](../../.gitbook/assets/image%20%28142%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28594%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28624%29.png)
 
-![](../../.gitbook/assets/image%20%28541%29.png)
+![](../../.gitbook/assets/image%20%28569%29.png)
 
 The Fireworks effect creates a fireworks type of effect of exploding lights in a burst.  Used most effectively on models such as a mega tree or a matrix.
 

@@ -1,10 +1,10 @@
 # Candle
 
-![Icon](../../.gitbook/assets/image%20%28765%29.png)
+![Icon](../../.gitbook/assets/image%20%28805%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28242%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28259%29.png)
 
-![](../../.gitbook/assets/image%20%28183%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 
 

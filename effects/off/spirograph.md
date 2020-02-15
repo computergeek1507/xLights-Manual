@@ -1,10 +1,10 @@
 # Spirograph
 
-![Icon](../../.gitbook/assets/image%20%28555%29.png)
+![Icon](../../.gitbook/assets/image%20%28583%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28651%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28685%29.png)
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28165%29.png)
 
 The Spirograph provides an effect described or formed by rolling a circle inside or outside of another circle. The point is placed at any point on the rolling circle.  Only one color can be used for the effect.
 

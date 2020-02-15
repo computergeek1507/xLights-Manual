@@ -6,13 +6,13 @@ From the Edit menu , you can select the Undo, Cut, Copy and Paste functions and 
 
 You can also use the associated Ctrl keys instead i.e. Ctrl+C and Ctrl+V in this case.  The functionality of each option is self explanatory.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 ### Shift Effects and Shift Selected Effects
 
 These Options allow the user to shift or move the effects in a sequence. This is useful if the effects are not lining up with the music.  This may be due to using a slightly different audio file or looking different on the actual physical lights as compared to that in xLights.
 
-![](../../.gitbook/assets/image%20%28491%29.png)
+![](../../.gitbook/assets/image%20%28516%29.png)
 
 Note that the value entered is in milliseconds. 1 second is equal to 1000 milliseconds.
 

@@ -1,20 +1,20 @@
 # Single Strand
 
-![Icon](../../.gitbook/assets/image%20%28129%29.png)
+![Icon](../../.gitbook/assets/image%20%28136%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28749%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28788%29.png)
 
 {% tabs %}
 {% tab title="Chase" %}
 
 
-![](../../.gitbook/assets/image%20%28678%29.png)
+![](../../.gitbook/assets/image%20%28713%29.png)
 {% endtab %}
 
 {% tab title="Skips" %}
 
 
-![](../../.gitbook/assets/image%20%28178%29.png)
+![](../../.gitbook/assets/image%20%28191%29.png)
 {% endtab %}
 {% endtabs %}
 

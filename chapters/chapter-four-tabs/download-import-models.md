@@ -2,41 +2,41 @@
 
 ### Download/Import Models
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 ### Import Model
 
-![Import Model Button](../../.gitbook/assets/image%20%28404%29.png)
+![Import Model Button](../../.gitbook/assets/image%20%28429%29.png)
 
 After Selecting the Import Model Button, You must click and drag out a box and release on the layout screen to represent the imported model location.
 
-![Empty Model Box](../../.gitbook/assets/image%20%28681%29.png)
+![Empty Model Box](../../.gitbook/assets/image%20%28716%29.png)
 
 Then select the local .xmodel file with the File Select Window
 
 
 
-![File Select Window](../../.gitbook/assets/image%20%28741%29.png)
+![File Select Window](../../.gitbook/assets/image%20%28780%29.png)
 
-![Imported Model ](../../.gitbook/assets/image%20%28196%29.png)
+![Imported Model ](../../.gitbook/assets/image%20%28209%29.png)
 
 The imported model will be the same model type it was exported as. If the .xmodel file contains a custom Model, the imported model will also be a custom model. 
 
 ### Download Model
 
-![Download Model Button](../../.gitbook/assets/image%20%28329%29.png)
+![Download Model Button](../../.gitbook/assets/image%20%28351%29.png)
 
 After Selecting the Download Model button, You must click and drag out a box and release on the layout screen to represent the downloaded model location.
 
-![Empty Model Box](../../.gitbook/assets/image%20%28681%29.png)
+![Empty Model Box](../../.gitbook/assets/image%20%28716%29.png)
 
 The Model Dialog will appear where you can select the desired model you would like to insert.
 
-![Download Model Dialog](../../.gitbook/assets/image%20%28449%29.png)
+![Download Model Dialog](../../.gitbook/assets/image%20%28474%29.png)
 
 Click Insert and Model will be added to your layout.
 
-![ChromaFlake Model](../../.gitbook/assets/image%20%28602%29.png)
+![ChromaFlake Model](../../.gitbook/assets/image%20%28632%29.png)
 
 {% hint style="info" %}
 Models for supported built in model types like trees, stars, wreaths\(circle model\) will NOT appear in the download model dialog.

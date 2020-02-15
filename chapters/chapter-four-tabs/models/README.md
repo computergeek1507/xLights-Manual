@@ -12,7 +12,7 @@ Refer to the View section on how this can be automated using Views.  A model is 
 
 At the top of the layout screen is a row of Model icons. If you hover the cursor on each icon, the model name will be displayed. The model icons represent an Arch, Candy Cane, Circle, Custom model, Icicles Matrix, Single Line, Spinner, Star, Tree, Window Frame, Wreath and Import Custom. The last icon labelled ‘Import’ Custom enables you to import and create a custom model that has been exported from another sequence.
 
-![](../../../.gitbook/assets/image%20%28200%29.png)
+![](../../../.gitbook/assets/image%20%28213%29.png)
 
 To define a new Model, click on the Model icon that you wish to create once. The model icon will have a dark blue square around it. Then with your mouse left button click on the layout canvas , and keep your mouse button still held down. The model shape will appear on the canvas in yellow. If it does not , then left click on the canvas and drag slightly. At the same time , a model is created and displayed in the Model panel that is normally to the left of the Layout screen.
 
@@ -94,7 +94,7 @@ Once a model has been defined, a quick way to duplicate definitions is to select
 
 ## Right Click Menu
 
-![](../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2860%29.png)
 
 {% hint style="info" %}
 The Right Click Menu has some entries that don't apply to individual models and they will not be covered in this section.
@@ -108,13 +108,13 @@ This will resize the model so the number of node in the vertical and horizontal 
 
 The node layout  window is then displayed. The s1, s2, etc. represent the string numbers, the n1,n2,n3,etc represent the node count.
 
-![Node Layout Dialog](../../../.gitbook/assets/image%20%28754%29.png)
+![Node Layout Dialog](../../../.gitbook/assets/image%20%28793%29.png)
 
 ### Lock
 
 Lock a model in place to prevent it from being moved. The Model handles will appear red when a model is locked.
 
-![](../../../.gitbook/assets/image%20%28298%29.png)
+![](../../../.gitbook/assets/image%20%28320%29.png)
 
 ### Unlock
 
@@ -128,7 +128,7 @@ Create a Custom Model file from a built in Model Type. Use only if you wire your
 
 Displays a view of how to wire your model based on the Model properties. This can be saved or printed by right clicking on the dialog.
 
-![](../../../.gitbook/assets/image%20%28314%29.png)
+![](../../../.gitbook/assets/image%20%28336%29.png)
 
 ### Export xLights Model
 

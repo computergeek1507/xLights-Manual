@@ -1,10 +1,10 @@
 # Snow Storm
 
-![Icon](../../.gitbook/assets/image%20%28122%29.png)
+![Icon](../../.gitbook/assets/image%20%28128%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28736%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28774%29.png)
 
-![](../../.gitbook/assets/image%20%28369%29.png)
+![](../../.gitbook/assets/image%20%28392%29.png)
 
 The Snow Storm effect paints a picture of particles blowing i.e. a similar to an ice or dust storm.  One or multiple colors can be used for the effect.
 

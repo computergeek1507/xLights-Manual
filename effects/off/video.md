@@ -1,10 +1,10 @@
 # Video
 
-![Icon](../../.gitbook/assets/image%20%28282%29.png)
+![Icon](../../.gitbook/assets/image%20%28303%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28367%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28390%29.png)
 
-![](../../.gitbook/assets/image%20%28606%29.png)
+![](../../.gitbook/assets/image%20%28637%29.png)
 
 The Video effect enables a video media file to be selected and directly played as a video clip sequence.  A video file that will be used for the effect. Supported file types are \*.mp4, \*.mpg, \*.avi, \*.mov, \*.flv, \*.mkv and \*.asf files.
 

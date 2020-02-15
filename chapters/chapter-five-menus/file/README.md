@@ -8,7 +8,7 @@ The File menu enables you to create a new xLights sequence, open an existing xLi
 
 If you click on the File menu, at the bottom, last four show directories that have been used will be displayed.
 
-![Recent Show directory List](../../../.gitbook/assets/image%20%28456%29.png)
+![Recent Show directory List](../../../.gitbook/assets/image%20%28524%29.png)
 
 If you select any of the items listed, your show directory will be changed to the selected directory.
 
@@ -54,23 +54,43 @@ To close the currently open sequence, select Close Sequence from the File menu. 
 
 Click on Save Changes if you want to save your changes. If you click Cancel then you will be returned to the sequence. If you select and click Discard Changes, then the sequence will be closed without any sequence changes being saved.
 
+### Preferences
+
+![](../../../.gitbook/assets/image%20%28293%29.png)
+
+The Preferences Dialog allows the user to set all the global settings in xLights. These settings are stored in the system register and are persistent between show folders.
+
+{% page-ref page="settings.md" %}
+
+![Preferences Dialog](../../../.gitbook/assets/image%20%28135%29.png)
+
+### Sequence Setting
+
+![](../../../.gitbook/assets/image%20%28673%29.png)
+
+The Sequence Settings Dialog allows the user to edit all the settings for the currently open sequence. See Sequence Settings page for more information.
+
+{% page-ref page="sequence-settings/" %}
+
+![Sequence Setting](../../../.gitbook/assets/image%20%28273%29.png)
+
+### Export House Preview Video
+
+The Export House Preview Video feature will "Play" the loaded sequence and create a video file of the House Preview Window. The video resolution of the resulting file is based on House Preview size. It is recommended you make the House Preview Window as large as possible before selecting this option. 
+
+![](../../../.gitbook/assets/image%20%28536%29.png)
+
 ### ![](../../../.gitbook/assets/show-directory-icon.JPG) Select Show Folder
 
 In order to change your show Directory, select Select Show Folder from the File menu, press F9 or click on the Change button against the Show Directory on the Setup tab.You will be prompted to navigate to and select a new directory folder to select.
 
 Ensure that you have the correct xLights XML files \(xlights\_keybindings.xml, xlights\_networks.xml and xlights\_rgbeffects.xml\) in your new directory.
 
-### Export House Preview Video
-
-The Export House Preview Video feature will "Play" the loaded sequence and create a video file of the House Preview Window. The video resolution of the resulting file is based on House Preview size. It is recommended you make the House Preview Window as large as possible before selecting this option. 
-
-![](../../../.gitbook/assets/image%20%28560%29.png)
-
 ### Backup
 
 The Backup Menu item allows you to manually trigger a backup of the show folder.
 
-![](../../../.gitbook/assets/image%20%28315%29.png)
+![](../../../.gitbook/assets/image%20%28775%29.png)
 
 You will be presented will a message indicating where a backup will be created. Click Yes to proceed.  
 Every time this step is executed, a copy will be created of all the ‘\*xml’ files from your show directory into the Backup subdirectory of your show directory.  A new subfolder is created each time a backup is executed.
@@ -91,7 +111,7 @@ The Alternate Backup function enables you to specify and use a different locatio
 
 Press F11 or select this function from the File menu. The first time you use this function, you will be prompted for the location that you wish to back the files to.  Navigate to the required location and select the folder. The prompts after that are similar to the Backup functions.
 
-![](../../../.gitbook/assets/image%20%28684%29.png)
+![](../../../.gitbook/assets/image%20%28751%29.png)
 
 Subsequently, Pressing F11 will save the files to the specified location.  You can change this location via the Settings, Alt Backup Location menu.
 

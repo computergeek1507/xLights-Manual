@@ -1,10 +1,10 @@
 # Twinkle
 
-![Icon](../../.gitbook/assets/image%20%28320%29.png)
+![Icon](../../.gitbook/assets/image%20%28342%29.png)
 
-![Sequencer Grid](../../.gitbook/assets/image%20%28755%29.png)
+![Sequencer Grid](../../.gitbook/assets/image%20%28794%29.png)
 
-![](../../.gitbook/assets/image%20%28657%29.png)
+![](../../.gitbook/assets/image%20%28692%29.png)
 
 The Twinkle effect provides an effect of individual particles turning off and on slowly or rapidly, similar to the shimmer effect but with a different and more random implementation.  One or multiple colors can be used for the effect.
 
