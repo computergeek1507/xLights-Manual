@@ -102,8 +102,6 @@ The Right Click Menu has some entries that don't apply to individual models and 
 
 ### Reset
 
-### Correct Aspect Ratio
-
 Resets the Current Window View to the default.  
 
 ### Correct Aspect Ratio
