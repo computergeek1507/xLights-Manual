@@ -36,7 +36,7 @@ Location of the first pixel or first channel location. "Green Square" means the 
 
 ### Controller
 
-xLights has two system to define model start channel location. If the controller dropdown is set to a controller name specified in the setup tab, the start channel will be auto generated based on the Controller Port and Model Chaining settings.
+xLights has two systems to define model start channel locations. If the controller dropdown is set to a controller name specified in the setup tab, the start channel will be auto generated based on the Controller Port and Model Chaining settings.
 
 ![](../../../../.gitbook/assets/image%20%28509%29.png)
 
